@@ -1,0 +1,758 @@
+@relation 'timetagging-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-C-T-I-N0-stemmerweka.core.stemmers.NullStemmer-M1-O-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"-weka.filters.unsupervised.attribute.Reorder-R2-last,1'
+
+@attribute * numeric
+@attribute + numeric
+@attribute अंकों numeric
+@attribute अंग्रेजी numeric
+@attribute अंटार्कटिक numeric
+@attribute अंडकोश numeric
+@attribute अंदर numeric
+@attribute अक्षर numeric
+@attribute अच्छी numeric
+@attribute अतिप्रिय numeric
+@attribute अथवा numeric
+@attribute अधिक numeric
+@attribute अधिकार numeric
+@attribute अधिकारी numeric
+@attribute अनिष्ट numeric
+@attribute अनुमान numeric
+@attribute अनुसरण numeric
+@attribute अनौचित्य numeric
+@attribute अन्दर numeric
+@attribute अन्य numeric
+@attribute अपनी numeric
+@attribute अपने numeric
+@attribute अपराधों numeric
+@attribute अफ्रीका numeric
+@attribute अब numeric
+@attribute अभिप्राय numeric
+@attribute अभिमान numeric
+@attribute अभी numeric
+@attribute अभीष्ट numeric
+@attribute अमुक numeric
+@attribute अवश्य numeric
+@attribute अवस्था numeric
+@attribute अवस्थाओं numeric
+@attribute असाधारण numeric
+@attribute आगामी numeric
+@attribute आगे numeric
+@attribute आगे-पीछे numeric
+@attribute आज numeric
+@attribute आता numeric
+@attribute आदि numeric
+@attribute आधा numeric
+@attribute आधुनिक numeric
+@attribute आनंद numeric
+@attribute आने numeric
+@attribute आनेवाला numeric
+@attribute आनेवाले numeric
+@attribute आया numeric
+@attribute आरम्भ numeric
+@attribute आर्कटिक numeric
+@attribute आर्द्रा numeric
+@attribute आवाज़ numeric
+@attribute आवास numeric
+@attribute आशा numeric
+@attribute आश्वस्त numeric
+@attribute आश्विन numeric
+@attribute आसानी numeric
+@attribute आहार numeric
+@attribute आहार-विज्ञान numeric
+@attribute इकतीसवाँ numeric
+@attribute इच्छा numeric
+@attribute इतना numeric
+@attribute इनकार numeric
+@attribute इस numeric
+@attribute इसी numeric
+@attribute इसे numeric
+@attribute इस्राइल numeric
+@attribute ईश्वर numeric
+@attribute उक्त numeric
+@attribute उच्च numeric
+@attribute उच्चारण numeric
+@attribute उठने numeric
+@attribute उठनेवाला numeric
+@attribute उत्तर numeric
+@attribute उत्तरदायी numeric
+@attribute उत्पन्न numeric
+@attribute उत्सुकता numeric
+@attribute उद्दिष्ट numeric
+@attribute उद्देश्य numeric
+@attribute उन्हें numeric
+@attribute उपन्यास numeric
+@attribute उपयोगिता numeric
+@attribute उपरांत numeric
+@attribute उभरी numeric
+@attribute उलटा numeric
+@attribute उल्लंघन numeric
+@attribute उष्णता numeric
+@attribute उस numeric
+@attribute उसकी numeric
+@attribute उसको numeric
+@attribute उसपर numeric
+@attribute उससे numeric
+@attribute उसे numeric
+@attribute ऊँचा numeric
+@attribute ऊपर numeric
+@attribute एक numeric
+@attribute एकादशी numeric
+@attribute एवं numeric
+@attribute ऐसी numeric
+@attribute ओर numeric
+@attribute और numeric
+@attribute औषध numeric
+@attribute कथन numeric
+@attribute कथा numeric
+@attribute कथानक numeric
+@attribute कन्याराशि numeric
+@attribute कभी numeric
+@attribute कम numeric
+@attribute कमी numeric
+@attribute कम्प्यूटर numeric
+@attribute कर numeric
+@attribute करके numeric
+@attribute करता numeric
+@attribute करती numeric
+@attribute करते numeric
+@attribute करना numeric
+@attribute करने numeric
+@attribute करनेवाला numeric
+@attribute करनेवाली numeric
+@attribute कर्क numeric
+@attribute कल numeric
+@attribute कलकल numeric
+@attribute कह numeric
+@attribute कहकर numeric
+@attribute कहते numeric
+@attribute कहना numeric
+@attribute कही numeric
+@attribute कहीं numeric
+@attribute कहे numeric
+@attribute का numeric
+@attribute कानों numeric
+@attribute काफी numeric
+@attribute काम numeric
+@attribute कामना numeric
+@attribute कारण numeric
+@attribute कार्तिक numeric
+@attribute कार्य numeric
+@attribute कार्यों numeric
+@attribute काल numeric
+@attribute काश्मीर numeric
+@attribute कि numeric
+@attribute किए numeric
+@attribute कितनी numeric
+@attribute किया numeric
+@attribute किस numeric
+@attribute किसी numeric
+@attribute की numeric
+@attribute कुछ numeric
+@attribute कृष्ण numeric
+@attribute कृष्णपक्ष numeric
+@attribute के numeric
+@attribute को numeric
+@attribute कोई numeric
+@attribute कोयल numeric
+@attribute क्या numeric
+@attribute क्रम numeric
+@attribute क्रांतिकारी numeric
+@attribute क्रिया numeric
+@attribute क्रियाओं numeric
+@attribute क्वार numeric
+@attribute क्षण numeric
+@attribute खाद्य numeric
+@attribute खाना numeric
+@attribute खोज numeric
+@attribute गई numeric
+@attribute गए numeric
+@attribute गतिविधि numeric
+@attribute गया numeric
+@attribute गले numeric
+@attribute गाँव numeric
+@attribute गिनती numeric
+@attribute गिनी numeric
+@attribute गिरता numeric
+@attribute गुदा numeric
+@attribute गुप्त numeric
+@attribute गोलियाँ numeric
+@attribute ग्राम numeric
+@attribute घट numeric
+@attribute घटना numeric
+@attribute घटनाओं numeric
+@attribute घटने numeric
+@attribute घर numeric
+@attribute चतुराई numeric
+@attribute चतुर्थी numeric
+@attribute चन्द्र numeric
+@attribute चन्द्रमा numeric
+@attribute चरित्र numeric
+@attribute चल numeric
+@attribute चलकर numeric
+@attribute चलता numeric
+@attribute चान्द्र numeric
+@attribute चारों numeric
+@attribute चाहिए numeric
+@attribute चिढ़ाने numeric
+@attribute चुका numeric
+@attribute चुना numeric
+@attribute छाप numeric
+@attribute छापकर numeric
+@attribute छोड़कर numeric
+@attribute छोड़ना numeric
+@attribute जनवरी numeric
+@attribute जन्म numeric
+@attribute जब numeric
+@attribute जम्मू numeric
+@attribute जल numeric
+@attribute जल्दी-जल्दी numeric
+@attribute जहाँ numeric
+@attribute जा numeric
+@attribute जाँच numeric
+@attribute जाए numeric
+@attribute जाएगा numeric
+@attribute जाता numeric
+@attribute जाती numeric
+@attribute जानने numeric
+@attribute जाने numeric
+@attribute जानेवाला numeric
+@attribute जानेवाली numeric
+@attribute जिज्ञासा numeric
+@attribute जितना numeric
+@attribute जिस numeric
+@attribute जिसका numeric
+@attribute जिसकी numeric
+@attribute जिसके numeric
+@attribute जिसने numeric
+@attribute जिसपर numeric
+@attribute जिसमें numeric
+@attribute जिससे numeric
+@attribute जिसे numeric
+@attribute जीत numeric
+@attribute जैसी numeric
+@attribute जो numeric
+@attribute जोतते numeric
+@attribute जोर numeric
+@attribute ज्ञान numeric
+@attribute ज्येष्ठ numeric
+@attribute ज्योति numeric
+@attribute ज्योतिषानुसार numeric
+@attribute झील numeric
+@attribute टुकड़ा numeric
+@attribute ट्यूनीश numeric
+@attribute डालना numeric
+@attribute ढंग numeric
+@attribute तंत्र-मंत्र numeric
+@attribute तक numeric
+@attribute तब numeric
+@attribute तरफ़ numeric
+@attribute तरह numeric
+@attribute तराई numeric
+@attribute ताप numeric
+@attribute तापकारक numeric
+@attribute तासीर numeric
+@attribute तिथि numeric
+@attribute तीसरी numeric
+@attribute तुरंत numeric
+@attribute त्यागने numeric
+@attribute थोड़ा numeric
+@attribute दण्ड numeric
+@attribute दर्शाता numeric
+@attribute दल numeric
+@attribute दिखाने numeric
+@attribute दिखाया numeric
+@attribute दिन numeric
+@attribute दिलाने numeric
+@attribute दिशा numeric
+@attribute दिसम्बर numeric
+@attribute दी numeric
+@attribute दुखी numeric
+@attribute दुनिया numeric
+@attribute दुहाई numeric
+@attribute दूर numeric
+@attribute दूसरी numeric
+@attribute दूसरे numeric
+@attribute दूसरों numeric
+@attribute दृढ़तापूर्वक numeric
+@attribute दृष्टि numeric
+@attribute देखने numeric
+@attribute देखी numeric
+@attribute देता numeric
+@attribute देते numeric
+@attribute देने numeric
+@attribute देनेवाला numeric
+@attribute देवता numeric
+@attribute देवनागरी numeric
+@attribute देवी numeric
+@attribute द्वारा numeric
+@attribute धँसने numeric
+@attribute धीरे-धीरे numeric
+@attribute धृष्टता numeric
+@attribute धृष्टतापूर्वक numeric
+@attribute ध्यान numeric
+@attribute न numeric
+@attribute नई numeric
+@attribute नक्षत्र numeric
+@attribute नज़दीक numeric
+@attribute नदी numeric
+@attribute नष्ट numeric
+@attribute नहीं numeric
+@attribute नागरिक numeric
+@attribute निकलकर numeric
+@attribute निकाला numeric
+@attribute निजी numeric
+@attribute निपुण numeric
+@attribute नियंत्रण numeric
+@attribute निवासी numeric
+@attribute निश्चित numeric
+@attribute नीचा numeric
+@attribute नीचे numeric
+@attribute ने numeric
+@attribute नौवीं numeric
+@attribute पंचमी numeric
+@attribute पंचायत numeric
+@attribute पंजाब numeric
+@attribute पक्ष numeric
+@attribute पक्षी numeric
+@attribute पड़ता numeric
+@attribute पड़े numeric
+@attribute पत्थर numeric
+@attribute पत्नी numeric
+@attribute पद numeric
+@attribute पदार्थ numeric
+@attribute पर numeric
+@attribute परस्थिति numeric
+@attribute परिभाषा numeric
+@attribute परिवर्तन numeric
+@attribute परेशानी numeric
+@attribute पर्वत numeric
+@attribute पहना numeric
+@attribute पहला numeric
+@attribute पहले numeric
+@attribute पहुँचकर numeric
+@attribute पहुँचाने numeric
+@attribute पाए numeric
+@attribute पानी numeric
+@attribute पायी numeric
+@attribute पार numeric
+@attribute पास numeric
+@attribute पासपोर्ट numeric
+@attribute पीछे numeric
+@attribute पीड़ा numeric
+@attribute पुराने numeric
+@attribute पुलिस numeric
+@attribute पूजा numeric
+@attribute पूज्य numeric
+@attribute पूरा numeric
+@attribute पूरी numeric
+@attribute पूर्ण numeric
+@attribute पूर्णिमा numeric
+@attribute पूर्व numeric
+@attribute पूर्वा-फाल्गुनी numeric
+@attribute पृथ्वी numeric
+@attribute पेश numeric
+@attribute पोषण numeric
+@attribute प्रकट numeric
+@attribute प्रकार numeric
+@attribute प्रकाश numeric
+@attribute प्रचलित numeric
+@attribute प्रतिपादन numeric
+@attribute प्रत्याशा numeric
+@attribute प्रत्येक numeric
+@attribute प्रदर्शित numeric
+@attribute प्रधान numeric
+@attribute प्रभाव numeric
+@attribute प्रमाणित numeric
+@attribute प्रमुख numeric
+@attribute प्रयोग numeric
+@attribute प्रवाह numeric
+@attribute प्रवृत्त numeric
+@attribute प्रशासनिक numeric
+@attribute प्राकृतिक numeric
+@attribute प्राचीन numeric
+@attribute प्राण numeric
+@attribute प्रातःकाल numeric
+@attribute प्राप्त numeric
+@attribute प्रायः numeric
+@attribute प्राविधान numeric
+@attribute प्रिय numeric
+@attribute फाल numeric
+@attribute फाल्गुन numeric
+@attribute बंदूक numeric
+@attribute बड़ा numeric
+@attribute बड़े numeric
+@attribute बतलाए numeric
+@attribute बताए numeric
+@attribute बताता numeric
+@attribute बतानेवाला numeric
+@attribute बदलकर numeric
+@attribute बनती numeric
+@attribute बना numeric
+@attribute बनाना numeric
+@attribute बहुत numeric
+@attribute बाजी numeric
+@attribute बात numeric
+@attribute बातें numeric
+@attribute बातों numeric
+@attribute बाद numeric
+@attribute बाप-दादा numeric
+@attribute बारे numeric
+@attribute बिना numeric
+@attribute बीच numeric
+@attribute बीता numeric
+@attribute बीती numeric
+@attribute बीते numeric
+@attribute बेरोक-टोक numeric
+@attribute बोलना numeric
+@attribute बोली numeric
+@attribute भक्त numeric
+@attribute भरा numeric
+@attribute भविष्य numeric
+@attribute भाग numeric
+@attribute भाद्रपद numeric
+@attribute भाद्रपदी numeric
+@attribute भारत numeric
+@attribute भारतीय numeric
+@attribute भाव numeric
+@attribute भाषा numeric
+@attribute भी numeric
+@attribute भूमि numeric
+@attribute मकर numeric
+@attribute मध्य numeric
+@attribute मध्यम numeric
+@attribute मन numeric
+@attribute मनोवेग numeric
+@attribute मरने numeric
+@attribute महत्व numeric
+@attribute महीना numeric
+@attribute महीने numeric
+@attribute माघ numeric
+@attribute मात्रा numeric
+@attribute मान्य numeric
+@attribute मार्ग numeric
+@attribute मार्गशीर्ष numeric
+@attribute मास numeric
+@attribute माह numeric
+@attribute मिल numeric
+@attribute मिलनेवाला numeric
+@attribute मीठे numeric
+@attribute मुखिया numeric
+@attribute मुख्यतः numeric
+@attribute मुगल numeric
+@attribute मूर्धन्य numeric
+@attribute मूर्धा numeric
+@attribute मे numeric
+@attribute में numeric
+@attribute मोर numeric
+@attribute मौत numeric
+@attribute यह numeric
+@attribute यहाँ numeric
+@attribute या numeric
+@attribute यूनान numeric
+@attribute रखना numeric
+@attribute रह numeric
+@attribute रहता numeric
+@attribute रहने numeric
+@attribute रहनेवाली numeric
+@attribute रहनेवाले numeric
+@attribute रहा numeric
+@attribute रही numeric
+@attribute राजधानी numeric
+@attribute राजी numeric
+@attribute राज्य numeric
+@attribute राष्ट्र numeric
+@attribute रिश्ता numeric
+@attribute रीति numeric
+@attribute रूप numeric
+@attribute रेखा numeric
+@attribute रोगों numeric
+@attribute रोजगार numeric
+@attribute रोने numeric
+@attribute लगातार numeric
+@attribute लगाया numeric
+@attribute लाक्षणिक numeric
+@attribute लागू numeric
+@attribute लाना numeric
+@attribute लिए numeric
+@attribute लिखकर numeric
+@attribute लिखित numeric
+@attribute लिखी numeric
+@attribute लिपि numeric
+@attribute लिया numeric
+@attribute लेना numeric
+@attribute लोग numeric
+@attribute लोगों numeric
+@attribute व numeric
+@attribute वंश numeric
+@attribute वक़्त numeric
+@attribute वर्णमाला numeric
+@attribute वर्तमान numeric
+@attribute वस्तु numeric
+@attribute वस्तुओं numeric
+@attribute वह numeric
+@attribute वाँछित numeric
+@attribute वादा numeric
+@attribute वाला numeric
+@attribute वाली numeric
+@attribute विचार numeric
+@attribute विजय numeric
+@attribute विज्ञान numeric
+@attribute विदेश numeric
+@attribute विद्यमान numeric
+@attribute विपत्ति numeric
+@attribute विरुद्ध numeric
+@attribute विलक्ष्ण numeric
+@attribute विशेष numeric
+@attribute विशेषकर numeric
+@attribute विशेषज्ञ numeric
+@attribute विशेषताओं numeric
+@attribute विश्व numeric
+@attribute विषय numeric
+@attribute वृक्ष numeric
+@attribute वेद numeric
+@attribute वेदों numeric
+@attribute वैज्ञानिक numeric
+@attribute व्यंजन numeric
+@attribute व्यक्ति numeric
+@attribute व्यक्तियों numeric
+@attribute व्यवहार numeric
+@attribute व्याकरण numeric
+@attribute व्रत numeric
+@attribute शब्द numeric
+@attribute शरीर numeric
+@attribute शहर numeric
+@attribute शासक numeric
+@attribute शिक्षा numeric
+@attribute शिखर numeric
+@attribute शुक्ल numeric
+@attribute शुभ numeric
+@attribute संकट numeric
+@attribute संख्या numeric
+@attribute संग-यशब numeric
+@attribute संग्राम numeric
+@attribute संदर्भित numeric
+@attribute संपादित numeric
+@attribute संबंधित numeric
+@attribute संबंधी numeric
+@attribute संभावनावाली numeric
+@attribute संस्था numeric
+@attribute संहिता numeric
+@attribute सकता numeric
+@attribute सके numeric
+@attribute सत्ता numeric
+@attribute सत्यता numeric
+@attribute सब numeric
+@attribute सबसे numeric
+@attribute समझ numeric
+@attribute समय numeric
+@attribute समाज numeric
+@attribute समुद्र numeric
+@attribute सरकार numeric
+@attribute सर्कल numeric
+@attribute सर्व numeric
+@attribute सलाह numeric
+@attribute सहमत numeric
+@attribute सा numeric
+@attribute साथ numeric
+@attribute साधारण numeric
+@attribute सामने numeric
+@attribute सामान्य numeric
+@attribute सारी numeric
+@attribute सिद्धांतों numeric
+@attribute सीखा numeric
+@attribute सीमा numeric
+@attribute सुखदायक numeric
+@attribute सुनने numeric
+@attribute सुनी numeric
+@attribute सुन्दर numeric
+@attribute सुविधाजनक numeric
+@attribute सूचक numeric
+@attribute सूझ numeric
+@attribute सूबे numeric
+@attribute सूर्य numeric
+@attribute से numeric
+@attribute सेना numeric
+@attribute सेवा numeric
+@attribute सोच numeric
+@attribute सौ numeric
+@attribute स्त्रीवाचक numeric
+@attribute स्थल numeric
+@attribute स्थान numeric
+@attribute स्थापित numeric
+@attribute स्थिति numeric
+@attribute स्पष्ट numeric
+@attribute स्वतंत्रता numeric
+@attribute स्वर numeric
+@attribute स्वस्थ numeric
+@attribute हटना numeric
+@attribute हद numeric
+@attribute हमें numeric
+@attribute हर numeric
+@attribute हल numeric
+@attribute हानि numeric
+@attribute हारती numeric
+@attribute हाल numeric
+@attribute हिंदी numeric
+@attribute हिमालय numeric
+@attribute ही numeric
+@attribute हुआ numeric
+@attribute हुई numeric
+@attribute हुए numeric
+@attribute हृदय numeric
+@attribute हेतु numeric
+@attribute है numeric
+@attribute हैं numeric
+@attribute हो numeric
+@attribute होकर numeric
+@attribute होता numeric
+@attribute होती numeric
+@attribute होना numeric
+@attribute होने numeric
+@attribute होनेवाला numeric
+@attribute tense {temporal,atemporal}
+
+@data
+
+{0 2.683312,145 1.000525,239 3.444812,441 0.7615,446 0.407423,498 3.444812,525 3.444812,533 3.444812,578 2.483906,608 atemporal}
+{24 3.444812,31 2.964359,97 2.683312,114 2.003453,139 2.202859,153 3.444812,191 2.964359,224 2.683312,289 1.921812,314 3.444812,441 0.7615,444 2.683312,566 3.444812,608 atemporal}
+{13 3.444812,68 3.444812,73 3.444812,94 1.615557,128 1.021218,149 0.821812,207 3.444812,339 2.964359,446 0.407423,570 2.964359,608 atemporal}
+{162 3.444812,226 2.683312,229 0.960906,283 2.483906,339 4.698398,446 0.407423,455 3.444812,489 3.444812,601 1.353648,608 atemporal}
+{106 2.964359,130 3.444812,242 2.964359,254 3.444812,319 1.523,342 3.444812,551 3.444812,584 3.444812,608 atemporal}
+{94 1.615557,149 0.821812,155 3.444812,362 2.683312,411 2.683312,528 3.444812,580 3.444812,608 atemporal}
+{144 1.11078,168 2.964359,441 0.7615,453 3.444812,479 3.444812,608 atemporal}
+{144 1.11078,145 1.000525,149 0.821812,189 2.683312,250 2.964359,251 3.444812,311 2.202859,430 2.683312,608 atemporal}
+{137 1.921812,398 2.964359,446 0.407423,543 1.33451,594 2.003453}
+{107 3.444812,151 1.782718,224 2.683312,229 0.960906,245 2.964359,289 1.921812,343 2.683312,344 3.444812,405 3.444812,446 0.64575,569 0.941915,594 2.003453,601 1.353648,608 atemporal}
+{54 3.444812,145 1.000525,149 0.821812,158 3.444812,345 3.444812,424 2.683312,446 0.407423,608 atemporal}
+{56 5.459898,57 3.444812,78 3.444812,99 2.09601,128 1.021218,139 2.202859,141 3.444812,142 2.329235,143 3.444812,149 1.302541,150 1.441359,161 3.444812,191 2.964359,222 2.683312,229 1.523,232 2.964359,276 3.444812,350 3.444812,352 2.329235,371 2.683312,426 3.444812,440 3.444812,441 0.7615,444 2.683312,446 0.64575,451 3.444812,472 2.202859,480 2.964359,488 1.271453,495 2.964359,503 3.444812,549 3.444812,582 3.444812,601 1.708114,608 atemporal}
+{176 2.964359,193 3.444812,229 0.960906,601 0.854057}
+{34 3.444812,119 2.964359,149 0.821812,150 1.441359,260 2.003453,393 2.329235,491 1.848782}
+{18 3.444812,22 3.444812,96 3.444812,115 1.782718,128 1.021218,138 3.444812,139 2.202859,140 3.444812,144 1.11078,145 1.585795,146 2.202859,149 1.302541,150 1.441359,164 3.444812,197 3.444812,202 3.444812,229 0.960906,255 3.444812,283 2.483906,295 2.964359,296 3.444812,319 1.523,321 3.444812,373 3.444812,410 5.366624,414 2.202859,470 3.444812,481 3.444812,492 2.683312,535 3.444812,570 2.964359,604 3.444812,608 atemporal}
+{106 2.964359,145 1.000525,151 1.782718,205 2.964359,289 1.921812,388 2.683312,446 0.407423,450 3.444812,512 2.003453,513 3.444812,526 3.444812,593 2.329235,601 1.353648,608 atemporal}
+{30 2.964359,99 2.09601,303 2.964359,320 3.444812,441 0.7615,462 2.329235,569 0.941915,586 3.444812,608 atemporal}
+{144 1.11078,150 1.441359,275 3.444812,288 2.483906,390 1.722406,399 3.444812,441 0.7615,446 0.407423,471 3.444812,562 3.444812,595 2.683312}
+{128 1.021218,311 3.491449,446 0.407423,531 2.329235,569 0.941915,608 atemporal}
+{81 3.444812,144 1.11078,149 1.302541,381 3.444812,393 2.329235,441 1.206949,446 0.64575,529 3.444812,543 2.115148}
+{98 2.964359,190 2.964359,292 3.444812,441 0.7615,608 atemporal}
+{37 2.483906,43 2.329235,149 0.821812,260 2.003453,326 2.964359,393 2.329235,491 1.848782}
+{26 3.444812,71 3.444812,133 2.683312,142 2.329235,144 1.11078,149 0.821812,206 2.683312,221 2.683312,371 2.683312,390 1.722406,395 3.444812,412 2.329235,419 2.329235,422 2.964359,441 1.206949,446 0.64575,486 2.683312,488 1.271453,537 2.964359,601 0.854057,608 atemporal}
+{3 3.444812,38 2.964359,99 3.322097,128 1.021218,149 1.908188,199 3.444812,229 0.960906,263 3.444812,327 2.003453,393 2.329235,397 2.964359,423 3.444812,424 2.683312,425 3.444812,429 3.444812,441 0.7615,599 1.567735,608 atemporal}
+{39 1.615557,80 3.444812,99 2.09601,146 2.202859,219 3.69175,220 2.329235,269 3.444812,313 2.964359,319 1.523,360 2.964359,392 2.683312,422 2.964359,427 3.444812,446 0.407423,501 2.964359,601 1.708114,608 atemporal}
+{11 6.889624,217 2.964359,446 0.407423,536 2.964359,541 2.964359,569 0.941915,601 1.353648,608 atemporal}
+{144 1.11078,145 1.000525,149 0.821812,189 2.683312,250 2.964359,307 3.444812,311 2.202859,430 2.683312,608 atemporal}
+{114 2.003453,125 2.964359,128 1.021218,129 3.444812,232 2.964359,371 2.683312,390 1.722406,446 0.407423,517 2.964359,569 0.941915,595 2.683312,608 atemporal}
+{62 1.921812,135 2.202859,322 3.444812,446 0.407423,506 3.444812,543 1.33451,565 3.444812}
+{145 1.000525,147 2.964359,149 0.821812,308 3.444812,311 2.202859,376 3.444812,431 3.444812,608 atemporal}
+{33 2.964359,43 2.329235,70 2.964359,144 1.11078,150 1.441359,274 2.964359,288 2.483906,290 2.964359,319 1.523,358 2.964359,390 1.722406,412 2.329235,419 2.329235,441 1.206949,446 0.64575,491 1.848782,500 2.964359,561 2.964359,605 2.683312,608 atemporal}
+{441 0.7615,446 0.407423,462 2.329235,555 4.698398,569 0.941915,578 2.483906,608 atemporal}
+{62 3.046,98 2.964359,244 3.444812,446 0.407423,608 atemporal}
+{150 1.441359,222 2.683312,227 2.964359,319 1.523,332 3.444812,446 0.407423,477 3.444812,494 3.444812,505 5.459898,601 1.353648,608 atemporal}
+{40 3.444812,229 1.523,245 2.964359,289 1.921812,343 2.683312,446 0.407423,457 3.444812,550 3.444812,569 0.941915,601 1.353648,608 atemporal}
+{60 3.444812,62 1.921812,319 2.413898,414 3.491449,446 0.407423,606 1.848782,608 atemporal}
+{23 5.459898,128 1.021218,446 0.407423,531 2.329235,569 0.941915,608 atemporal}
+{32 2.683312,35 2.683312,137 1.921812,145 1.000525,150 1.441359,157 2.683312,229 0.960906,382 2.683312,441 0.7615,446 0.407423,485 2.09601,488 1.271453,515 2.683312,543 1.33451,569 0.941915,599 1.567735}
+{37 2.483906,94 1.615557,149 0.821812,150 1.441359,260 3.175398,327 2.003453,400 2.483906,569 0.941915,596 2.202859}
+{41 3.444812,441 0.7615,446 0.407423,485 2.09601,543 1.33451}
+{46 2.964359,142 2.329235,149 0.821812,166 2.683312,196 3.444812,226 2.683312,229 0.960906,289 3.046,354 3.444812,446 0.407423,548 3.444812,553 3.444812,554 3.444812,601 1.353648,608 atemporal}
+{145 1.000525,170 3.444812,456 3.444812,608 atemporal}
+{6 3.444812,74 2.683312,85 3.444812,100 3.444812,111 2.964359,149 0.821812,160 3.444812,220 2.329235,229 0.960906,247 3.444812,248 3.444812,249 3.444812,318 2.964359,328 3.444812,360 2.964359,446 0.946006,518 3.444812,601 1.353648,608 atemporal}
+{0 2.683312,39 1.615557,114 2.003453,131 2.09601,144 1.11078,300 3.444812,387 3.444812,441 0.7615,446 0.407423,608 atemporal}
+{38 2.964359,111 2.964359,149 0.821812,229 0.960906,271 3.444812,286 3.444812,287 3.444812,349 3.444812,446 0.407423,514 3.444812,552 2.683312,569 0.941915,601 1.353648,608 atemporal}
+{72 3.444812,99 2.09601,149 0.821812,211 2.964359,215 3.444812,229 0.960906,281 3.444812,403 3.444812,407 2.683312,410 2.683312,413 3.444812,417 3.444812,436 3.444812,441 1.206949,475 3.444812,476 3.444812,488 1.271453,599 1.567735,608 atemporal}
+{224 2.683312,229 0.960906,279 3.444812,337 5.459898,446 0.407423,601 1.353648,608 atemporal}
+{86 3.444812,128 1.618592,144 1.760545,149 0.821812,168 4.698398,175 3.444812,194 3.444812,229 0.960906,283 2.483906,309 3.444812,359 4.698398,435 3.444812,446 0.64575,480 2.964359,488 1.271453,512 2.003453,594 2.003453,601 0.854057,608 atemporal}
+{17 3.444812,39 1.615557,62 1.921812,84 3.444812,128 1.021218,135 2.202859,139 2.202859,144 1.11078,149 0.821812,151 1.782718,165 3.444812,288 2.483906,289 1.921812,319 1.523,330 3.444812,352 2.329235,446 0.407423,448 3.444812,512 2.003453,559 3.444812,606 1.848782,608 atemporal}
+{37 2.483906,94 1.615557,260 3.175398,327 2.003453,491 1.848782,569 0.941915}
+{44 3.444812,149 0.821812,169 3.444812,319 1.523,441 0.7615,573 3.444812,576 2.483906,608 atemporal}
+{59 2.683312,145 1.000525,163 2.683312,220 2.329235,601 0.854057}
+{94 1.615557,95 2.964359,150 1.441359,409 3.444812,491 1.848782,516 3.444812,606 1.848782,608 atemporal}
+{15 3.444812,214 3.444812,327 2.003453,468 2.964359,569 0.941915,593 2.329235}
+{35 2.683312,43 2.329235,90 2.964359,446 0.407423,491 1.848782,531 2.329235}
+{252 3.444812,298 3.444812,594 2.003453}
+{145 1.000525,156 2.202859,179 3.444812,285 3.444812,294 3.444812,446 0.407423,606 1.848782,608 atemporal}
+{149 1.302541,219 2.329235,229 0.960906,289 1.921812,355 3.444812,446 0.407423,461 3.444812,495 2.964359,499 3.444812,510 3.444812,557 3.444812,569 0.941915,594 2.003453,601 1.353648,608 atemporal}
+{128 1.021218,137 3.046,229 0.960906,446 0.407423,485 3.322097,531 2.329235,569 0.941915,601 0.854057}
+{128 1.021218,144 1.760545,171 3.444812,203 5.459898,229 0.960906,270 2.964359,297 3.444812,303 2.964359,324 2.964359,364 5.459898,367 3.444812,379 3.444812,428 3.444812,441 0.7615,446 0.407423,488 1.271453,545 3.444812,569 1.492899,594 2.003453,599 1.567735,603 2.329235,608 atemporal}
+{145 1.000525,156 2.202859,466 3.444812,608 atemporal}
+{126 3.444812,144 1.11078,289 1.921812,319 1.523,414 2.202859,501 2.964359,576 2.483906,602 2.683312,608 atemporal}
+{35 2.683312,121 3.444812,144 1.11078,187 3.444812,229 0.960906,264 3.444812,306 3.444812,327 2.003453,390 1.722406,488 1.271453,492 2.683312,569 0.941915,593 2.329235,601 0.854057,606 1.848782}
+{33 2.964359,43 2.329235,70 2.964359,144 1.11078,150 1.441359,274 2.964359,288 2.483906,290 2.964359,319 1.523,358 2.964359,390 1.722406,412 2.329235,419 2.329235,441 1.206949,446 0.64575,491 1.848782,500 2.964359,561 2.964359,605 2.683312,608 atemporal}
+{115 1.782718,128 1.021218,149 0.821812,150 1.441359,167 3.444812,210 3.444812,229 0.960906,237 3.444812,268 3.444812,315 3.444812,325 3.444812,441 0.7615,464 3.444812,472 2.202859,488 1.271453,527 3.444812,532 2.964359,597 3.444812,599 1.567735,608 atemporal}
+{145 1.000525,229 0.960906,230 3.444812,284 3.444812,375 3.444812,385 3.444812,415 3.444812,463 2.483906,488 1.271453,543 1.33451,569 0.941915,587 3.444812,599 1.567735,608 atemporal}
+{186 2.683312,229 0.960906,454 2.329235,601 0.854057}
+{59 2.683312,75 3.444812,145 1.000525,149 0.821812,212 3.444812,216 3.444812,446 0.64575,552 2.683312,569 0.941915,608 atemporal}
+{94 1.615557,145 1.000525,246 3.444812,433 3.444812,441 0.7615,507 3.444812,592 2.683312,608 atemporal}
+{145 1.000525,147 2.964359,149 0.821812,182 3.444812,311 2.202859,357 3.444812,424 2.683312,608 atemporal}
+{145 1.000525,149 1.302541,234 3.444812,353 3.444812,370 3.444812,418 3.444812,446 0.407423,463 2.483906,568 3.444812,608 atemporal}
+{31 4.698398,36 3.444812,39 1.615557,136 3.444812,145 1.585795,149 0.821812,154 2.964359,178 3.444812,412 2.329235,446 0.814845,467 3.444812,487 3.444812,569 0.941915,606 2.93025,608 atemporal}
+{128 1.021218,238 5.459898,446 0.407423,519 4.698398,531 2.329235,569 0.941915,608 atemporal}
+{441 0.7615,446 0.407423,462 2.329235,555 4.698398,569 0.941915,578 2.483906,608 atemporal}
+{398 2.964359,594 2.003453}
+{20 2.683312,59 2.683312,145 1.000525,156 2.202859,253 3.444812,369 3.444812,421 3.444812,446 0.407423,569 0.941915,608 atemporal}
+{32 2.683312,137 1.921812,145 1.000525,150 1.441359,157 2.683312,229 0.960906,382 2.683312,441 0.7615,446 0.407423,485 2.09601,488 1.271453,515 2.683312,543 1.33451,599 1.567735}
+{9 3.444812,10 3.444812,20 4.252949,21 2.964359,39 1.615557,66 3.444812,77 2.964359,101 3.444812,115 1.782718,124 2.483906,144 1.11078,145 1.585795,149 0.821812,231 3.444812,267 3.444812,272 3.444812,277 3.444812,278 3.444812,280 3.444812,319 1.523,341 3.444812,361 3.444812,372 3.444812,390 2.729949,446 0.407423,486 2.683312,512 2.003453,539 3.444812,569 0.941915,596 2.202859,598 3.444812,608 atemporal}
+{115 1.782718,131 2.09601,181 3.444812,491 1.848782,569 0.941915,608 atemporal}
+{4 3.444812,48 3.444812,99 3.322097,118 3.444812,128 1.021218,149 0.821812,229 0.960906,313 2.964359,348 3.444812,397 2.964359,407 2.683312,416 3.444812,441 0.7615,446 0.407423,463 3.936898,488 1.271453,547 5.459898,599 1.567735,608 atemporal}
+{190 2.964359,326 2.964359,441 0.7615,508 3.444812,509 3.444812,569 0.941915,608 atemporal}
+{25 3.444812,39 1.615557,67 3.444812,112 3.444812,115 1.782718,124 2.483906,128 1.021218,144 1.11078,149 0.821812,150 1.441359,151 1.782718,192 3.444812,229 0.960906,258 2.964359,265 3.444812,295 2.964359,304 2.964359,319 1.523,351 2.964359,352 2.329235,390 1.722406,414 2.202859,441 0.7615,472 2.202859,517 2.964359,579 3.444812,601 0.854057,606 1.848782,608 atemporal}
+{46 2.964359,368 2.964359,410 2.683312,441 0.7615,447 3.444812,512 2.003453,543 1.33451,569 0.941915,608 atemporal}
+{52 2.964359,53 3.444812,115 1.782718,144 1.11078,145 1.000525,150 1.441359,156 2.202859,261 3.444812,446 0.407423}
+{39 2.560597,61 3.444812,90 2.964359,110 3.444812,114 2.003453,122 3.444812,151 1.782718,336 3.444812,390 1.722406,446 0.64575,490 3.444812,583 3.444812,608 atemporal}
+{62 1.921812,94 1.615557,145 1.000525,149 0.821812,236 3.444812,333 3.444812,592 2.683312,608 atemporal}
+{127 3.444812,144 1.11078,146 2.202859,173 3.444812,380 3.444812,396 2.964359,446 0.64575,462 2.329235,569 1.492899,596 2.202859,608 atemporal}
+{94 1.615557,128 1.021218,312 3.444812,352 2.329235,378 3.444812,563 3.444812,608 atemporal}
+{19 3.444812,51 3.444812,77 2.964359,144 1.11078,221 2.683312,229 0.960906,319 1.523,334 3.444812,335 3.444812,411 4.252949,441 0.7615,446 0.407423,449 3.444812,454 2.329235,465 3.444812,488 1.271453,496 3.444812,521 3.444812,569 0.941915,601 1.353648,608 atemporal}
+{62 1.921812,145 1.585795,195 3.444812,218 3.444812,319 1.523,343 2.683312,392 2.683312,446 0.407423,504 3.444812,543 1.33451,601 0.854057}
+{49 3.444812,184 2.964359,201 2.683312,291 2.683312,441 0.7615,488 1.271453,543 1.33451,599 1.567735,603 2.329235,608 atemporal}
+{43 2.329235,137 1.921812,446 0.407423,491 1.848782,543 1.33451}
+{109 5.459898,446 0.407423,493 3.444812,542 3.444812,572 5.459898,608 atemporal}
+{32 2.683312,137 1.921812,145 1.000525,150 1.441359,157 2.683312,229 0.960906,382 2.683312,400 2.483906,441 0.7615,446 0.407423,488 1.271453,515 2.683312,543 1.33451,599 1.567735}
+{52 2.964359,145 1.000525,163 2.683312,228 3.444812,356 3.444812,446 0.407423,601 0.854057}
+{260 2.003453,441 0.7615,485 2.09601}
+{14 3.444812,39 1.615557,76 3.444812,97 2.683312,114 2.003453,115 1.782718,128 1.021218,135 2.202859,144 1.11078,149 0.821812,151 3.565435,156 2.202859,225 2.964359,241 3.444812,363 3.444812,365 3.444812,441 0.7615,446 0.407423,530 3.444812,569 0.941915,601 1.353648,608 atemporal}
+{2 3.444812,441 0.7615,474 3.444812,608 atemporal}
+{400 2.483906,441 0.7615,543 1.33451,596 2.202859}
+{145 1.000525,163 2.683312,220 2.329235,340 2.964359,574 3.444812,601 0.854057,608 atemporal}
+{16 3.444812,20 4.252949,116 3.444812,125 2.964359,128 1.618592,145 1.000525,316 5.459898,392 2.683312,404 3.444812,446 0.407423,593 2.329235,608 atemporal}
+{137 1.921812,338 3.444812,346 3.444812,388 2.683312,441 1.206949,446 0.407423,543 1.33451}
+{128 1.021218,137 3.046,144 1.11078,359 2.964359,368 2.964359,437 3.444812,441 1.206949,446 0.407423,502 3.444812,520 3.444812,567 3.444812,608 atemporal}
+{95 2.964359,134 3.444812,145 1.000525,148 3.444812,149 0.821812,430 2.683312,608 atemporal}
+{94 1.615557,149 0.821812,270 2.964359,552 2.683312,608 atemporal}
+{94 1.615557,128 1.021218,310 3.444812,458 3.444812,519 2.964359,608 atemporal}
+{184 2.964359,201 2.683312,291 2.683312,347 3.444812,441 0.7615,488 1.271453,543 1.33451,599 1.567735,603 2.329235,608 atemporal}
+{0 2.683312,8 3.444812,42 3.444812,99 2.09601,117 3.444812,124 2.483906,131 2.09601,132 3.444812,144 1.11078,149 0.821812,151 1.782718,319 1.523,351 2.964359,390 1.722406,391 3.444812,445 3.444812,446 0.407423,524 3.444812,606 1.848782,608 atemporal}
+{65 3.444812,128 1.021218,302 3.444812,608 atemporal}
+{108 5.459898,135 2.202859,149 0.821812,166 2.683312,205 2.964359,283 2.483906,446 0.407423,468 2.964359,601 1.353648,603 2.329235,608 atemporal}
+{142 2.329235,206 2.683312,217 4.698398,446 0.407423,536 4.698398,601 1.708114,608 atemporal}
+{37 2.483906,45 3.444812,149 0.821812,150 1.441359,260 2.003453,327 2.003453,393 2.329235}
+{145 1.000525,383 3.444812,390 1.722406,406 2.964359,608 atemporal}
+{150 1.441359,229 0.960906,256 3.444812,260 2.003453,485 2.09601,488 1.271453,543 1.33451,601 0.854057}
+{28 3.444812,74 2.683312,115 1.782718,131 2.09601,149 0.821812,151 1.782718,229 0.960906,374 3.444812,419 2.329235,420 3.444812,441 0.7615,446 0.407423,472 2.202859,488 1.271453,560 3.444812,599 1.567735,603 2.329235,607 2.964359,608 atemporal}
+{104 3.444812,183 3.444812,189 2.683312,200 3.444812,201 2.683312,219 2.329235,235 3.444812,243 3.444812,441 0.7615,488 1.271453,512 2.003453,594 2.003453,601 1.353648,608 atemporal}
+{21 2.964359,74 2.683312,94 1.615557,128 1.021218,133 2.683312,149 0.821812,229 0.960906,386 3.444812,394 3.444812,441 0.7615,446 0.407423,460 5.459898,482 3.444812,488 1.271453,532 2.964359,569 0.941915,593 3.69175,601 0.854057,606 2.93025,608 atemporal}
+{29 5.459898,128 1.021218,135 2.202859,139 2.202859,209 5.459898,318 2.964359,412 2.329235,419 2.329235,432 3.444812,444 2.683312,446 0.407423,585 3.444812,601 0.854057}
+{39 1.615557,87 3.444812,144 1.11078,174 3.444812,198 3.444812,208 3.444812,225 2.964359,319 1.523,377 3.444812,388 2.683312,443 3.444812,556 3.444812,569 0.941915,601 0.854057,608 atemporal}
+{128 1.021218,137 3.046,406 4.698398,441 0.7615,446 0.407423,607 2.964359}
+{128 1.021218,145 1.000525,154 2.964359,229 0.960906,273 2.964359,289 1.921812,327 2.003453,441 0.7615,446 0.64575,485 2.09601,543 1.33451,569 0.941915,601 0.854057}
+{62 1.921812,186 2.683312,229 0.960906,446 0.407423,454 2.329235,543 1.33451,601 1.353648}
+{39 1.615557,128 1.021218,152 3.444812,402 3.444812,434 3.444812,441 0.7615,442 3.444812,581 3.444812,608 atemporal}
+{119 2.964359,260 2.003453,327 2.003453,400 2.483906,491 1.848782,569 0.941915,596 2.202859}
+{62 3.046,63 3.444812,159 3.444812,446 0.64575,483 3.444812,543 1.33451}
+{30 2.964359,177 3.444812,390 1.722406,446 0.64575,452 3.444812,602 2.683312,606 1.848782}
+{39 1.615557,55 3.444812,91 2.964359,97 2.683312,105 3.444812,115 1.782718,131 3.322097,139 2.202859,142 2.329235,144 1.11078,149 0.821812,206 2.683312,401 3.444812,414 2.202859,441 1.206949,446 0.407423,472 2.202859,488 1.271453,537 2.964359,578 2.483906,601 0.854057,605 2.683312,608 atemporal}
+{12 2.964359,39 1.615557,115 1.782718,128 1.618592,131 2.09601,144 1.11078,149 0.821812,180 3.444812,226 2.683312,229 0.960906,257 3.444812,352 2.329235,362 2.683312,446 0.64575,488 1.271453,534 3.444812,540 3.444812,544 3.444812,601 1.353648,608 atemporal}
+{93 3.444812,145 1.585795,262 3.444812,273 2.964359,305 2.964359,441 0.7615,446 0.407423,462 2.329235,469 3.444812,569 1.883829,576 2.483906,608 atemporal}
+{114 2.003453,188 3.444812,204 3.444812,473 3.444812,608 atemporal}
+{94 1.615557,128 1.021218,317 3.444812,362 2.683312,366 5.459898,411 2.683312,571 3.444812,608 atemporal}
+{1 3.444812,50 3.444812,113 3.444812,120 3.444812,128 1.021218,293 3.444812,331 3.444812,596 2.202859,608 atemporal}
+{39 1.615557,79 3.444812,102 3.444812,103 3.444812,128 1.021218,146 2.202859,151 1.782718,166 2.683312,185 3.444812,219 3.69175,259 3.444812,441 1.206949,446 0.407423,486 2.683312,488 1.271453,512 2.003453,576 2.483906,601 1.353648,608 atemporal}
+{497 3.444812,543 1.33451}
+{5 3.444812,47 3.444812,82 3.444812,149 1.302541,172 3.444812,213 3.444812,242 2.964359,305 2.964359,407 2.683312,463 2.483906,492 2.683312,569 0.941915,602 2.683312,608 atemporal}
+{83 3.444812,91 2.964359,114 2.003453,146 2.202859,176 2.964359,227 2.964359,229 0.960906,389 3.444812,414 2.202859,446 0.407423,454 2.329235,478 3.444812,589 3.444812,595 2.683312,601 0.854057,608 atemporal}
+{114 2.003453,124 2.483906,135 2.202859,144 1.11078,146 2.202859,149 0.821812,150 1.441359,151 1.782718,258 2.964359,304 2.964359,329 3.444812,446 0.64575,472 2.202859,588 3.444812,608 atemporal}
+{94 1.615557,145 1.000525,211 2.964359,220 2.329235,233 3.444812,282 3.444812,291 2.683312,311 2.202859,340 2.964359,408 3.444812,441 1.206949,523 3.444812,599 1.567735,608 atemporal}
+{92 3.444812,94 1.615557,128 1.618592,229 0.960906,266 3.444812,324 2.964359,522 5.459898,541 2.964359,592 2.683312,599 1.567735,608 atemporal}
+{7 3.444812,58 3.444812,64 3.444812,69 3.444812,123 3.444812,128 1.021218,133 2.683312,219 2.329235,221 2.683312,438 3.444812,439 3.444812,484 3.444812,511 3.444812,575 3.444812,591 3.444812,599 1.567735,600 3.444812,608 atemporal}
+{12 2.964359,39 1.615557,88 3.444812,89 3.444812,115 1.782718,128 2.042435,144 1.760545,145 1.000525,156 2.202859,223 3.444812,229 0.960906,299 3.444812,301 3.444812,384 3.444812,446 0.814845,459 3.444812,488 1.271453,512 2.003453,538 3.444812,546 3.444812,577 3.444812,601 1.353648,608 atemporal}
+{27 3.444812,131 2.09601,151 1.782718,222 2.683312,441 0.7615,558 3.444812,590 3.444812,601 0.854057,608 atemporal}
+{62 1.921812,186 2.683312,229 0.960906,446 0.407423,454 2.329235,543 1.33451,601 1.353648}
+{144 1.11078,149 0.821812,240 3.444812,323 3.444812,396 2.964359,446 0.407423,564 3.444812,569 0.941915,608 atemporal}

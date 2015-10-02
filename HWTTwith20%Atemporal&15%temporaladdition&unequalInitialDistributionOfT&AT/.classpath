@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Hindi_wordnet_time_tagging/src"/>
+	<classpathentry kind="lib" path="Hindi_wordnet_time_tagging/bin/AccuracyFinder.jar"/>
+	<classpathentry kind="lib" path="Hindi_wordnet_time_tagging/bin/FindInstancesForProbabilisticExpansion.jar"/>
+	<classpathentry kind="lib" path="Hindi_wordnet_time_tagging/HindiWN_1_4/HWNBrowser.jar"/>
+	<classpathentry kind="lib" path="Hindi_wordnet_time_tagging/HindiWN_1_4/lib/StemIt.jar"/>
+	<classpathentry kind="lib" path="Hindi_wordnet_time_tagging/lib/JHWNL.jar"/>
+	<classpathentry kind="lib" path="Hindi_wordnet_time_tagging/lib/StemIt.jar"/>
+	<classpathentry kind="lib" path="Hindi_wordnet_time_tagging/libsvm.jar"/>
+	<classpathentry kind="lib" path="Hindi_wordnet_time_tagging/weka.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Hindi_wordnet_time_tagging/src"/>
+</classpath>
