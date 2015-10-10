@@ -1,0 +1,5106 @@
+Zero Weights processed. Default weights will be used
+*
+optimization finished, #iter = 255
+nu = 0.5600695266364277
+obj = -264.0172335925318, rho = 5.616694622693105
+nSV = 390, nBSV = 324
+Total nSV = 390
+*
+optimization finished, #iter = 259
+nu = 0.5637705404150464
+obj = -259.49171046351836, rho = 6.080305522652852
+nSV = 388, nBSV = 326
+Total nSV = 388
+*
+optimization finished, #iter = 249
+nu = 0.5352289322630102
+obj = -251.9658493093746, rho = 5.84559046291399
+nSV = 369, nBSV = 304
+Total nSV = 369
+*
+optimization finished, #iter = 252
+nu = 0.5474093761658474
+obj = -259.275844743701, rho = 5.673217730850813
+nSV = 383, nBSV = 314
+Total nSV = 383
+*
+optimization finished, #iter = 237
+nu = 0.5425084001000523
+obj = -254.7748891838827, rho = 5.6557698287575
+nSV = 373, nBSV = 316
+Total nSV = 373
+*
+optimization finished, #iter = 291
+nu = 0.5276086324818196
+obj = -301.0244955974554, rho = 6.524327738913088
+nSV = 454, nBSV = 381
+*
+optimization finished, #iter = 467
+nu = 0.6538461538461536
+obj = -367.55615206795335, rho = 0.15449547707708638
+nSV = 559, nBSV = 324
+Total nSV = 559
+*
+optimization finished, #iter = 478
+nu = 0.6370370370370371
+obj = -354.371199263782, rho = 0.12667230511638172
+nSV = 548, nBSV = 310
+Total nSV = 548
+*
+optimization finished, #iter = 503
+nu = 0.6607407407407405
+obj = -368.34157035146853, rho = 0.053768145653865826
+nSV = 573, nBSV = 317
+Total nSV = 573
+*
+optimization finished, #iter = 490
+nu = 0.651851851851852
+obj = -363.0990880113141, rho = 0.06294645603371514
+nSV = 572, nBSV = 315
+Total nSV = 572
+*
+optimization finished, #iter = 457
+nu = 0.6666666666666665
+obj = -368.2105564203447, rho = 0.161772666568878
+nSV = 569, nBSV = 337
+Total nSV = 569
+*
+optimization finished, #iter = 543
+nu = 0.6540284360189573
+obj = -433.84594749319444, rho = 0.29112836352150406
+nSV = 680, nBSV = 426
+*
+optimization finished, #iter = 461
+nu = 0.6288343558282209
+obj = -350.78166164575157, rho = 0.9628020192792341
+nSV = 525, nBSV = 288
+Total nSV = 525
+*
+optimization finished, #iter = 463
+nu = 0.6134969325153375
+obj = -343.99820540667304, rho = 0.5264966050516676
+nSV = 524, nBSV = 270
+Total nSV = 524
+*
+optimization finished, #iter = 446
+nu = 0.6226993865030677
+obj = -345.75282098751995, rho = 0.8160143721592072
+nSV = 533, nBSV = 293
+Total nSV = 533
+*
+optimization finished, #iter = 464
+nu = 0.5858895705521475
+obj = -330.0452849348762, rho = 0.6623165274424738
+nSV = 521, nBSV = 249
+Total nSV = 521
+*
+optimization finished, #iter = 491
+nu = 0.5797546012269936
+obj = -329.8281265629127, rho = 0.45908338670644383
+nSV = 530, nBSV = 251
+Total nSV = 530
+*
+optimization finished, #iter = 545
+nu = 0.6061349693251535
+obj = -410.64384100743564, rho = 0.9835898782533714
+nSV = 639, nBSV = 364
+*
+optimization finished, #iter = 240
+nu = 0.8500534836205271
+obj = -249.41329432770738, rho = -5.548282376084816
+nSV = 367, nBSV = 324
+Total nSV = 367
+*
+optimization finished, #iter = 243
+nu = 0.828494317028157
+obj = -239.04030095893037, rho = -5.7450346135598815
+nSV = 359, nBSV = 313
+Total nSV = 359
+*
+optimization finished, #iter = 254
+nu = 0.8569369063978057
+obj = -246.66094297891928, rho = -5.908108564990178
+nSV = 369, nBSV = 320
+Total nSV = 369
+*
+optimization finished, #iter = 235
+nu = 0.8370348275790204
+obj = -240.51587428201196, rho = -5.807429927928513
+nSV = 362, nBSV = 316
+Total nSV = 362
+*
+optimization finished, #iter = 233
+nu = 0.8589860130294035
+obj = -248.36847559889154, rho = -5.914824048688915
+nSV = 367, nBSV = 322
+Total nSV = 367
+*
+optimization finished, #iter = 277
+nu = 0.7980771600565909
+obj = -284.18180843598776, rho = -6.286178515348807
+nSV = 426, nBSV = 371
+*
+optimization finished, #iter = 226
+nu = 0.8994129798081106
+obj = -250.07130361871467, rho = -5.318388123841944
+nSV = 358, nBSV = 309
+Total nSV = 358
+*
+optimization finished, #iter = 251
+nu = 0.900957248317519
+obj = -259.09992116460376, rho = -4.653438159978554
+nSV = 361, nBSV = 310
+Total nSV = 361
+*
+optimization finished, #iter = 241
+nu = 0.904888515681168
+obj = -253.35581982337638, rho = -5.008960294647098
+nSV = 357, nBSV = 304
+Total nSV = 357
+*
+optimization finished, #iter = 225
+nu = 0.910909958671307
+obj = -258.6721978814146, rho = -5.04622862235166
+nSV = 355, nBSV = 311
+Total nSV = 355
+*
+optimization finished, #iter = 245
+nu = 0.8963081449524716
+obj = -253.66485115280878, rho = -5.023918752017173
+nSV = 357, nBSV = 304
+Total nSV = 357
+*
+optimization finished, #iter = 271
+nu = 0.8586839007916882
+obj = -299.70482399196874, rho = -5.430384325034312
+nSV = 433, nBSV = 370
+*
+optimization finished, #iter = 215
+nu = 0.9116945107398569
+obj = -296.5286733899067, rho = 0.6982684648107648
+nSV = 397, nBSV = 374
+Total nSV = 397
+*
+optimization finished, #iter = 220
+nu = 0.9186602870813398
+obj = -299.5322910398468, rho = 0.8004603869680932
+nSV = 402, nBSV = 374
+Total nSV = 402
+*
+optimization finished, #iter = 215
+nu = 0.9785202863961814
+obj = -304.37482781780466, rho = 0.8820935799253213
+nSV = 417, nBSV = 404
+Total nSV = 417
+*
+optimization finished, #iter = 236
+nu = 0.9425837320574163
+obj = -302.5839513878997, rho = 0.7225530809978844
+nSV = 404, nBSV = 380
+Total nSV = 404
+*
+optimization finished, #iter = 219
+nu = 0.9712918660287081
+obj = -300.1434221188042, rho = 0.9666406584581797
+nSV = 413, nBSV = 394
+Total nSV = 413
+*
+optimization finished, #iter = 277
+nu = 0.9268608884353339
+obj = -350.57323544634335, rho = 1.1541498722446681
+nSV = 502, nBSV = 468
+Total nSV = 1207
+*
+optimization finished, #iter = 525
+nu = 0.6447368421052634
+obj = -326.14257485684925, rho = -0.12243422383336247
+nSV = 516, nBSV = 276
+Total nSV = 516
+*
+optimization finished, #iter = 531
+nu = 0.6359143327841842
+obj = -322.4502642748727, rho = -0.028995706099979906
+nSV = 515, nBSV = 269
+Total nSV = 515
+*
+optimization finished, #iter = 515
+nu = 0.6754530477759484
+obj = -338.36228202534926, rho = -0.2505494213160523
+nSV = 520, nBSV = 316
+Total nSV = 520
+*
+optimization finished, #iter = 512
+nu = 0.6227347611202637
+obj = -316.39082235386434, rho = 0.004898269960622782
+nSV = 515, nBSV = 267
+Total nSV = 515
+*
+optimization finished, #iter = 521
+nu = 0.6886326194398676
+obj = -346.48558134505635, rho = -0.15129162879709673
+nSV = 530, nBSV = 313
+Total nSV = 530
+*
+optimization finished, #iter = 600
+nu = 0.6534914361001317
+obj = -394.13733144811044, rho = -0.29060720273025475
+nSV = 616, nBSV = 379
+*
+optimization finished, #iter = 218
+nu = 0.8792262124902066
+obj = -227.2101927411324, rho = 5.6091775641892925
+nSV = 336, nBSV = 293
+Total nSV = 336
+*
+optimization finished, #iter = 199
+nu = 0.8306806078699076
+obj = -218.51341821678656, rho = 5.309169254147402
+nSV = 316, nBSV = 281
+Total nSV = 316
+*
+optimization finished, #iter = 199
+nu = 0.8447924254113266
+obj = -219.48904224698904, rho = 5.505402455806727
+nSV = 318, nBSV = 288
+Total nSV = 318
+*
+optimization finished, #iter = 190
+nu = 0.8411069152414061
+obj = -221.28709044022702, rho = 5.339976326545666
+nSV = 315, nBSV = 285
+Total nSV = 315
+*
+optimization finished, #iter = 206
+nu = 0.8547644985070844
+obj = -219.45283398629473, rho = 5.672947958655688
+nSV = 328, nBSV = 283
+Total nSV = 328
+*
+optimization finished, #iter = 243
+nu = 0.8033675771849237
+obj = -257.2187008952984, rho = 5.9700356813672935
+nSV = 385, nBSV = 337
+*
+optimization finished, #iter = 214
+nu = 0.9574468085106383
+obj = -277.8287597794776, rho = 0.5334392864877071
+nSV = 367, nBSV = 347
+Total nSV = 367
+*
+optimization finished, #iter = 193
+nu = 0.9095744680851063
+obj = -269.2460662507705, rho = 0.5027989858202996
+nSV = 355, nBSV = 333
+Total nSV = 355
+*
+optimization finished, #iter = 203
+nu = 0.9468085106382979
+obj = -274.1453032210361, rho = 0.8670579614918985
+nSV = 363, nBSV = 344
+Total nSV = 363
+*
+optimization finished, #iter = 200
+nu = 0.9680851063829787
+obj = -275.3815565035961, rho = 0.7524977615567756
+nSV = 371, nBSV = 351
+Total nSV = 371
+*
+optimization finished, #iter = 202
+nu = 0.9414893617021277
+obj = -274.02455232985506, rho = 0.6991692416487654
+nSV = 365, nBSV = 345
+Total nSV = 365
+*
+optimization finished, #iter = 259
+nu = 0.9394570390822087
+obj = -320.73084150379617, rho = 1.0544813251499787
+nSV = 456, nBSV = 424
+*
+optimization finished, #iter = 239
+nu = 0.560948584345959
+obj = -235.49621147673673, rho = 5.642201541780351
+nSV = 354, nBSV = 283
+Total nSV = 354
+*
+optimization finished, #iter = 245
+nu = 0.5546521589858724
+obj = -233.9165901353536, rho = 5.580033144697699
+nSV = 349, nBSV = 282
+Total nSV = 349
+*
+optimization finished, #iter = 233
+nu = 0.5603868606245758
+obj = -236.31983124696828, rho = 5.672859753663555
+nSV = 352, nBSV = 289
+Total nSV = 352
+*
+optimization finished, #iter = 224
+nu = 0.5383988714954434
+obj = -226.7378572950386, rho = 5.484658045363618
+nSV = 340, nBSV = 276
+Total nSV = 340
+*
+optimization finished, #iter = 230
+nu = 0.544642457832021
+obj = -232.90241051651876, rho = 5.199001360445418
+nSV = 345, nBSV = 278
+Total nSV = 345
+*
+optimization finished, #iter = 278
+nu = 0.5280416272234877
+obj = -272.2246557382493, rho = 6.179479526575801
+nSV = 420, nBSV = 341
+*
+optimization finished, #iter = 429
+nu = 0.616695059625213
+obj = -312.6287403187577, rho = 0.7659500888311397
+nSV = 480, nBSV = 237
+Total nSV = 480
+*
+optimization finished, #iter = 465
+nu = 0.6006825938566553
+obj = -305.13093804691005, rho = 0.5453476984960769
+nSV = 480, nBSV = 219
+Total nSV = 480
+*
+optimization finished, #iter = 464
+nu = 0.606473594548552
+obj = -309.43346946108903, rho = 0.49679857008589584
+nSV = 491, nBSV = 237
+Total nSV = 491
+*
+optimization finished, #iter = 438
+nu = 0.6006825938566553
+obj = -306.6092124063853, rho = 0.6633875831817994
+nSV = 476, nBSV = 228
+Total nSV = 476
+*
+optimization finished, #iter = 433
+nu = 0.6040955631399317
+obj = -307.0369066605133, rho = 0.6587016932114435
+nSV = 472, nBSV = 225
+Total nSV = 472
+*
+optimization finished, #iter = 504
+nu = 0.6057298772169167
+obj = -372.97793065246265, rho = 0.9182716325476671
+nSV = 581, nBSV = 322
+*
+optimization finished, #iter = 223
+nu = 0.9170680524798639
+obj = -233.5392327184311, rho = -4.725200129454558
+nSV = 326, nBSV = 279
+Total nSV = 326
+*
+optimization finished, #iter = 212
+nu = 0.8883189119424058
+obj = -229.10231601238075, rho = -4.683097495919023
+nSV = 322, nBSV = 281
+Total nSV = 322
+*
+optimization finished, #iter = 198
+nu = 0.9246562063011934
+obj = -230.10469880922255, rho = -5.199316211034904
+nSV = 322, nBSV = 298
+Total nSV = 322
+*
+optimization finished, #iter = 226
+nu = 0.911257327589995
+obj = -234.60066885640293, rho = -4.835282250883842
+nSV = 329, nBSV = 280
+Total nSV = 329
+*
+optimization finished, #iter = 221
+nu = 0.8912632084964746
+obj = -228.73448200502818, rho = -4.597458631022484
+nSV = 321, nBSV = 281
+Total nSV = 321
+*
+optimization finished, #iter = 268
+nu = 0.8670813464482325
+obj = -272.5460602518881, rho = -5.289365738765633
+nSV = 393, nBSV = 338
+Total nSV = 1092
+*
+optimization finished, #iter = 223
+nu = 0.5404883772754133
+obj = -229.23162115093123, rho = 5.650857180431337
+nSV = 337, nBSV = 277
+Total nSV = 337
+*
+optimization finished, #iter = 241
+nu = 0.5512718879141307
+obj = -227.15946881552216, rho = 5.710341209130896
+nSV = 351, nBSV = 279
+Total nSV = 351
+*
+optimization finished, #iter = 243
+nu = 0.568192773257975
+obj = -237.20135136353835, rho = 5.76427797078917
+nSV = 355, nBSV = 292
+Total nSV = 355
+*
+optimization finished, #iter = 220
+nu = 0.5470407811916543
+obj = -230.21042100210224, rho = 5.566415912878523
+nSV = 340, nBSV = 280
+Total nSV = 340
+*
+optimization finished, #iter = 222
+nu = 0.5424026060996704
+obj = -226.15893803267156, rho = 5.781893102198777
+nSV = 342, nBSV = 281
+Total nSV = 342
+*
+optimization finished, #iter = 275
+nu = 0.5273875689797519
+obj = -268.0010352770704, rho = 6.4610918834238795
+nSV = 417, nBSV = 344
+*
+optimization finished, #iter = 440
+nu = 0.6677631578947367
+obj = -331.4610111821324, rho = 0.08878027871342555
+nSV = 518, nBSV = 301
+Total nSV = 518
+*
+optimization finished, #iter = 455
+nu = 0.642504118616145
+obj = -326.94586614318655, rho = -0.04468050611291563
+nSV = 512, nBSV = 282
+Total nSV = 512
+*
+optimization finished, #iter = 440
+nu = 0.6688632619439867
+obj = -335.3310295188598, rho = 0.10845639202955527
+nSV = 513, nBSV = 294
+Total nSV = 513
+*
+optimization finished, #iter = 467
+nu = 0.642504118616145
+obj = -323.9574949756618, rho = 0.029594912235576514
+nSV = 518, nBSV = 267
+Total nSV = 518
+*
+optimization finished, #iter = 441
+nu = 0.6457990115321252
+obj = -325.12646367613854, rho = 0.04885291653063505
+nSV = 509, nBSV = 275
+Total nSV = 509
+*
+optimization finished, #iter = 506
+nu = 0.6534914361001319
+obj = -391.9141884298132, rho = 0.21853319416140243
+nSV = 628, nBSV = 382
+*
+optimization finished, #iter = 436
+nu = 0.6098807495741055
+obj = -308.93828524692685, rho = 0.4768935454323003
+nSV = 480, nBSV = 244
+Total nSV = 480
+*
+optimization finished, #iter = 463
+nu = 0.6075085324232082
+obj = -305.3699478863632, rho = 0.32716313757427073
+nSV = 493, nBSV = 242
+Total nSV = 493
+*
+optimization finished, #iter = 424
+nu = 0.6098807495741057
+obj = -308.06079436833306, rho = 0.5340102262692756
+nSV = 478, nBSV = 246
+Total nSV = 478
+*
+optimization finished, #iter = 442
+nu = 0.5938566552901022
+obj = -302.4395885701056, rho = 0.4411703145836331
+nSV = 487, nBSV = 236
+Total nSV = 487
+*
+optimization finished, #iter = 435
+nu = 0.6075085324232082
+obj = -305.7073383600553, rho = 0.5219459825491247
+nSV = 482, nBSV = 238
+Total nSV = 482
+*
+optimization finished, #iter = 511
+nu = 0.605729877216917
+obj = -369.6812273795393, rho = 0.7148573532677949
+nSV = 588, nBSV = 316
+*
+optimization finished, #iter = 228
+nu = 0.8332473627047028
+obj = -215.62108100475717, rho = -5.66158082300944
+nSV = 329, nBSV = 281
+Total nSV = 329
+*
+optimization finished, #iter = 218
+nu = 0.8462615872634643
+obj = -220.99415527766993, rho = -5.324682885805407
+nSV = 327, nBSV = 287
+Total nSV = 327
+*
+optimization finished, #iter = 233
+nu = 0.8394462597341713
+obj = -211.21212375964697, rho = -6.030010485301073
+nSV = 327, nBSV = 278
+Total nSV = 327
+*
+optimization finished, #iter = 216
+nu = 0.8557932533392004
+obj = -222.11121258405728, rho = -5.721884451905067
+nSV = 330, nBSV = 291
+Total nSV = 330
+*
+optimization finished, #iter = 227
+nu = 0.854648906353905
+obj = -220.1111438684907, rho = -5.601949179161993
+nSV = 332, nBSV = 285
+Total nSV = 332
+*
+optimization finished, #iter = 260
+nu = 0.7972220271171367
+obj = -252.6066176823454, rho = -6.158309564226015
+nSV = 389, nBSV = 335
+*
+optimization finished, #iter = 227
+nu = 0.8944992568959818
+obj = -227.5307676208911, rho = -4.811002171620255
+nSV = 326, nBSV = 277
+Total nSV = 326
+*
+optimization finished, #iter = 231
+nu = 0.8842117020165495
+obj = -223.74605462999284, rho = -4.855157329354071
+nSV = 321, nBSV = 274
+Total nSV = 321
+*
+optimization finished, #iter = 217
+nu = 0.8998531652140771
+obj = -222.7019758452535, rho = -5.203819851479622
+nSV = 320, nBSV = 269
+Total nSV = 320
+*
+optimization finished, #iter = 211
+nu = 0.8988863537456928
+obj = -225.2322886804159, rho = -5.102178265153636
+nSV = 323, nBSV = 272
+Total nSV = 323
+*
+optimization finished, #iter = 213
+nu = 0.9000560960307271
+obj = -222.74851424085665, rho = -5.138549678022489
+nSV = 321, nBSV = 271
+Total nSV = 321
+*
+optimization finished, #iter = 258
+nu = 0.8486441600115305
+obj = -262.82323917013883, rho = -5.43254729945191
+nSV = 389, nBSV = 327
+*
+optimization finished, #iter = 199
+nu = 0.9574468085106383
+obj = -266.6275011794947, rho = 0.3954385595356721
+nSV = 366, nBSV = 347
+Total nSV = 366
+*
+optimization finished, #iter = 203
+nu = 0.9361702127659575
+obj = -271.1026345431708, rho = 0.4179481897746344
+nSV = 363, nBSV = 344
+Total nSV = 363
+*
+optimization finished, #iter = 202
+nu = 0.9042553191489362
+obj = -264.92213414232566, rho = 0.3897988316670653
+nSV = 354, nBSV = 331
+Total nSV = 354
+*
+optimization finished, #iter = 199
+nu = 0.9361702127659575
+obj = -270.482194429231, rho = 0.7301403865856959
+nSV = 362, nBSV = 343
+Total nSV = 362
+*
+optimization finished, #iter = 200
+nu = 0.9890151309204087
+obj = -278.19122505268484, rho = 0.7606730361137161
+nSV = 376, nBSV = 367
+Total nSV = 376
+*
+optimization finished, #iter = 258
+nu = 0.9316754664030258
+obj = -315.1034157185031, rho = 0.8617212257425478
+nSV = 457, nBSV = 422
+Total nSV = 1094
+*
+optimization finished, #iter = 209
+nu = 0.9157568509948649
+obj = -234.08921851048797, rho = -4.678383726243482
+nSV = 326, nBSV = 281
+Total nSV = 326
+*
+optimization finished, #iter = 226
+nu = 0.9196465868594267
+obj = -235.92665151179446, rho = -4.612134031817502
+nSV = 327, nBSV = 277
+Total nSV = 327
+*
+optimization finished, #iter = 202
+nu = 0.8940025930097445
+obj = -228.99881915690952, rho = -4.755399844302089
+nSV = 324, nBSV = 280
+Total nSV = 324
+*
+optimization finished, #iter = 225
+nu = 0.9022188499439743
+obj = -229.66362998389621, rho = -4.750145962628335
+nSV = 326, nBSV = 276
+Total nSV = 326
+*
+optimization finished, #iter = 222
+nu = 0.9158516321093333
+obj = -234.66218729582897, rho = -4.613276688926439
+nSV = 325, nBSV = 284
+Total nSV = 325
+*
+optimization finished, #iter = 268
+nu = 0.8693610265746564
+obj = -273.9947212768985, rho = -5.123981150442758
+nSV = 395, nBSV = 337
+*
+optimization finished, #iter = 285
+nu = 0.5353700555940611
+obj = -230.8459227895324, rho = -5.299114097268363
+nSV = 335, nBSV = 275
+Total nSV = 335
+*
+optimization finished, #iter = 302
+nu = 0.5754677883960897
+obj = -241.44812410123075, rho = -5.722578464306128
+nSV = 360, nBSV = 297
+Total nSV = 360
+*
+optimization finished, #iter = 298
+nu = 0.5422694303701174
+obj = -229.2274013357004, rho = -5.520998562143742
+nSV = 345, nBSV = 278
+Total nSV = 345
+*
+optimization finished, #iter = 299
+nu = 0.5589742279701643
+obj = -237.5449486086671, rho = -5.472821752860614
+nSV = 354, nBSV = 284
+Total nSV = 354
+*
+optimization finished, #iter = 287
+nu = 0.5470154959256703
+obj = -235.29180092125284, rho = -5.31894852840197
+nSV = 341, nBSV = 280
+Total nSV = 341
+*
+optimization finished, #iter = 348
+nu = 0.53125063232339
+obj = -274.980646287783, rho = -6.216200932304518
+nSV = 413, nBSV = 349
+*
+optimization finished, #iter = 232
+nu = 0.8681452627316322
+obj = -228.65468689236127, rho = -5.495921312354555
+nSV = 341, nBSV = 292
+Total nSV = 341
+*
+optimization finished, #iter = 221
+nu = 0.8640647071393166
+obj = -225.41291843020053, rho = -5.579172136254395
+nSV = 333, nBSV = 294
+Total nSV = 333
+*
+optimization finished, #iter = 215
+nu = 0.8352935764042362
+obj = -218.85678573581697, rho = -5.299745850648952
+nSV = 316, nBSV = 283
+Total nSV = 316
+*
+optimization finished, #iter = 219
+nu = 0.8554459718021558
+obj = -225.1368633535097, rho = -5.3381086697526
+nSV = 329, nBSV = 291
+Total nSV = 329
+*
+optimization finished, #iter = 216
+nu = 0.8489390743326797
+obj = -220.65226135459145, rho = -5.679782989202724
+nSV = 330, nBSV = 289
+Total nSV = 330
+*
+optimization finished, #iter = 259
+nu = 0.8103059641917162
+obj = -260.3940248726958, rho = -6.00752227263098
+nSV = 382, nBSV = 338
+*
+optimization finished, #iter = 520
+nu = 0.6132879045996592
+obj = -311.33542181780143, rho = -0.7952598488474305
+nSV = 478, nBSV = 234
+Total nSV = 478
+*
+optimization finished, #iter = 528
+nu = 0.5938566552901023
+obj = -300.87975199362455, rho = -0.6271957882328266
+nSV = 479, nBSV = 217
+Total nSV = 479
+*
+optimization finished, #iter = 515
+nu = 0.6166950596252133
+obj = -310.37902862989796, rho = -0.7497404795102852
+nSV = 477, nBSV = 239
+Total nSV = 477
+*
+optimization finished, #iter = 519
+nu = 0.5972696245733786
+obj = -302.6305684207671, rho = -0.5163517099012543
+nSV = 481, nBSV = 224
+Total nSV = 481
+*
+optimization finished, #iter = 522
+nu = 0.6075085324232078
+obj = -308.36885423528383, rho = -0.6956523303406505
+nSV = 478, nBSV = 229
+Total nSV = 478
+*
+optimization finished, #iter = 601
+nu = 0.6057298772169166
+obj = -370.7591936388353, rho = -0.9770203010459483
+nSV = 577, nBSV = 315
+*
+optimization finished, #iter = 202
+nu = 0.9414893617021277
+obj = -273.8966908074795, rho = -0.8807952315828887
+nSV = 367, nBSV = 342
+Total nSV = 367
+*
+optimization finished, #iter = 213
+nu = 0.9521276595744682
+obj = -274.4867653556629, rho = -0.6246046193553996
+nSV = 368, nBSV = 347
+Total nSV = 368
+*
+optimization finished, #iter = 192
+nu = 0.9840425531914894
+obj = -281.80021155747016, rho = -0.8219745388256591
+nSV = 373, nBSV = 365
+Total nSV = 373
+*
+optimization finished, #iter = 207
+nu = 0.925531914893617
+obj = -269.64132463306606, rho = -0.8014159584426311
+nSV = 361, nBSV = 337
+Total nSV = 361
+*
+optimization finished, #iter = 211
+nu = 0.9202127659574472
+obj = -269.6108285419439, rho = -0.7601833630668391
+nSV = 360, nBSV = 337
+Total nSV = 360
+*
+optimization finished, #iter = 253
+nu = 0.938248982111093
+obj = -320.22007172923924, rho = -1.1491009859638444
+nSV = 452, nBSV = 424
+*
+optimization finished, #iter = 465
+nu = 0.6151315789473685
+obj = -313.5273696627792, rho = 0.0034471579305500205
+nSV = 511, nBSV = 259
+Total nSV = 511
+*
+optimization finished, #iter = 435
+nu = 0.6985172981878089
+obj = -348.3816828447163, rho = 0.28246627315838285
+nSV = 519, nBSV = 324
+Total nSV = 519
+*
+optimization finished, #iter = 456
+nu = 0.6425041186161452
+obj = -325.32757104323224, rho = 0.13072487692883578
+nSV = 509, nBSV = 273
+Total nSV = 509
+*
+optimization finished, #iter = 460
+nu = 0.6392092257001648
+obj = -326.00005985164097, rho = -0.026108916832328233
+nSV = 516, nBSV = 270
+Total nSV = 516
+*
+optimization finished, #iter = 428
+nu = 0.6721581548599671
+obj = -340.712953017941, rho = 0.031674413606876846
+nSV = 519, nBSV = 302
+Total nSV = 519
+*
+optimization finished, #iter = 529
+nu = 0.6534914361001317
+obj = -395.52763331743313, rho = 0.25834129255929883
+nSV = 617, nBSV = 364
+Total nSV = 1090
+*
+optimization finished, #iter = 451
+nu = 0.6414473684210524
+obj = -322.54342458389215, rho = 0.08304160795997446
+nSV = 515, nBSV = 269
+Total nSV = 515
+*
+optimization finished, #iter = 475
+nu = 0.6556836902800657
+obj = -329.46525398739533, rho = -0.00537394036415538
+nSV = 526, nBSV = 268
+Total nSV = 526
+*
+optimization finished, #iter = 453
+nu = 0.6523887973640856
+obj = -329.8579078442632, rho = 0.07959201318725245
+nSV = 519, nBSV = 273
+Total nSV = 519
+*
+optimization finished, #iter = 453
+nu = 0.6556836902800659
+obj = -330.3757037739268, rho = 0.16137726416191356
+nSV = 508, nBSV = 278
+Total nSV = 508
+*
+optimization finished, #iter = 450
+nu = 0.6622734761120266
+obj = -334.8431149561505, rho = 0.05725397430248658
+nSV = 521, nBSV = 286
+Total nSV = 521
+*
+optimization finished, #iter = 514
+nu = 0.6534914361001317
+obj = -393.0363671490046, rho = 0.2503840663519491
+nSV = 615, nBSV = 363
+*
+optimization finished, #iter = 450
+nu = 0.6122448979591837
+obj = -310.8288941874007, rho = 0.5731080926343389
+nSV = 492, nBSV = 230
+Total nSV = 492
+*
+optimization finished, #iter = 452
+nu = 0.6030664395229983
+obj = -307.4152611308625, rho = 0.3581436641983771
+nSV = 482, nBSV = 234
+Total nSV = 482
+*
+optimization finished, #iter = 420
+nu = 0.5962521294718909
+obj = -302.4246136193599, rho = 0.6012214420020834
+nSV = 472, nBSV = 230
+Total nSV = 472
+*
+optimization finished, #iter = 427
+nu = 0.6201022146507668
+obj = -314.2219286263565, rho = 0.648118180445813
+nSV = 490, nBSV = 242
+Total nSV = 490
+*
+optimization finished, #iter = 448
+nu = 0.6064735945485518
+obj = -308.90235473600114, rho = 0.5251595227272093
+nSV = 489, nBSV = 236
+Total nSV = 489
+*
+optimization finished, #iter = 493
+nu = 0.6076294277929157
+obj = -373.41820945686493, rho = 0.8192702858076444
+nSV = 584, nBSV = 320
+*
+optimization finished, #iter = 229
+nu = 0.5185178539490085
+obj = -217.50284000749977, rho = 5.504819081855353
+nSV = 332, nBSV = 261
+Total nSV = 332
+*
+optimization finished, #iter = 258
+nu = 0.563681870304277
+obj = -233.856156329641, rho = 5.809705816890914
+nSV = 359, nBSV = 285
+Total nSV = 359
+*
+optimization finished, #iter = 244
+nu = 0.54603715418564
+obj = -234.24168424631122, rho = 5.345964993684523
+nSV = 348, nBSV = 275
+Total nSV = 348
+*
+optimization finished, #iter = 230
+nu = 0.5731109753212692
+obj = -239.65957889116208, rho = 5.683027237180371
+nSV = 356, nBSV = 299
+Total nSV = 356
+*
+optimization finished, #iter = 222
+nu = 0.5481287030359147
+obj = -231.95484641036518, rho = 5.458705859073975
+nSV = 342, nBSV = 280
+Total nSV = 342
+*
+optimization finished, #iter = 259
+nu = 0.5278018229191322
+obj = -270.1682684290524, rho = 6.2995701685140775
+nSV = 410, nBSV = 345
+*
+optimization finished, #iter = 199
+nu = 0.9602122015915119
+obj = -278.1801362907169, rho = 0.8006367911478157
+nSV = 366, nBSV = 352
+Total nSV = 366
+*
+optimization finished, #iter = 205
+nu = 0.9442970822281167
+obj = -276.08759011073147, rho = 0.7663693728549095
+nSV = 371, nBSV = 345
+Total nSV = 371
+*
+optimization finished, #iter = 191
+nu = 0.9761273209549072
+obj = -272.84561798464, rho = 1.0022246350169437
+nSV = 373, nBSV = 363
+Total nSV = 373
+*
+optimization finished, #iter = 199
+nu = 0.9177718832891246
+obj = -271.3851690516417, rho = 0.40151128557815174
+nSV = 362, nBSV = 338
+Total nSV = 362
+*
+optimization finished, #iter = 205
+nu = 0.9361702127659575
+obj = -272.4475959466547, rho = 0.45443097160929247
+nSV = 366, nBSV = 342
+Total nSV = 366
+*
+optimization finished, #iter = 251
+nu = 0.9374162444445195
+obj = -320.4712346032981, rho = 1.0738716956067436
+nSV = 458, nBSV = 426
+*
+optimization finished, #iter = 210
+nu = 0.8497376348573277
+obj = -221.1777282603898, rho = 5.580039376079258
+nSV = 332, nBSV = 289
+Total nSV = 332
+*
+optimization finished, #iter = 198
+nu = 0.8362499713437181
+obj = -215.43680645925852, rho = 5.853108257471705
+nSV = 326, nBSV = 286
+Total nSV = 326
+*
+optimization finished, #iter = 209
+nu = 0.8268304221480386
+obj = -214.59147406301142, rho = 5.557161476893244
+nSV = 325, nBSV = 283
+Total nSV = 325
+*
+optimization finished, #iter = 221
+nu = 0.867240519725926
+obj = -222.66990631292128, rho = 5.645084827947423
+nSV = 335, nBSV = 283
+Total nSV = 335
+*
+optimization finished, #iter = 204
+nu = 0.8498937855275477
+obj = -222.11624056470296, rho = 5.532036140863981
+nSV = 327, nBSV = 289
+Total nSV = 327
+*
+optimization finished, #iter = 232
+nu = 0.7975245594047184
+obj = -254.31382252214746, rho = 6.124863092441945
+nSV = 376, nBSV = 333
+*
+optimization finished, #iter = 221
+nu = 0.9127943885459581
+obj = -231.04437222056873, rho = 4.8022180347835
+nSV = 324, nBSV = 274
+Total nSV = 324
+*
+optimization finished, #iter = 208
+nu = 0.8819769406536253
+obj = -227.215942162152, rho = 4.731281229675066
+nSV = 322, nBSV = 277
+Total nSV = 322
+*
+optimization finished, #iter = 211
+nu = 0.8842875159301136
+obj = -224.8151956505267, rho = 4.868142486984458
+nSV = 320, nBSV = 277
+Total nSV = 320
+*
+optimization finished, #iter = 199
+nu = 0.8928565281090971
+obj = -226.2396050863203, rho = 5.073181626136786
+nSV = 323, nBSV = 279
+Total nSV = 323
+*
+optimization finished, #iter = 206
+nu = 0.9208379783764487
+obj = -230.97166403736895, rho = 5.123924822745089
+nSV = 322, nBSV = 274
+Total nSV = 322
+*
+optimization finished, #iter = 264
+nu = 0.8536678444855809
+obj = -268.0345432518474, rho = 5.353877948862103
+nSV = 392, nBSV = 331
+Total nSV = 1089
+*
+optimization finished, #iter = 297
+nu = 0.5594378591279197
+obj = -237.65179010893354, rho = -5.485077816143993
+nSV = 349, nBSV = 292
+Total nSV = 349
+*
+optimization finished, #iter = 295
+nu = 0.5473528780555897
+obj = -231.9093825979826, rho = -5.168566707989664
+nSV = 343, nBSV = 280
+Total nSV = 343
+*
+optimization finished, #iter = 298
+nu = 0.534655250213542
+obj = -228.8930475537471, rho = -5.120949513428163
+nSV = 341, nBSV = 271
+Total nSV = 341
+*
+optimization finished, #iter = 310
+nu = 0.5490133087332137
+obj = -233.79493337508094, rho = -5.38373488942376
+nSV = 348, nBSV = 276
+Total nSV = 348
+*
+optimization finished, #iter = 302
+nu = 0.5707453362617513
+obj = -244.52493723735375, rho = -5.293941467814353
+nSV = 354, nBSV = 295
+Total nSV = 354
+*
+optimization finished, #iter = 346
+nu = 0.5323237714171846
+obj = -275.56156768123253, rho = -6.018902478588518
+nSV = 416, nBSV = 347
+*
+optimization finished, #iter = 217
+nu = 0.9017818377258486
+obj = -230.64540800657355, rho = -4.56196042898282
+nSV = 326, nBSV = 280
+Total nSV = 326
+*
+optimization finished, #iter = 210
+nu = 0.9272337200059355
+obj = -235.56656024206487, rho = -4.8446375388838705
+nSV = 323, nBSV = 277
+Total nSV = 323
+*
+optimization finished, #iter = 225
+nu = 0.9115711645471151
+obj = -231.18988905458875, rho = -4.535670071324888
+nSV = 326, nBSV = 282
+Total nSV = 326
+*
+optimization finished, #iter = 221
+nu = 0.8964920121901867
+obj = -230.67721286973, rho = -4.476119840876504
+nSV = 326, nBSV = 280
+Total nSV = 326
+*
+optimization finished, #iter = 220
+nu = 0.9096968089042233
+obj = -232.2102023403521, rho = -4.624241981657354
+nSV = 324, nBSV = 279
+Total nSV = 324
+*
+optimization finished, #iter = 264
+nu = 0.8688247623909138
+obj = -273.2124625810543, rho = -5.0302284678373015
+nSV = 395, nBSV = 338
+*
+optimization finished, #iter = 243
+nu = 0.8642409577205827
+obj = -222.85322837391647, rho = -5.507837282798278
+nSV = 334, nBSV = 284
+Total nSV = 334
+*
+optimization finished, #iter = 222
+nu = 0.8382335475599388
+obj = -222.94231033100692, rho = -5.354511194466276
+nSV = 325, nBSV = 285
+Total nSV = 325
+*
+optimization finished, #iter = 225
+nu = 0.8441461729847973
+obj = -223.81282365401515, rho = -5.171375737711717
+nSV = 329, nBSV = 286
+Total nSV = 329
+*
+optimization finished, #iter = 219
+nu = 0.8367740640561981
+obj = -220.45943736683304, rho = -5.2192291547547915
+nSV = 328, nBSV = 283
+Total nSV = 328
+*
+optimization finished, #iter = 223
+nu = 0.8641981663047695
+obj = -227.13593767233826, rho = -5.259158507268671
+nSV = 331, nBSV = 291
+Total nSV = 331
+*
+optimization finished, #iter = 269
+nu = 0.8071485383591924
+obj = -260.3182113690321, rho = -5.798682703734142
+nSV = 405, nBSV = 341
+*
+optimization finished, #iter = 451
+nu = 0.6020408163265303
+obj = -305.0682254973243, rho = 0.6138672013733898
+nSV = 486, nBSV = 236
+Total nSV = 486
+*
+optimization finished, #iter = 432
+nu = 0.6201022146507668
+obj = -315.75289320788045, rho = 0.635338049042723
+nSV = 486, nBSV = 256
+Total nSV = 486
+*
+optimization finished, #iter = 465
+nu = 0.5962521294718911
+obj = -302.4542492733083, rho = 0.716631855124469
+nSV = 482, nBSV = 219
+Total nSV = 482
+*
+optimization finished, #iter = 421
+nu = 0.6303236797274276
+obj = -315.61902512570055, rho = 0.6920278988781071
+nSV = 489, nBSV = 262
+Total nSV = 489
+*
+optimization finished, #iter = 424
+nu = 0.5894378194207837
+obj = -300.1285928521737, rho = 0.48619658623546125
+nSV = 478, nBSV = 232
+Total nSV = 478
+*
+optimization finished, #iter = 491
+nu = 0.6076294277929154
+obj = -371.9710885434712, rho = 0.928786081784569
+nSV = 584, nBSV = 329
+*
+optimization finished, #iter = 457
+nu = 0.6447368421052634
+obj = -323.1568995033983, rho = 0.039438360266232965
+nSV = 514, nBSV = 267
+Total nSV = 514
+*
+optimization finished, #iter = 468
+nu = 0.6546052631578947
+obj = -330.43758718867724, rho = 0.08021959320747094
+nSV = 525, nBSV = 273
+Total nSV = 525
+*
+optimization finished, #iter = 460
+nu = 0.680921052631579
+obj = -342.70519551532226, rho = 0.05849717066549673
+nSV = 523, nBSV = 297
+Total nSV = 523
+*
+optimization finished, #iter = 444
+nu = 0.6546052631578946
+obj = -324.7012929633815, rho = 0.2470690471755907
+nSV = 511, nBSV = 282
+Total nSV = 511
+*
+optimization finished, #iter = 443
+nu = 0.6414473684210527
+obj = -327.52813094131466, rho = 0.06896137475230149
+nSV = 511, nBSV = 272
+Total nSV = 511
+*
+optimization finished, #iter = 506
+nu = 0.6552631578947369
+obj = -393.10116464982104, rho = 0.2802114367818563
+nSV = 618, nBSV = 366
+*
+optimization finished, #iter = 199
+nu = 0.9576719576719577
+obj = -274.0459598935774, rho = -1.0917610659594594
+nSV = 370, nBSV = 351
+Total nSV = 370
+*
+optimization finished, #iter = 220
+nu = 0.9365079365079366
+obj = -267.98480142191073, rho = -0.6923826858248261
+nSV = 369, nBSV = 345
+Total nSV = 369
+*
+optimization finished, #iter = 201
+nu = 0.9549071618037137
+obj = -279.97602210064883, rho = -0.8500161254185976
+nSV = 368, nBSV = 348
+Total nSV = 368
+*
+optimization finished, #iter = 204
+nu = 0.9312169312169315
+obj = -271.40480307916954, rho = -0.5793132816189406
+nSV = 364, nBSV = 344
+Total nSV = 364
+*
+optimization finished, #iter = 206
+nu = 0.9442970822281167
+obj = -271.1154847749111, rho = -0.430985655121306
+nSV = 366, nBSV = 342
+Total nSV = 366
+*
+optimization finished, #iter = 259
+nu = 0.9332939842391986
+obj = -318.30190949540156, rho = -1.084840160013222
+nSV = 462, nBSV = 423
+Total nSV = 1098
+*
+optimization finished, #iter = 437
+nu = 0.6156462585034012
+obj = -310.5974187650058, rho = 0.7631664352271885
+nSV = 481, nBSV = 236
+Total nSV = 481
+*
+optimization finished, #iter = 442
+nu = 0.5860306643952302
+obj = -296.08117251352337, rho = 0.5868696392518788
+nSV = 472, nBSV = 222
+Total nSV = 472
+*
+optimization finished, #iter = 427
+nu = 0.596252129471891
+obj = -304.348436076839, rho = 0.6698260716491158
+nSV = 466, nBSV = 226
+Total nSV = 466
+*
+optimization finished, #iter = 429
+nu = 0.6269165247018739
+obj = -315.01460542859417, rho = 0.6781016976836178
+nSV = 487, nBSV = 248
+Total nSV = 487
+*
+optimization finished, #iter = 444
+nu = 0.6132879045996594
+obj = -312.69999612762814, rho = 0.701492476508141
+nSV = 482, nBSV = 234
+Total nSV = 482
+*
+optimization finished, #iter = 511
+nu = 0.6076294277929155
+obj = -371.9313133029349, rho = 0.9836934133582047
+nSV = 580, nBSV = 321
+*
+optimization finished, #iter = 445
+nu = 0.6447368421052628
+obj = -324.45545859790406, rho = -0.0037747626539274964
+nSV = 508, nBSV = 284
+Total nSV = 508
+*
+optimization finished, #iter = 471
+nu = 0.6578947368421053
+obj = -332.3755178382541, rho = 0.040845180304278
+nSV = 518, nBSV = 279
+Total nSV = 518
+*
+optimization finished, #iter = 468
+nu = 0.6381578947368424
+obj = -328.4519776589622, rho = 0.09981696100483468
+nSV = 520, nBSV = 272
+Total nSV = 520
+*
+optimization finished, #iter = 433
+nu = 0.6776315789473684
+obj = -336.81822679220477, rho = 0.32831262765602853
+nSV = 500, nBSV = 298
+Total nSV = 500
+*
+optimization finished, #iter = 446
+nu = 0.6578947368421053
+obj = -331.0977530841194, rho = 0.2262930023004531
+nSV = 505, nBSV = 284
+Total nSV = 505
+*
+optimization finished, #iter = 515
+nu = 0.655263157894737
+obj = -394.81484799407554, rho = 0.3186173416777847
+nSV = 611, nBSV = 366
+*
+optimization finished, #iter = 217
+nu = 0.5211600192096262
+obj = -222.8133290421622, rho = 5.158901859340062
+nSV = 330, nBSV = 265
+Total nSV = 330
+*
+optimization finished, #iter = 243
+nu = 0.5685839568688911
+obj = -238.6622973286705, rho = 5.660853533567081
+nSV = 357, nBSV = 289
+Total nSV = 357
+*
+optimization finished, #iter = 227
+nu = 0.5459640138060976
+obj = -230.43012484979275, rho = 5.463197282088415
+nSV = 343, nBSV = 281
+Total nSV = 343
+*
+optimization finished, #iter = 236
+nu = 0.5688827334855381
+obj = -236.4074515864373, rho = 5.802057863269892
+nSV = 357, nBSV = 296
+Total nSV = 357
+*
+optimization finished, #iter = 215
+nu = 0.5529335033328673
+obj = -232.41326759337872, rho = 5.442233556910692
+nSV = 342, nBSV = 290
+Total nSV = 342
+*
+optimization finished, #iter = 266
+nu = 0.5302038545441482
+obj = -271.19472921170177, rho = 6.253888909562505
+nSV = 409, nBSV = 347
+*
+optimization finished, #iter = 203
+nu = 0.9823010478316324
+obj = -273.93645133326004, rho = -0.4574430148237291
+nSV = 377, nBSV = 358
+Total nSV = 377
+*
+optimization finished, #iter = 212
+nu = 0.9153439153439153
+obj = -267.68519192242354, rho = -0.7080129512753289
+nSV = 363, nBSV = 334
+Total nSV = 363
+*
+optimization finished, #iter = 207
+nu = 0.9496021220159154
+obj = -274.80351438217883, rho = -0.9207973674071341
+nSV = 369, nBSV = 346
+Total nSV = 369
+*
+optimization finished, #iter = 202
+nu = 0.9206349206349206
+obj = -275.60160436580134, rho = -0.8509484567049967
+nSV = 362, nBSV = 341
+Total nSV = 362
+*
+optimization finished, #iter = 210
+nu = 0.9496021220159153
+obj = -276.00875562439614, rho = -0.659816874956992
+nSV = 369, nBSV = 346
+Total nSV = 369
+*
+optimization finished, #iter = 257
+nu = 0.9360021611764213
+obj = -320.1093287982981, rho = -1.091343420481028
+nSV = 458, nBSV = 424
+*
+optimization finished, #iter = 207
+nu = 0.9207364257102582
+obj = -234.18657154432464, rho = 4.760303967071279
+nSV = 323, nBSV = 282
+Total nSV = 323
+*
+optimization finished, #iter = 203
+nu = 0.9153354455726501
+obj = -231.93676280682666, rho = 4.783415083490099
+nSV = 319, nBSV = 272
+Total nSV = 319
+*
+optimization finished, #iter = 213
+nu = 0.9005428814801602
+obj = -228.7304878045523, rho = 4.705954983916163
+nSV = 321, nBSV = 279
+Total nSV = 321
+*
+optimization finished, #iter = 210
+nu = 0.89056261937454
+obj = -227.74661082817462, rho = 4.860835242591472
+nSV = 323, nBSV = 280
+Total nSV = 323
+*
+optimization finished, #iter = 208
+nu = 0.9134701472020798
+obj = -230.39883200400158, rho = 4.787094325823296
+nSV = 322, nBSV = 278
+Total nSV = 322
+*
+optimization finished, #iter = 259
+nu = 0.8661360649424704
+obj = -271.23714838403566, rho = 5.195088099718357
+nSV = 391, nBSV = 335
+*
+optimization finished, #iter = 207
+nu = 0.8546980275920589
+obj = -224.42246637709167, rho = 5.5138519655489056
+nSV = 330, nBSV = 291
+Total nSV = 330
+*
+optimization finished, #iter = 207
+nu = 0.8407288138371212
+obj = -221.12323033246037, rho = 5.420623542958017
+nSV = 331, nBSV = 284
+Total nSV = 331
+*
+optimization finished, #iter = 205
+nu = 0.8481089073094797
+obj = -223.02741825286466, rho = 5.283120582727086
+nSV = 331, nBSV = 287
+Total nSV = 331
+*
+optimization finished, #iter = 208
+nu = 0.8416934736483859
+obj = -220.61119676683097, rho = 5.349622725254794
+nSV = 328, nBSV = 286
+Total nSV = 328
+*
+optimization finished, #iter = 222
+nu = 0.866728466423644
+obj = -219.58382564241674, rho = 5.864731415641708
+nSV = 333, nBSV = 285
+Total nSV = 333
+*
+optimization finished, #iter = 247
+nu = 0.8058303678466526
+obj = -258.02031879412806, rho = 6.018517950499896
+nSV = 384, nBSV = 336
+Total nSV = 1091
+*
+optimization finished, #iter = 443
+nu = 0.6611842105263159
+obj = -332.93841193436083, rho = 0.17597778978716735
+nSV = 521, nBSV = 293
+Total nSV = 521
+*
+optimization finished, #iter = 451
+nu = 0.680921052631579
+obj = -338.63561549114604, rho = 0.17483855330753678
+nSV = 520, nBSV = 298
+Total nSV = 520
+*
+optimization finished, #iter = 444
+nu = 0.6480263157894736
+obj = -322.8000695221997, rho = 0.3081062613704452
+nSV = 494, nBSV = 276
+Total nSV = 494
+*
+optimization finished, #iter = 456
+nu = 0.6414473684210528
+obj = -325.0763650277071, rho = 0.027897495881360087
+nSV = 516, nBSV = 272
+Total nSV = 516
+*
+optimization finished, #iter = 451
+nu = 0.6447368421052629
+obj = -326.6907368059308, rho = 0.0778374998250072
+nSV = 512, nBSV = 273
+Total nSV = 512
+*
+optimization finished, #iter = 498
+nu = 0.6552631578947369
+obj = -392.4421436851076, rho = 0.3554894662555702
+nSV = 611, nBSV = 379
+*
+optimization finished, #iter = 215
+nu = 0.5278067687911778
+obj = -225.79179122490615, rho = 5.156112159650251
+nSV = 337, nBSV = 274
+Total nSV = 337
+*
+optimization finished, #iter = 237
+nu = 0.5259855740345167
+obj = -225.23924842453627, rho = 5.3420806578878555
+nSV = 340, nBSV = 263
+Total nSV = 340
+*
+optimization finished, #iter = 252
+nu = 0.5686105813395023
+obj = -237.6616753316532, rho = 5.786819920937003
+nSV = 355, nBSV = 287
+Total nSV = 355
+*
+optimization finished, #iter = 246
+nu = 0.5860061378921689
+obj = -244.27544526811107, rho = 5.91927559850894
+nSV = 367, nBSV = 302
+Total nSV = 367
+*
+optimization finished, #iter = 230
+nu = 0.554437005726701
+obj = -235.41641724297673, rho = 5.3286895075825225
+nSV = 344, nBSV = 282
+Total nSV = 344
+*
+optimization finished, #iter = 271
+nu = 0.5322122875285221
+obj = -273.2441872220426, rho = 6.29914819025142
+nSV = 416, nBSV = 344
+*
+optimization finished, #iter = 439
+nu = 0.5792163543441227
+obj = -298.71282535558555, rho = 0.6066095533280375
+nSV = 475, nBSV = 217
+Total nSV = 475
+*
+optimization finished, #iter = 419
+nu = 0.6211604095563137
+obj = -312.3281206462192, rho = 0.7257257854824863
+nSV = 485, nBSV = 253
+Total nSV = 485
+*
+optimization finished, #iter = 425
+nu = 0.6064735945485518
+obj = -305.34181287237465, rho = 0.7566640301840315
+nSV = 469, nBSV = 232
+Total nSV = 469
+*
+optimization finished, #iter = 448
+nu = 0.614334470989761
+obj = -311.65461775077887, rho = 0.7178038561253153
+nSV = 480, nBSV = 233
+Total nSV = 480
+*
+optimization finished, #iter = 438
+nu = 0.6075085324232082
+obj = -306.1576896263828, rho = 0.5962286291324427
+nSV = 481, nBSV = 233
+Total nSV = 481
+*
+optimization finished, #iter = 501
+nu = 0.6057298772169167
+obj = -371.0414220133065, rho = 0.9876477297303148
+nSV = 590, nBSV = 325
+*
+optimization finished, #iter = 210
+nu = 0.8517671525786522
+obj = -224.43217977462376, rho = 5.413239046822124
+nSV = 330, nBSV = 286
+Total nSV = 330
+*
+optimization finished, #iter = 204
+nu = 0.851504821337212
+obj = -222.0434321184694, rho = 5.582945744489826
+nSV = 330, nBSV = 287
+Total nSV = 330
+*
+optimization finished, #iter = 198
+nu = 0.8339467028715501
+obj = -220.98542434547772, rho = 5.3102771620603475
+nSV = 325, nBSV = 285
+Total nSV = 325
+*
+optimization finished, #iter = 222
+nu = 0.8690403487356643
+obj = -222.72342777495012, rho = 5.6229602814321
+nSV = 333, nBSV = 286
+Total nSV = 333
+*
+optimization finished, #iter = 215
+nu = 0.8485129645581254
+obj = -219.7478412057928, rho = 5.66379383707809
+nSV = 331, nBSV = 287
+Total nSV = 331
+*
+optimization finished, #iter = 252
+nu = 0.8045801952326392
+obj = -257.9643824687329, rho = 6.009696297480742
+nSV = 401, nBSV = 337
+*
+optimization finished, #iter = 207
+nu = 0.9336870026525199
+obj = -273.6619970963205, rho = 0.9164172884567381
+nSV = 366, nBSV = 341
+Total nSV = 366
+*
+optimization finished, #iter = 201
+nu = 0.9389920424403183
+obj = -272.98825903956345, rho = 0.8273572296369661
+nSV = 368, nBSV = 344
+Total nSV = 368
+*
+optimization finished, #iter = 207
+nu = 0.9336870026525199
+obj = -270.55969504819336, rho = 0.6175029814998135
+nSV = 366, nBSV = 340
+Total nSV = 366
+*
+optimization finished, #iter = 199
+nu = 0.9708222811671088
+obj = -279.5108950925557, rho = 0.8718752267630864
+nSV = 371, nBSV = 355
+Total nSV = 371
+*
+optimization finished, #iter = 206
+nu = 0.9361702127659575
+obj = -266.5050439985644, rho = 0.46937271411239495
+nSV = 368, nBSV = 339
+Total nSV = 368
+*
+optimization finished, #iter = 262
+nu = 0.9346695863312253
+obj = -318.3396204075458, rho = 1.0834919566059318
+nSV = 458, nBSV = 422
+*
+optimization finished, #iter = 224
+nu = 0.8950969877916788
+obj = -232.53846517322773, rho = -4.604677824313141
+nSV = 325, nBSV = 283
+Total nSV = 325
+*
+optimization finished, #iter = 195
+nu = 0.9295118424538322
+obj = -232.13161083911, rho = -5.061499569699889
+nSV = 321, nBSV = 302
+Total nSV = 321
+*
+optimization finished, #iter = 234
+nu = 0.9066698597052485
+obj = -230.26508477341866, rho = -4.800390145635579
+nSV = 321, nBSV = 279
+Total nSV = 321
+*
+optimization finished, #iter = 203
+nu = 0.90946663637945
+obj = -231.1792758858211, rho = -4.727900204811048
+nSV = 322, nBSV = 280
+Total nSV = 322
+*
+optimization finished, #iter = 224
+nu = 0.9063347067683782
+obj = -232.3696024200787, rho = -4.6909414215027905
+nSV = 328, nBSV = 283
+Total nSV = 328
+*
+optimization finished, #iter = 273
+nu = 0.8690344188928868
+obj = -273.17637784026346, rho = -5.245742983207824
+nSV = 392, nBSV = 335
+Total nSV = 1096
+*
+optimization finished, #iter = 459
+nu = 0.6611842105263155
+obj = -333.52335317465764, rho = 0.05624796916931085
+nSV = 521, nBSV = 287
+Total nSV = 521
+*
+optimization finished, #iter = 430
+nu = 0.680921052631579
+obj = -343.5537181163285, rho = 0.11140323633001985
+nSV = 519, nBSV = 310
+Total nSV = 519
+*
+optimization finished, #iter = 431
+nu = 0.6480263157894737
+obj = -325.830496861303, rho = 0.15435248526487325
+nSV = 515, nBSV = 282
+Total nSV = 515
+*
+optimization finished, #iter = 456
+nu = 0.6414473684210525
+obj = -324.79841496515235, rho = 0.23551522950641757
+nSV = 500, nBSV = 274
+Total nSV = 500
+*
+optimization finished, #iter = 448
+nu = 0.6447368421052634
+obj = -327.0566070328711, rho = -0.059024190647179245
+nSV = 521, nBSV = 276
+Total nSV = 521
+*
+optimization finished, #iter = 508
+nu = 0.655263157894737
+obj = -395.2786662547265, rho = 0.2871228784634382
+nSV = 623, nBSV = 382
+*
+optimization finished, #iter = 221
+nu = 0.5259486442056954
+obj = -224.8253490973963, rho = 5.071138773340133
+nSV = 335, nBSV = 265
+Total nSV = 335
+*
+optimization finished, #iter = 239
+nu = 0.5262792827982877
+obj = -224.58450073942643, rho = 5.460687811906482
+nSV = 333, nBSV = 261
+Total nSV = 333
+*
+optimization finished, #iter = 234
+nu = 0.5680952768184405
+obj = -239.56918215273637, rho = 5.610752212387962
+nSV = 355, nBSV = 299
+Total nSV = 355
+*
+optimization finished, #iter = 238
+nu = 0.5918629306948906
+obj = -251.25289538774172, rho = 5.600073310048471
+nSV = 367, nBSV = 308
+Total nSV = 367
+*
+optimization finished, #iter = 228
+nu = 0.5503983691252587
+obj = -233.88214169922526, rho = 5.349503860951261
+nSV = 344, nBSV = 281
+Total nSV = 344
+*
+optimization finished, #iter = 270
+nu = 0.5325712812336082
+obj = -274.9843161577973, rho = 6.172403846951404
+nSV = 416, nBSV = 348
+*
+optimization finished, #iter = 459
+nu = 0.5792163543441224
+obj = -295.67212836110747, rho = 0.4853615895501248
+nSV = 481, nBSV = 213
+Total nSV = 481
+*
+optimization finished, #iter = 416
+nu = 0.6211604095563137
+obj = -313.1135498584153, rho = 0.6793334263230927
+nSV = 481, nBSV = 253
+Total nSV = 481
+*
+optimization finished, #iter = 453
+nu = 0.606473594548552
+obj = -308.68650239650793, rho = 0.7234516582430882
+nSV = 473, nBSV = 225
+Total nSV = 473
+*
+optimization finished, #iter = 440
+nu = 0.614334470989761
+obj = -311.68269891861127, rho = 0.6456778089448132
+nSV = 483, nBSV = 238
+Total nSV = 483
+*
+optimization finished, #iter = 460
+nu = 0.607508532423208
+obj = -305.9040396572366, rho = 0.5746980469294057
+nSV = 484, nBSV = 230
+Total nSV = 484
+*
+optimization finished, #iter = 509
+nu = 0.6057298772169167
+obj = -371.24742421006596, rho = 0.9120656147274417
+nSV = 583, nBSV = 316
+*
+optimization finished, #iter = 207
+nu = 0.8592701029305213
+obj = -226.228508459353, rho = 5.489835074319365
+nSV = 333, nBSV = 290
+Total nSV = 333
+*
+optimization finished, #iter = 199
+nu = 0.843855647449706
+obj = -219.09621002447233, rho = 5.639778507042484
+nSV = 328, nBSV = 287
+Total nSV = 328
+*
+optimization finished, #iter = 199
+nu = 0.8364998925066549
+obj = -223.6881260507914, rho = 5.226442435305756
+nSV = 318, nBSV = 284
+Total nSV = 318
+*
+optimization finished, #iter = 215
+nu = 0.8760679917312773
+obj = -227.8749183587287, rho = 5.663559150408736
+nSV = 339, nBSV = 295
+Total nSV = 339
+*
+optimization finished, #iter = 227
+nu = 0.8488817396803021
+obj = -225.38873676148194, rho = 5.388113418200306
+nSV = 328, nBSV = 282
+Total nSV = 328
+*
+optimization finished, #iter = 246
+nu = 0.8094095029892747
+obj = -261.36591675072253, rho = 6.002453255143331
+nSV = 403, nBSV = 341
+*
+optimization finished, #iter = 216
+nu = 0.9336870026525199
+obj = -269.5901461949206, rho = 0.5253836477988105
+nSV = 365, nBSV = 340
+Total nSV = 365
+*
+optimization finished, #iter = 204
+nu = 0.9389920424403183
+obj = -278.2297817585633, rho = 0.5577613013024417
+nSV = 366, nBSV = 343
+Total nSV = 366
+*
+optimization finished, #iter = 206
+nu = 0.9336870026525199
+obj = -270.5749597172639, rho = 0.8470056426454372
+nSV = 368, nBSV = 337
+Total nSV = 368
+*
+optimization finished, #iter = 207
+nu = 0.9708222811671088
+obj = -279.88501339149445, rho = 0.8371135686160202
+nSV = 372, nBSV = 352
+Total nSV = 372
+*
+optimization finished, #iter = 210
+nu = 0.9361702127659575
+obj = -272.35651513881555, rho = 0.8404083559677695
+nSV = 366, nBSV = 337
+Total nSV = 366
+*
+optimization finished, #iter = 263
+nu = 0.9366924941492258
+obj = -320.36806751125465, rho = 1.0971159459113744
+nSV = 457, nBSV = 423
+*
+optimization finished, #iter = 228
+nu = 0.8990543467424925
+obj = -234.98491206810314, rho = -4.285170557430177
+nSV = 329, nBSV = 281
+Total nSV = 329
+*
+optimization finished, #iter = 207
+nu = 0.9250303911296948
+obj = -229.66202719052353, rho = -5.090276251458346
+nSV = 323, nBSV = 286
+Total nSV = 323
+*
+optimization finished, #iter = 225
+nu = 0.9033618192859499
+obj = -230.95405841013928, rho = -4.944234077498346
+nSV = 325, nBSV = 280
+Total nSV = 325
+*
+optimization finished, #iter = 210
+nu = 0.9225337995828629
+obj = -236.62531720413733, rho = -4.582433252314434
+nSV = 323, nBSV = 282
+Total nSV = 323
+*
+optimization finished, #iter = 227
+nu = 0.8919650350369203
+obj = -228.27198189951477, rho = -4.6953232933360765
+nSV = 322, nBSV = 276
+Total nSV = 322
+*
+optimization finished, #iter = 282
+nu = 0.8683165957997838
+obj = -273.5669366701161, rho = -5.16944321091496
+nSV = 395, nBSV = 335
+Total nSV = 1090
+*
+optimization finished, #iter = 521
+nu = 0.5816326530612244
+obj = -297.472415929213, rho = -0.5901890439691589
+nSV = 466, nBSV = 213
+Total nSV = 466
+*
+optimization finished, #iter = 509
+nu = 0.6064735945485524
+obj = -308.6924967123174, rho = -0.5883949395382557
+nSV = 479, nBSV = 236
+Total nSV = 479
+*
+optimization finished, #iter = 500
+nu = 0.6235093696763206
+obj = -311.85338684179516, rho = -0.6267813147036547
+nSV = 481, nBSV = 255
+Total nSV = 481
+*
+optimization finished, #iter = 539
+nu = 0.6166950596252131
+obj = -312.66084469105243, rho = -0.6710750674040852
+nSV = 482, nBSV = 230
+Total nSV = 482
+*
+optimization finished, #iter = 526
+nu = 0.5962521294718909
+obj = -304.00081473857944, rho = -0.6582854394410934
+nSV = 470, nBSV = 219
+Total nSV = 470
+*
+optimization finished, #iter = 601
+nu = 0.6049046321525885
+obj = -371.1651239286443, rho = -0.9200436687912832
+nSV = 582, nBSV = 322
+*
+optimization finished, #iter = 204
+nu = 0.9361702127659579
+obj = -272.71228578963706, rho = -0.8562046436276919
+nSV = 369, nBSV = 338
+Total nSV = 369
+*
+optimization finished, #iter = 200
+nu = 0.9627659574468085
+obj = -276.8942453105531, rho = -0.7957569543177297
+nSV = 369, nBSV = 352
+Total nSV = 369
+*
+optimization finished, #iter = 187
+nu = 0.9787234042553193
+obj = -280.0233514865231, rho = -1.0626429467098384
+nSV = 370, nBSV = 366
+Total nSV = 370
+*
+optimization finished, #iter = 201
+nu = 0.9574468085106383
+obj = -272.943621325607, rho = -0.9342882871730226
+nSV = 369, nBSV = 347
+Total nSV = 369
+*
+optimization finished, #iter = 205
+nu = 0.8882978723404253
+obj = -260.8977220667193, rho = -0.5689227502182891
+nSV = 345, nBSV = 324
+Total nSV = 345
+*
+optimization finished, #iter = 252
+nu = 0.9371835940243834
+obj = -319.0129995704138, rho = -1.2056770710253162
+nSV = 452, nBSV = 422
+*
+optimization finished, #iter = 212
+nu = 0.8963161219056356
+obj = -234.3540520258287, rho = 4.304810780596585
+nSV = 325, nBSV = 279
+Total nSV = 325
+*
+optimization finished, #iter = 214
+nu = 0.919072005937475
+obj = -232.87712267047658, rho = 4.794869065760679
+nSV = 328, nBSV = 282
+Total nSV = 328
+*
+optimization finished, #iter = 207
+nu = 0.8929230565091413
+obj = -232.25247366693927, rho = 4.572380178394603
+nSV = 324, nBSV = 282
+Total nSV = 324
+*
+optimization finished, #iter = 206
+nu = 0.9069583456954331
+obj = -228.65015595955245, rho = 5.1642740746628535
+nSV = 324, nBSV = 275
+Total nSV = 324
+*
+optimization finished, #iter = 211
+nu = 0.9168115839963934
+obj = -228.38393700386055, rho = 5.211302967529291
+nSV = 321, nBSV = 271
+Total nSV = 321
+*
+optimization finished, #iter = 240
+nu = 0.8663515605006907
+obj = -272.7192496660797, rho = 5.28717952382653
+nSV = 393, nBSV = 336
+*
+optimization finished, #iter = 456
+nu = 0.6677631578947371
+obj = -335.891925081297, rho = 0.06677590645667433
+nSV = 523, nBSV = 302
+Total nSV = 523
+*
+optimization finished, #iter = 439
+nu = 0.6348684210526317
+obj = -318.7349219001247, rho = 0.033589622758856505
+nSV = 502, nBSV = 271
+Total nSV = 502
+*
+optimization finished, #iter = 457
+nu = 0.6578947368421053
+obj = -333.13741028183694, rho = 0.034474872431814844
+nSV = 522, nBSV = 285
+Total nSV = 522
+*
+optimization finished, #iter = 446
+nu = 0.6677631578947368
+obj = -335.66734691018655, rho = -0.033839021862200974
+nSV = 521, nBSV = 298
+Total nSV = 521
+*
+optimization finished, #iter = 450
+nu = 0.6348684210526315
+obj = -321.7178325932976, rho = 0.009020809679666661
+nSV = 511, nBSV = 273
+Total nSV = 511
+*
+optimization finished, #iter = 516
+nu = 0.6526315789473685
+obj = -392.5804634709063, rho = 0.18616111292820842
+nSV = 619, nBSV = 369
+*
+optimization finished, #iter = 231
+nu = 0.5469091046889551
+obj = -230.47907271124197, rho = 5.593428166672078
+nSV = 341, nBSV = 280
+Total nSV = 341
+*
+optimization finished, #iter = 240
+nu = 0.5523488713838233
+obj = -233.8762224721493, rho = 5.505961763331669
+nSV = 349, nBSV = 280
+Total nSV = 349
+*
+optimization finished, #iter = 239
+nu = 0.561005916722717
+obj = -234.7121257603178, rho = 5.594238142770387
+nSV = 354, nBSV = 289
+Total nSV = 354
+*
+optimization finished, #iter = 246
+nu = 0.54549514662163
+obj = -233.74981243168983, rho = 5.4339988368158325
+nSV = 350, nBSV = 279
+Total nSV = 350
+*
+optimization finished, #iter = 228
+nu = 0.5474199776243738
+obj = -232.0910472303005, rho = 5.439018772903693
+nSV = 348, nBSV = 281
+Total nSV = 348
+*
+optimization finished, #iter = 281
+nu = 0.5288507952947895
+obj = -272.2347191225771, rho = 6.241601152079832
+nSV = 415, nBSV = 343
+*
+optimization finished, #iter = 194
+nu = 0.8402298602140926
+obj = -219.32883266556235, rho = 5.7082217086888924
+nSV = 316, nBSV = 285
+Total nSV = 316
+*
+optimization finished, #iter = 201
+nu = 0.8380855227133419
+obj = -218.94349925624556, rho = 5.519826138863731
+nSV = 329, nBSV = 285
+Total nSV = 329
+*
+optimization finished, #iter = 212
+nu = 0.8463976605633615
+obj = -219.4545938027041, rho = 5.709171233451827
+nSV = 332, nBSV = 288
+Total nSV = 332
+*
+optimization finished, #iter = 209
+nu = 0.8326281608491835
+obj = -216.6152444682301, rho = 5.570548071412292
+nSV = 329, nBSV = 283
+Total nSV = 329
+*
+optimization finished, #iter = 217
+nu = 0.8859560367193139
+obj = -227.48093801435755, rho = 5.725219272992624
+nSV = 340, nBSV = 288
+Total nSV = 340
+*
+optimization finished, #iter = 231
+nu = 0.801068035597792
+obj = -256.1028121499393, rho = 6.1738490204253225
+nSV = 384, nBSV = 337
+Total nSV = 1100
+*
+optimization finished, #iter = 203
+nu = 0.837645877578599
+obj = -220.0230834954829, rho = 5.432238279480786
+nSV = 327, nBSV = 284
+Total nSV = 327
+*
+optimization finished, #iter = 204
+nu = 0.8481548144850931
+obj = -223.8128255872729, rho = 5.470841638559924
+nSV = 332, nBSV = 292
+Total nSV = 332
+*
+optimization finished, #iter = 203
+nu = 0.8596167384052724
+obj = -221.3393417497215, rho = 6.164358057124216
+nSV = 335, nBSV = 296
+Total nSV = 335
+*
+optimization finished, #iter = 192
+nu = 0.8400359333119126
+obj = -219.6941702259668, rho = 5.499585161605098
+nSV = 316, nBSV = 290
+Total nSV = 316
+*
+optimization finished, #iter = 216
+nu = 0.8573080565787499
+obj = -220.92705621925597, rho = 5.7366656604140145
+nSV = 335, nBSV = 284
+Total nSV = 335
+*
+optimization finished, #iter = 236
+nu = 0.8035690441074352
+obj = -257.3454514375155, rho = 6.213347248602375
+nSV = 384, nBSV = 341
+*
+optimization finished, #iter = 508
+nu = 0.6447368421052636
+obj = -326.7861233068458, rho = -0.09328206405034528
+nSV = 521, nBSV = 276
+Total nSV = 521
+*
+optimization finished, #iter = 534
+nu = 0.6348684210526315
+obj = -322.39486994317303, rho = 0.004338217452789726
+nSV = 516, nBSV = 270
+Total nSV = 516
+*
+optimization finished, #iter = 520
+nu = 0.6677631578947373
+obj = -334.06992337708067, rho = -0.025596678844517887
+nSV = 524, nBSV = 286
+Total nSV = 524
+*
+optimization finished, #iter = 545
+nu = 0.6513157894736846
+obj = -328.25772372923836, rho = -0.11993587483465531
+nSV = 516, nBSV = 279
+Total nSV = 516
+*
+optimization finished, #iter = 507
+nu = 0.6644736842105265
+obj = -335.27650092669273, rho = 0.031977696935344836
+nSV = 523, nBSV = 292
+Total nSV = 523
+*
+optimization finished, #iter = 609
+nu = 0.6526315789473687
+obj = -393.0654444751595, rho = -0.20342045868345363
+nSV = 632, nBSV = 371
+*
+optimization finished, #iter = 200
+nu = 0.9468085106382979
+obj = -271.22803365858806, rho = 0.8971973047572505
+nSV = 370, nBSV = 345
+Total nSV = 370
+*
+optimization finished, #iter = 203
+nu = 0.9521276595744681
+obj = -279.11225036807554, rho = 0.7364634396464858
+nSV = 369, nBSV = 347
+Total nSV = 369
+*
+optimization finished, #iter = 200
+nu = 0.9414893617021277
+obj = -273.23704159612765, rho = 0.8972281286542209
+nSV = 365, nBSV = 344
+Total nSV = 365
+*
+optimization finished, #iter = 200
+nu = 0.9521276595744681
+obj = -273.7952447230167, rho = 0.5634545917210076
+nSV = 367, nBSV = 346
+Total nSV = 367
+*
+optimization finished, #iter = 206
+nu = 0.9308510638297872
+obj = -267.9089382090083, rho = 0.4421846344645104
+nSV = 364, nBSV = 339
+Total nSV = 364
+*
+optimization finished, #iter = 252
+nu = 0.9334863946891283
+obj = -318.73633826203917, rho = 1.057702295674874
+nSV = 453, nBSV = 421
+*
+optimization finished, #iter = 295
+nu = 0.5459594218148148
+obj = -228.9449695417809, rho = -5.568849869287569
+nSV = 346, nBSV = 284
+Total nSV = 346
+*
+optimization finished, #iter = 289
+nu = 0.54098773609917
+obj = -230.96601393247803, rho = -5.527887045677197
+nSV = 339, nBSV = 282
+Total nSV = 339
+*
+optimization finished, #iter = 294
+nu = 0.546987233926355
+obj = -233.03239293831078, rho = -5.544503460689467
+nSV = 343, nBSV = 280
+Total nSV = 343
+*
+optimization finished, #iter = 292
+nu = 0.5593649487261666
+obj = -237.13055510990117, rho = -5.7189930835520375
+nSV = 347, nBSV = 288
+Total nSV = 347
+*
+optimization finished, #iter = 286
+nu = 0.5624094601260549
+obj = -236.3456462502281, rho = -5.6934403106293106
+nSV = 343, nBSV = 294
+Total nSV = 343
+*
+optimization finished, #iter = 345
+nu = 0.5288736547633396
+obj = -272.552120785177, rho = -6.365878370589902
+nSV = 409, nBSV = 345
+*
+optimization finished, #iter = 231
+nu = 0.9172415387345112
+obj = -232.14142795949783, rho = -5.055629448955363
+nSV = 323, nBSV = 273
+Total nSV = 323
+*
+optimization finished, #iter = 230
+nu = 0.904455106635285
+obj = -231.669151157826, rho = -4.835421301044248
+nSV = 323, nBSV = 278
+Total nSV = 323
+*
+optimization finished, #iter = 206
+nu = 0.8858172073547567
+obj = -227.78050294412657, rho = -4.755465950492783
+nSV = 324, nBSV = 276
+Total nSV = 324
+*
+optimization finished, #iter = 204
+nu = 0.9161827286971843
+obj = -230.01408179904215, rho = -5.119764880740276
+nSV = 321, nBSV = 277
+Total nSV = 321
+*
+optimization finished, #iter = 239
+nu = 0.9001503849484268
+obj = -230.28741635075912, rho = -5.032698880420091
+nSV = 327, nBSV = 278
+Total nSV = 327
+*
+optimization finished, #iter = 281
+nu = 0.8617314976227619
+obj = -271.282398393768, rho = -5.399042660820724
+nSV = 394, nBSV = 334
+*
+optimization finished, #iter = 444
+nu = 0.5714285714285713
+obj = -292.1935811053463, rho = 0.3919544688486813
+nSV = 478, nBSV = 216
+Total nSV = 478
+*
+optimization finished, #iter = 437
+nu = 0.6098807495741054
+obj = -309.36573299905405, rho = 0.4723067884968363
+nSV = 484, nBSV = 237
+Total nSV = 484
+*
+optimization finished, #iter = 453
+nu = 0.6201022146507666
+obj = -313.5815237497197, rho = 0.7677298877357347
+nSV = 489, nBSV = 224
+Total nSV = 489
+*
+optimization finished, #iter = 449
+nu = 0.6132879045996593
+obj = -310.74257185245125, rho = 0.6431696246246044
+nSV = 485, nBSV = 234
+Total nSV = 485
+*
+optimization finished, #iter = 443
+nu = 0.6098807495741058
+obj = -307.8141767192679, rho = 0.6638073378008205
+nSV = 479, nBSV = 234
+Total nSV = 479
+*
+optimization finished, #iter = 511
+nu = 0.6049046321525883
+obj = -370.754593705753, rho = 0.8737613483336444
+nSV = 585, nBSV = 314
+Total nSV = 1094
+
+Options: -F "weka.filters.unsupervised.attribute.StringToWordVector -R 1 -W 3000 -N 0 -stemmer weka.core.stemmers.NullStemmer -T -I -M 1 -tokenizer weka.core.tokenizers.WordTokenizer -C" -W weka.classifiers.functions.LibSVM -- -B 
+
+FilteredClassifier using weka.classifiers.functions.LibSVM -S 0 -K 2 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 1.0 -E 0.001 -P 0.1 -B -seed 1 on data filtered through weka.filters.unsupervised.attribute.StringToWordVector -R 1 -W 3000 -prune-rate -1.0 -C -T -I -N 0 -stemmer weka.core.stemmers.NullStemmer -M 1 -tokenizer "weka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\""
+
+Filtered Header
+@relation 'timetagging-weka.filters.unsupervised.attribute.StringToWordVector-R1-W3000-prune-rate-1.0-C-T-I-N0-stemmerweka.core.stemmers.NullStemmer-M1-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"'
+
+@attribute class {past,present,future,neutral}
+@attribute * numeric
+@attribute अँकुशीदार numeric
+@attribute अंक numeric
+@attribute अंक-पत्र numeric
+@attribute अंकित numeric
+@attribute अंग numeric
+@attribute अंगों numeric
+@attribute अंडे numeric
+@attribute अंत numeric
+@attribute अंतर numeric
+@attribute अंदर numeric
+@attribute अंश numeric
+@attribute अक्षर numeric
+@attribute अक्षरों numeric
+@attribute अचानक numeric
+@attribute अच्छी numeric
+@attribute अतिरिक्त numeric
+@attribute अथवा numeric
+@attribute अधिक numeric
+@attribute अधिकारियों numeric
+@attribute अधिकारी numeric
+@attribute अनुक्रम numeric
+@attribute अनुचित numeric
+@attribute अनुपयुक्त numeric
+@attribute अनुभूति numeric
+@attribute अनुमान numeric
+@attribute अनुसार numeric
+@attribute अन्दर numeric
+@attribute अन्य numeric
+@attribute अपना numeric
+@attribute अपनी numeric
+@attribute अपने numeric
+@attribute अपराध numeric
+@attribute अपराधों numeric
+@attribute अफ़गानिस्तान numeric
+@attribute अबीर numeric
+@attribute अभिप्राय numeric
+@attribute अभिप्रेत numeric
+@attribute अभी numeric
+@attribute अमल numeric
+@attribute अमावस्या numeric
+@attribute अमुक numeric
+@attribute अरणि numeric
+@attribute अर्थ numeric
+@attribute अलग numeric
+@attribute अलौकिक numeric
+@attribute अवकाश numeric
+@attribute अवसरों numeric
+@attribute अवस्था numeric
+@attribute अवस्थाओं numeric
+@attribute अशृंखलाबद्ध numeric
+@attribute असफल numeric
+@attribute अस्त्र numeric
+@attribute अस्थायी numeric
+@attribute अस्वीकार numeric
+@attribute अहित numeric
+@attribute आ numeric
+@attribute आँखें numeric
+@attribute आँखों numeric
+@attribute आकर numeric
+@attribute आकर्षक numeric
+@attribute आकार numeric
+@attribute आकृति numeric
+@attribute आकृष्ट numeric
+@attribute आग numeric
+@attribute आगे numeric
+@attribute आगे-पीछे numeric
+@attribute आच्छादन numeric
+@attribute आज numeric
+@attribute आज्ञा numeric
+@attribute आटे numeric
+@attribute आता numeric
+@attribute आती numeric
+@attribute आदि numeric
+@attribute आदेश numeric
+@attribute आदेशों numeric
+@attribute आधार numeric
+@attribute आधिकारिक numeric
+@attribute आने numeric
+@attribute आप numeric
+@attribute आया numeric
+@attribute आरंभ numeric
+@attribute आरंभिक numeric
+@attribute आरम्भ numeric
+@attribute आरोप numeric
+@attribute आलस्य numeric
+@attribute आवश्यक numeric
+@attribute आवश्यकता numeric
+@attribute आवश्यकताओं numeric
+@attribute आवश्यकतानुसार numeric
+@attribute आवेदन numeric
+@attribute आश्रय numeric
+@attribute आसन numeric
+@attribute इंतजार numeric
+@attribute इकाई numeric
+@attribute इच्छा numeric
+@attribute इलाज numeric
+@attribute इस numeric
+@attribute इसे numeric
+@attribute उचित numeric
+@attribute उच्च numeric
+@attribute उच्चारण numeric
+@attribute उच्चारित numeric
+@attribute उठकर numeric
+@attribute उठते numeric
+@attribute उठे numeric
+@attribute उड़ाने numeric
+@attribute उतना numeric
+@attribute उतने numeric
+@attribute उतर numeric
+@attribute उतरने numeric
+@attribute उत्तरदायित्व numeric
+@attribute उत्पत्ति numeric
+@attribute उत्पन्न numeric
+@attribute उदासीन numeric
+@attribute उद्देश्य numeric
+@attribute उधार numeric
+@attribute उनसे numeric
+@attribute उन्हें numeric
+@attribute उपकरण numeric
+@attribute उपभोग numeric
+@attribute उपयोग numeric
+@attribute उपलब्ध numeric
+@attribute उपस्कर numeric
+@attribute उपेक्षा numeric
+@attribute उमंग numeric
+@attribute उम्र numeric
+@attribute उस numeric
+@attribute उसका numeric
+@attribute उसकी numeric
+@attribute उसके numeric
+@attribute उसको numeric
+@attribute उसमें numeric
+@attribute उससे numeric
+@attribute उसी numeric
+@attribute उसे numeric
+@attribute ऊँचा numeric
+@attribute ऊपर numeric
+@attribute ऊपरी numeric
+@attribute ऊर्जा numeric
+@attribute ऊष्मा numeric
+@attribute ऊसर numeric
+@attribute एक numeric
+@attribute एवं numeric
+@attribute ऐतिहासिक numeric
+@attribute ऐसा numeric
+@attribute ऐसी numeric
+@attribute ऐसे numeric
+@attribute ऑक्सीजन numeric
+@attribute ओझा numeric
+@attribute ओर numeric
+@attribute औचित्यपूर्ण numeric
+@attribute और numeric
+@attribute औषध numeric
+@attribute कंकड़ numeric
+@attribute कई numeric
+@attribute कटोरी numeric
+@attribute कठिनता numeric
+@attribute कथन numeric
+@attribute कन्या numeric
+@attribute कन्यावालों numeric
+@attribute कपड़े numeric
+@attribute कम numeric
+@attribute कर numeric
+@attribute करके numeric
+@attribute करता numeric
+@attribute करते numeric
+@attribute करना numeric
+@attribute करने numeric
+@attribute करा numeric
+@attribute कराना numeric
+@attribute कराने numeric
+@attribute कराया numeric
+@attribute करारी numeric
+@attribute करे numeric
+@attribute कर्ज numeric
+@attribute कर्तव्य numeric
+@attribute कर्मचारी numeric
+@attribute कल numeric
+@attribute कलई numeric
+@attribute कल्पना numeric
+@attribute कष्ट numeric
+@attribute कसने numeric
+@attribute कहने numeric
+@attribute कही numeric
+@attribute कहीं numeric
+@attribute का numeric
+@attribute कागज numeric
+@attribute कागज़ numeric
+@attribute काग़ज़ numeric
+@attribute काग़ज़-पत्र numeric
+@attribute काट numeric
+@attribute काठ numeric
+@attribute काम numeric
+@attribute कारख़ाने numeric
+@attribute कारण numeric
+@attribute कारणवश numeric
+@attribute कार्बन numeric
+@attribute कार्य numeric
+@attribute कार्यान्वयन numeric
+@attribute कार्यालय numeric
+@attribute काल numeric
+@attribute काले numeric
+@attribute कि numeric
+@attribute किए numeric
+@attribute कितना numeric
+@attribute किनारे numeric
+@attribute किया numeric
+@attribute किये numeric
+@attribute किला numeric
+@attribute किवाड़ numeric
+@attribute किसी numeric
+@attribute की numeric
+@attribute कीचड़ numeric
+@attribute कुछ numeric
+@attribute कुल numeric
+@attribute कुसुम numeric
+@attribute कृत्य numeric
+@attribute कृदंत numeric
+@attribute कृपया numeric
+@attribute के numeric
+@attribute को numeric
+@attribute कोई numeric
+@attribute कोमल numeric
+@attribute क्या numeric
+@attribute क्रम numeric
+@attribute क्रमसूचक numeric
+@attribute क्रिकेट numeric
+@attribute क्रिया numeric
+@attribute क्रियाओं numeric
+@attribute क्रियाकलाप numeric
+@attribute क्षार numeric
+@attribute क्षेत्र numeric
+@attribute खगोल numeric
+@attribute खजूर numeric
+@attribute खट्टा numeric
+@attribute खड़ा numeric
+@attribute खड़े numeric
+@attribute खम्भों numeric
+@attribute ख़रीदने numeric
+@attribute ख़ास numeric
+@attribute खाद्य numeric
+@attribute खाद्य-पदार्थ numeric
+@attribute खाने numeric
+@attribute खाने-पीने numeric
+@attribute खिला numeric
+@attribute खिलाड़ी numeric
+@attribute खुला numeric
+@attribute खेल numeric
+@attribute खेलता numeric
+@attribute खेलते numeric
+@attribute खोदकर numeric
+@attribute खौलते numeric
+@attribute गंध numeric
+@attribute गंभीर numeric
+@attribute गए numeric
+@attribute गठा numeric
+@attribute गड्ढा numeric
+@attribute गढ़ा numeric
+@attribute गणना numeric
+@attribute गत numeric
+@attribute गतिकीय numeric
+@attribute गया numeric
+@attribute गरम numeric
+@attribute गर्भिणी numeric
+@attribute गला numeric
+@attribute गहने numeric
+@attribute गहरा numeric
+@attribute ग़लत numeric
+@attribute गिनकर numeric
+@attribute गिरता numeric
+@attribute गिरते numeric
+@attribute गुड़ numeric
+@attribute गुण numeric
+@attribute गुलाल numeric
+@attribute गूँथकर numeric
+@attribute गूदा numeric
+@attribute गेंद numeric
+@attribute गोंद numeric
+@attribute गोल numeric
+@attribute गोल-गोल numeric
+@attribute गोलाई numeric
+@attribute गोली numeric
+@attribute गौ numeric
+@attribute ग्रहण numeric
+@attribute घट numeric
+@attribute घटना numeric
+@attribute घटनाएँ numeric
+@attribute घटे numeric
+@attribute घड़े numeric
+@attribute घर numeric
+@attribute घास numeric
+@attribute घासों numeric
+@attribute घी numeric
+@attribute घेरदार numeric
+@attribute घोल numeric
+@attribute चंद्र numeric
+@attribute चटपटा numeric
+@attribute चढ़ी numeric
+@attribute चतुराई numeric
+@attribute चद्दर numeric
+@attribute चमड़े numeric
+@attribute चलकर numeric
+@attribute चलता numeric
+@attribute चलते numeric
+@attribute चलाते numeric
+@attribute चलाने numeric
+@attribute चलाया numeric
+@attribute चले numeric
+@attribute चाँदी numeric
+@attribute चार-पाँच numeric
+@attribute चारों numeric
+@attribute चावल numeric
+@attribute चाहिए numeric
+@attribute चिंतन numeric
+@attribute चिउड़ा numeric
+@attribute चित्त numeric
+@attribute चित्र numeric
+@attribute चिन्ह numeric
+@attribute चीज़ numeric
+@attribute चीजें numeric
+@attribute चीजों numeric
+@attribute चीड़ numeric
+@attribute चीनी numeric
+@attribute चुका numeric
+@attribute चुकाना numeric
+@attribute चूर्ण numeric
+@attribute चेन numeric
+@attribute चैत numeric
+@attribute चोट numeric
+@attribute चोटी numeric
+@attribute चौकी numeric
+@attribute चौकोर numeric
+@attribute छड़ numeric
+@attribute छपी numeric
+@attribute छल्ला numeric
+@attribute छापे numeric
+@attribute छाल numeric
+@attribute छिपे numeric
+@attribute छुटते numeric
+@attribute छेद numeric
+@attribute छेदवाली numeric
+@attribute छोटा numeric
+@attribute छोटी numeric
+@attribute छोटे numeric
+@attribute छोड़कर numeric
+@attribute छोरों numeric
+@attribute छोले numeric
+@attribute जंतु numeric
+@attribute जगह numeric
+@attribute जन numeric
+@attribute जनी numeric
+@attribute जन्म numeric
+@attribute जन्मों numeric
+@attribute जब numeric
+@attribute जम numeric
+@attribute जमा numeric
+@attribute जमाई numeric
+@attribute जमाया numeric
+@attribute जल numeric
+@attribute जलने numeric
+@attribute जलपान numeric
+@attribute जलाशय numeric
+@attribute जल्द numeric
+@attribute जहाँ numeric
+@attribute ज़मीन numeric
+@attribute ज़मीनों numeric
+@attribute जा numeric
+@attribute जाए numeric
+@attribute जाता numeric
+@attribute जाति numeric
+@attribute जाती numeric
+@attribute जाते numeric
+@attribute जान numeric
+@attribute जानकारी numeric
+@attribute जाना numeric
+@attribute जाने numeric
+@attribute जानेवाला numeric
+@attribute जानेवाली numeric
+@attribute जाय numeric
+@attribute जितना numeric
+@attribute जितनी numeric
+@attribute जिनकी numeric
+@attribute जिनके numeric
+@attribute जिनमें numeric
+@attribute जिस numeric
+@attribute जिसका numeric
+@attribute जिसकी numeric
+@attribute जिसके numeric
+@attribute जिसपर numeric
+@attribute जिसमें numeric
+@attribute जिससे numeric
+@attribute जिसे numeric
+@attribute जीभ numeric
+@attribute जीव numeric
+@attribute जीवन numeric
+@attribute जीवित numeric
+@attribute जुड़ा numeric
+@attribute जैसे numeric
+@attribute जो numeric
+@attribute जोड़कर numeric
+@attribute जोड़ा numeric
+@attribute जोड़ाई numeric
+@attribute ज्ञान numeric
+@attribute ज्यादा numeric
+@attribute ज्येष्ठ numeric
+@attribute ज्वालामुखी numeric
+@attribute झाबा numeric
+@attribute झुकाकर numeric
+@attribute टहनियों numeric
+@attribute टाला numeric
+@attribute टुकड़ा numeric
+@attribute टूटा-फूटा numeric
+@attribute टेढ़ा numeric
+@attribute टेनिस numeric
+@attribute ठीक numeric
+@attribute ठेस numeric
+@attribute डंडा numeric
+@attribute डंडी numeric
+@attribute डंडे numeric
+@attribute डला numeric
+@attribute डालकर numeric
+@attribute डालते numeric
+@attribute डाला numeric
+@attribute डुबा numeric
+@attribute डुबाकर numeric
+@attribute डुबाने numeric
+@attribute डूबाने numeric
+@attribute डोरी numeric
+@attribute ढंग numeric
+@attribute ढका numeric
+@attribute ढाँचा numeric
+@attribute तंत्र numeric
+@attribute तंत्रशास्त्र numeric
+@attribute तंबाकू numeric
+@attribute तक numeric
+@attribute तत्त्व numeric
+@attribute तथा numeric
+@attribute तब numeric
+@attribute तबीयत numeric
+@attribute तरल numeric
+@attribute तरह numeric
+@attribute तराज़ू numeric
+@attribute तरीके numeric
+@attribute तर्क numeric
+@attribute तलकर numeric
+@attribute तला numeric
+@attribute तापमान numeric
+@attribute तारों numeric
+@attribute तिथि numeric
+@attribute तीन numeric
+@attribute तीर numeric
+@attribute तीलियों numeric
+@attribute तीव्र numeric
+@attribute तीसरा numeric
+@attribute तेरहवें numeric
+@attribute तेल numeric
+@attribute तैयार numeric
+@attribute तोड़ numeric
+@attribute तौल numeric
+@attribute त्याग numeric
+@attribute त्योहार numeric
+@attribute त्रुटि numeric
+@attribute था numeric
+@attribute थी numeric
+@attribute थोड़ा numeric
+@attribute थोड़े numeric
+@attribute दंड numeric
+@attribute दब numeric
+@attribute दबाव numeric
+@attribute दर्शाता numeric
+@attribute दर्शाने numeric
+@attribute दल numeric
+@attribute दलों numeric
+@attribute दशा numeric
+@attribute दस numeric
+@attribute दस्तावेज numeric
+@attribute दस्तावेज़ numeric
+@attribute दही numeric
+@attribute दानेदार numeric
+@attribute दायित्व numeric
+@attribute दाल numeric
+@attribute दिए numeric
+@attribute दिखने numeric
+@attribute दिखाई numeric
+@attribute दिखाए numeric
+@attribute दिन numeric
+@attribute दिनांक numeric
+@attribute दिया numeric
+@attribute दिये numeric
+@attribute दी numeric
+@attribute दीवार numeric
+@attribute दीवारों numeric
+@attribute दुकानदार numeric
+@attribute दुनिया numeric
+@attribute दूध numeric
+@attribute दूरी numeric
+@attribute दूसरी numeric
+@attribute दूसरे numeric
+@attribute दृढ़ता numeric
+@attribute दृष्टि numeric
+@attribute दे numeric
+@attribute देकर numeric
+@attribute देख numeric
+@attribute देखने numeric
+@attribute देखी numeric
+@attribute देता numeric
+@attribute देती numeric
+@attribute देतीं numeric
+@attribute देना numeric
+@attribute देने numeric
+@attribute देवमूर्तियों numeric
+@attribute देश numeric
+@attribute देशों numeric
+@attribute दैनिक numeric
+@attribute दोनों numeric
+@attribute दोष numeric
+@attribute द्रव numeric
+@attribute द्रव्यमान numeric
+@attribute द्वारा numeric
+@attribute धन numeric
+@attribute धर्म numeric
+@attribute धातु numeric
+@attribute धारण numeric
+@attribute धार्मिक numeric
+@attribute धुँधला numeric
+@attribute धूप numeric
+@attribute धूल numeric
+@attribute ध्यान numeric
+@attribute न numeric
+@attribute नगर numeric
+@attribute नदियों numeric
+@attribute नदी numeric
+@attribute नमक numeric
+@attribute नरमी numeric
+@attribute नशा numeric
+@attribute नशे numeric
+@attribute नसें numeric
+@attribute नहीं numeric
+@attribute नाँद numeric
+@attribute नाम numeric
+@attribute नाव numeric
+@attribute नावें numeric
+@attribute निकट numeric
+@attribute निकल numeric
+@attribute निकलकर numeric
+@attribute निकलता numeric
+@attribute निकलती numeric
+@attribute निकलने numeric
+@attribute निकला numeric
+@attribute निकालनेवाला numeric
+@attribute निकाला numeric
+@attribute नियंत्रित numeric
+@attribute नियत numeric
+@attribute नियम numeric
+@attribute नियमानुसार numeric
+@attribute नियमित numeric
+@attribute नियमों numeric
+@attribute नियुक्ति numeric
+@attribute निर्देश numeric
+@attribute निर्धारित numeric
+@attribute निवेदन numeric
+@attribute निश्चय numeric
+@attribute निश्चित numeric
+@attribute नीचे numeric
+@attribute नौ-दस numeric
+@attribute पंक्ति numeric
+@attribute पकड़ते numeric
+@attribute पकाकर numeric
+@attribute पक्की numeric
+@attribute पक्ष numeric
+@attribute पक्षी numeric
+@attribute पटरियाँ numeric
+@attribute पड़ता numeric
+@attribute पड़नेवाली numeric
+@attribute पड़े numeric
+@attribute पढ़ाई numeric
+@attribute पतली numeric
+@attribute पता numeric
+@attribute पत्तियों numeric
+@attribute पत्ते numeric
+@attribute पत्थर numeric
+@attribute पत्र numeric
+@attribute पद numeric
+@attribute पदार्थ numeric
+@attribute पदार्थों numeric
+@attribute पदों numeric
+@attribute पर numeric
+@attribute परन्तु numeric
+@attribute परसों numeric
+@attribute परिचय numeric
+@attribute परिचित numeric
+@attribute परिमाण numeric
+@attribute परिवर्तन numeric
+@attribute पर्वत numeric
+@attribute पर्वतों numeric
+@attribute पलड़े numeric
+@attribute पवित्र numeric
+@attribute पहनाने numeric
+@attribute पहनावा numeric
+@attribute पहले numeric
+@attribute पहाड़ numeric
+@attribute पहुँचना numeric
+@attribute पहुँचने numeric
+@attribute पहुँचाया numeric
+@attribute पागलों numeric
+@attribute पाटकर numeric
+@attribute पाटियों numeric
+@attribute पाठकों numeric
+@attribute पात्र numeric
+@attribute पानी numeric
+@attribute पाने numeric
+@attribute पाया numeric
+@attribute पायों numeric
+@attribute पार numeric
+@attribute पारिश्रमिक numeric
+@attribute पालन numeric
+@attribute पास numeric
+@attribute पिंडदान numeric
+@attribute पीछे numeric
+@attribute पीटकर numeric
+@attribute पीठी numeric
+@attribute पीतल numeric
+@attribute पुंज numeric
+@attribute पुनरावृत्ति numeric
+@attribute पुराने numeric
+@attribute पुर्जा numeric
+@attribute पुष्ट numeric
+@attribute पुस्तक numeric
+@attribute पूजा-पाठ numeric
+@attribute पूर numeric
+@attribute पूरा numeric
+@attribute पूरी numeric
+@attribute पूर्ण numeric
+@attribute पूर्णिमा numeric
+@attribute पूर्ति numeric
+@attribute पूर्व numeric
+@attribute पृथ्वी numeric
+@attribute पेड़ numeric
+@attribute पोला numeric
+@attribute पौधे numeric
+@attribute प्रकट numeric
+@attribute प्रकार numeric
+@attribute प्रकाश numeric
+@attribute प्रकाशित numeric
+@attribute प्रगट numeric
+@attribute प्रणाली numeric
+@attribute प्रति numeric
+@attribute प्रतिकार numeric
+@attribute प्रतिक्रिया numeric
+@attribute प्रतिद्वंदी numeric
+@attribute प्रत्यय numeric
+@attribute प्रत्येक numeric
+@attribute प्रथमा numeric
+@attribute प्रथा numeric
+@attribute प्रदर्शन numeric
+@attribute प्रभावित numeric
+@attribute प्रमाणस्वरूप numeric
+@attribute प्रमाणित numeric
+@attribute प्रयुक्त numeric
+@attribute प्रयोग numeric
+@attribute प्रलाप numeric
+@attribute प्रवाह numeric
+@attribute प्रवृत्त numeric
+@attribute प्रस्तुत numeric
+@attribute प्रस्थान numeric
+@attribute प्राकृतिक numeric
+@attribute प्राचीन numeric
+@attribute प्राणियों numeric
+@attribute प्राप्त numeric
+@attribute प्रायः numeric
+@attribute प्रिय numeric
+@attribute प्रेम numeric
+@attribute फल numeric
+@attribute फलक numeric
+@attribute फलों numeric
+@attribute फ़ारस numeric
+@attribute फिर numeric
+@attribute फुलकी numeric
+@attribute फूलों numeric
+@attribute फेंकने numeric
+@attribute बंद numeric
+@attribute बंधन numeric
+@attribute बचने numeric
+@attribute बचाने numeric
+@attribute बजे numeric
+@attribute बटन numeric
+@attribute बड़ी numeric
+@attribute बड़े numeric
+@attribute बड़ों numeric
+@attribute बढ़ई numeric
+@attribute बढ़ता numeric
+@attribute बढ़ा numeric
+@attribute बढ़ाया numeric
+@attribute बतलाया numeric
+@attribute बताकर numeric
+@attribute बताता numeric
+@attribute बताने numeric
+@attribute बदला numeric
+@attribute बदलाव numeric
+@attribute बदले numeric
+@attribute बदी numeric
+@attribute बन numeric
+@attribute बना numeric
+@attribute बनाने numeric
+@attribute बनाया numeric
+@attribute बनाये numeric
+@attribute बनावट numeric
+@attribute बनी numeric
+@attribute बने numeric
+@attribute बरतन numeric
+@attribute बरमें numeric
+@attribute बराबर numeric
+@attribute बराबरी numeric
+@attribute बर्रे numeric
+@attribute बहाव numeric
+@attribute बहुत numeric
+@attribute बहुमूल्य numeric
+@attribute बाँटता numeric
+@attribute बाँधकर numeric
+@attribute बाँस numeric
+@attribute बाँसों numeric
+@attribute बात numeric
+@attribute बात-चीत numeric
+@attribute बातें numeric
+@attribute बाद numeric
+@attribute बायाँ numeric
+@attribute बायें numeric
+@attribute बार numeric
+@attribute बारह numeric
+@attribute बारूद numeric
+@attribute बारे numeric
+@attribute बाहर numeric
+@attribute बाहरी numeric
+@attribute बिगड़ा numeric
+@attribute बिछाकर numeric
+@attribute बिछौना numeric
+@attribute बिना numeric
+@attribute बिल्कुल numeric
+@attribute बीच numeric
+@attribute बीज numeric
+@attribute बीता numeric
+@attribute बीती numeric
+@attribute बीते numeric
+@attribute बुना numeric
+@attribute बेची numeric
+@attribute बेचैन numeric
+@attribute बेलन numeric
+@attribute बेसन numeric
+@attribute बैंक numeric
+@attribute बैठक numeric
+@attribute बैठने numeric
+@attribute बैठाते numeric
+@attribute बैठाया numeric
+@attribute बोझ numeric
+@attribute बोधक numeric
+@attribute बोलना numeric
+@attribute बोलने numeric
+@attribute बोली numeric
+@attribute ब्याज numeric
+@attribute ब्राह्मण numeric
+@attribute भरकर numeric
+@attribute भरने numeric
+@attribute भरनेवाले numeric
+@attribute भरा numeric
+@attribute भरे numeric
+@attribute भरोसा numeric
+@attribute भली-भाँति numeric
+@attribute भस्म numeric
+@attribute भाँग numeric
+@attribute भाग numeric
+@attribute भाव numeric
+@attribute भी numeric
+@attribute भुजाओं numeric
+@attribute भूनकर numeric
+@attribute भेजा numeric
+@attribute भेद numeric
+@attribute भैंस numeric
+@attribute भोग numeric
+@attribute भोगने numeric
+@attribute भोजन numeric
+@attribute भ्रष्ट numeric
+@attribute मँगाया numeric
+@attribute मकान numeric
+@attribute मग्न numeric
+@attribute मत numeric
+@attribute मतलब numeric
+@attribute मद numeric
+@attribute मध्य numeric
+@attribute मन numeric
+@attribute मनन numeric
+@attribute मनमाने numeric
+@attribute मनाही numeric
+@attribute मनुष्य numeric
+@attribute मनुष्यों numeric
+@attribute मनोरंजन numeric
+@attribute मरने numeric
+@attribute मरे numeric
+@attribute मर्यादा numeric
+@attribute मसाला numeric
+@attribute मसाले numeric
+@attribute मस्तक numeric
+@attribute महत्व numeric
+@attribute महाजन numeric
+@attribute महीन numeric
+@attribute महीनों numeric
+@attribute माँग numeric
+@attribute मात्रा numeric
+@attribute मादक numeric
+@attribute मान numeric
+@attribute मानने numeric
+@attribute माननेवाला numeric
+@attribute माना numeric
+@attribute मानी numeric
+@attribute माप numeric
+@attribute मापना numeric
+@attribute मार्ग numeric
+@attribute माल numeric
+@attribute मालाओं numeric
+@attribute मास numeric
+@attribute मासिक numeric
+@attribute मिट्टी numeric
+@attribute मिठाइयाँ numeric
+@attribute मिर्च numeric
+@attribute मिल numeric
+@attribute मिलता numeric
+@attribute मिलते numeric
+@attribute मिलने numeric
+@attribute मिला numeric
+@attribute मिलाकर numeric
+@attribute मिलाने numeric
+@attribute मिलाया numeric
+@attribute मिलाये numeric
+@attribute मिले numeric
+@attribute मीठा numeric
+@attribute मुँह numeric
+@attribute मुख numeric
+@attribute मुख्य numeric
+@attribute मुरमुरा numeric
+@attribute मुलायम numeric
+@attribute मूँगफली numeric
+@attribute मूल numeric
+@attribute मूल्य numeric
+@attribute में numeric
+@attribute मैदान numeric
+@attribute मोक्षों numeric
+@attribute मोच numeric
+@attribute मोटे numeric
+@attribute मौखिक numeric
+@attribute यंत्र numeric
+@attribute यह numeric
+@attribute यहाँ numeric
+@attribute या numeric
+@attribute यांत्रिक numeric
+@attribute यात्रा numeric
+@attribute यानि numeric
+@attribute युक्त numeric
+@attribute युद्ध numeric
+@attribute युद्धरत numeric
+@attribute योग numeric
+@attribute योग्य numeric
+@attribute योग्यता numeric
+@attribute रखते numeric
+@attribute रखने numeric
+@attribute रखा numeric
+@attribute रखी numeric
+@attribute रखे numeric
+@attribute रचना numeric
+@attribute रजिस्टर numeric
+@attribute रत numeric
+@attribute रन numeric
+@attribute रस्सियों numeric
+@attribute रस्से numeric
+@attribute रहता numeric
+@attribute रहती numeric
+@attribute रहते numeric
+@attribute रहने numeric
+@attribute रहा numeric
+@attribute रहे numeric
+@attribute रांगे numeric
+@attribute राख numeric
+@attribute राजकीय numeric
+@attribute राजाओं numeric
+@attribute रायता numeric
+@attribute राशि numeric
+@attribute राष्ट्रों numeric
+@attribute रास्ता numeric
+@attribute रुपए numeric
+@attribute रुपये numeric
+@attribute रुपयों numeric
+@attribute रूढिवादी numeric
+@attribute रूप numeric
+@attribute रेगिस्तानों numeric
+@attribute रोक numeric
+@attribute रोकथाम numeric
+@attribute रोका numeric
+@attribute रोग numeric
+@attribute रोगी numeric
+@attribute लंबा numeric
+@attribute लकड़ी numeric
+@attribute लक्षण numeric
+@attribute लक्ष्य numeric
+@attribute लगता numeric
+@attribute लगने numeric
+@attribute लगा numeric
+@attribute लगाई numeric
+@attribute लगाकर numeric
+@attribute लगातार numeric
+@attribute लगाया numeric
+@attribute लगे numeric
+@attribute लगेगी numeric
+@attribute लटका numeric
+@attribute लट्ठों numeric
+@attribute लड़ों numeric
+@attribute लड्डू numeric
+@attribute लसलसा numeric
+@attribute लाकर numeric
+@attribute लाना numeric
+@attribute लाने numeric
+@attribute लाने-ले numeric
+@attribute लापरवाही numeric
+@attribute लाया numeric
+@attribute लाल numeric
+@attribute लिए numeric
+@attribute लिखकर numeric
+@attribute लिखने numeric
+@attribute लिखा numeric
+@attribute लिखित numeric
+@attribute लिखी numeric
+@attribute लिखे numeric
+@attribute लिया numeric
+@attribute लिये numeric
+@attribute लीन numeric
+@attribute लें numeric
+@attribute लेकर numeric
+@attribute लेख numeric
+@attribute लेखाबही numeric
+@attribute लेता numeric
+@attribute लेते numeric
+@attribute लेना numeric
+@attribute लेने numeric
+@attribute लोग numeric
+@attribute लोगों numeric
+@attribute लोहे numeric
+@attribute वंश numeric
+@attribute वक्ता numeric
+@attribute वचन numeric
+@attribute वर numeric
+@attribute वर्ग numeric
+@attribute वर्ण numeric
+@attribute वर्णन numeric
+@attribute वर्णों numeric
+@attribute वर्तमान numeric
+@attribute वर्ष numeric
+@attribute वर्षा numeric
+@attribute वस्तु numeric
+@attribute वस्तु-स्थिति numeric
+@attribute वस्तुएँ numeric
+@attribute वस्तुओं numeric
+@attribute वस्त्र numeric
+@attribute वह numeric
+@attribute वाक्य numeric
+@attribute वापस numeric
+@attribute वाला numeric
+@attribute वाली numeric
+@attribute वाले numeric
+@attribute वास्तविक numeric
+@attribute वास्ता numeric
+@attribute वाहन numeric
+@attribute विकसित numeric
+@attribute विकार numeric
+@attribute विक्रय-मूल्य numeric
+@attribute विचार numeric
+@attribute वितरण numeric
+@attribute वित्तीय numeric
+@attribute विदेशी numeric
+@attribute विधान numeric
+@attribute विधि numeric
+@attribute विधिपूर्वक numeric
+@attribute विपरीत numeric
+@attribute विवरण numeric
+@attribute विवाह numeric
+@attribute विशिष्ट numeric
+@attribute विशेष numeric
+@attribute विशेषकर numeric
+@attribute विशेषण numeric
+@attribute विशेषतः numeric
+@attribute विषय numeric
+@attribute विस्फोट numeric
+@attribute वृक्ष numeric
+@attribute वृक्षों numeric
+@attribute वृत्ति numeric
+@attribute वे numeric
+@attribute व्यक्ति numeric
+@attribute व्यक्तियों numeric
+@attribute व्यय numeric
+@attribute व्यर्थ numeric
+@attribute व्यवसाय numeric
+@attribute व्यवस्था numeric
+@attribute व्याकरण numeric
+@attribute व्याख्या numeric
+@attribute व्रत numeric
+@attribute शक्कर numeric
+@attribute शक्ति numeric
+@attribute शब्द numeric
+@attribute शब्द-समूह numeric
+@attribute शब्दों numeric
+@attribute शराब numeric
+@attribute शरीर numeric
+@attribute शामिल numeric
+@attribute शासन numeric
+@attribute शास्त्र numeric
+@attribute शास्त्रों numeric
+@attribute शिक्षा numeric
+@attribute शीरे numeric
+@attribute शीशे numeric
+@attribute शुक्ल numeric
+@attribute शुद्ध numeric
+@attribute शेर numeric
+@attribute शोधन numeric
+@attribute श्रेष्ठता numeric
+@attribute श्रोता numeric
+@attribute श्वास numeric
+@attribute संकट numeric
+@attribute संकेत numeric
+@attribute संक्षिप्त numeric
+@attribute संख्या numeric
+@attribute संचालित numeric
+@attribute संत numeric
+@attribute संतान numeric
+@attribute संदेह numeric
+@attribute संधि numeric
+@attribute संध्या numeric
+@attribute संपादित numeric
+@attribute संबंध numeric
+@attribute संबंधित numeric
+@attribute संबंधी numeric
+@attribute संबोध्य numeric
+@attribute संरचना numeric
+@attribute संलग्न numeric
+@attribute संस्कार numeric
+@attribute सके numeric
+@attribute सक्रिय numeric
+@attribute सटा numeric
+@attribute सड़ाकर numeric
+@attribute सत्कार numeric
+@attribute सत्ता numeric
+@attribute सदस्यों numeric
+@attribute सदा numeric
+@attribute सब numeric
+@attribute सबको numeric
+@attribute सभा numeric
+@attribute सभी numeric
+@attribute समझे-बूझे numeric
+@attribute समतल numeric
+@attribute समय numeric
+@attribute समयावधि numeric
+@attribute समाज numeric
+@attribute समाधि numeric
+@attribute समान numeric
+@attribute समुदाय numeric
+@attribute समुद्र numeric
+@attribute समूह numeric
+@attribute सरकार numeric
+@attribute सर्वनाम numeric
+@attribute सर्वनामों numeric
+@attribute सर्वमान्य numeric
+@attribute सवेरे numeric
+@attribute सह numeric
+@attribute सहायक numeric
+@attribute सहायता numeric
+@attribute सहित numeric
+@attribute सही numeric
+@attribute साँचे numeric
+@attribute सातवाँ numeric
+@attribute साथ numeric
+@attribute साधारण numeric
+@attribute साधारणतः numeric
+@attribute साफ़ numeric
+@attribute सामने numeric
+@attribute सामूहिक numeric
+@attribute सारा numeric
+@attribute सारी numeric
+@attribute सारे numeric
+@attribute सार्थक numeric
+@attribute साहित्य numeric
+@attribute सिंदूर numeric
+@attribute सिक्के numeric
+@attribute सिद्धि numeric
+@attribute सिरों numeric
+@attribute सिवा numeric
+@attribute सिवाय numeric
+@attribute सी numeric
+@attribute सींचने numeric
+@attribute सुख-दुख numeric
+@attribute सुखाया numeric
+@attribute सुगंधित numeric
+@attribute सुनवाई numeric
+@attribute सुनहले-रुपहले numeric
+@attribute सुनाना numeric
+@attribute सुनी numeric
+@attribute सुरक्षित numeric
+@attribute सुस्ताने numeric
+@attribute सूख numeric
+@attribute सूचक numeric
+@attribute सूचना numeric
+@attribute सूचित numeric
+@attribute सूर्य numeric
+@attribute सूर्यास्त numeric
+@attribute सूर्योदय numeric
+@attribute से numeric
+@attribute सेवाएँ numeric
+@attribute सोकर numeric
+@attribute सोते numeric
+@attribute सोने numeric
+@attribute स्तंभ numeric
+@attribute स्तम्भ numeric
+@attribute स्थान numeric
+@attribute स्थानों numeric
+@attribute स्थापना numeric
+@attribute स्थिति numeric
+@attribute स्थिर numeric
+@attribute स्पर्श numeric
+@attribute स्पष्ट numeric
+@attribute स्वभाव numeric
+@attribute स्वर numeric
+@attribute स्वस्थ numeric
+@attribute स्वादिष्ट numeric
+@attribute स्वाभाविक numeric
+@attribute स्वार्थ numeric
+@attribute स्वीकृति numeric
+@attribute हटे numeric
+@attribute हत्थों numeric
+@attribute हथेलियों numeric
+@attribute हर numeric
+@attribute हवन numeric
+@attribute हस्ताक्षर numeric
+@attribute हाँ numeric
+@attribute हाइड्रोजन numeric
+@attribute हाथ numeric
+@attribute हाल numeric
+@attribute हिंदुओं numeric
+@attribute हिन्दू-शास्त्रों numeric
+@attribute हिसाब numeric
+@attribute ही numeric
+@attribute हुआ numeric
+@attribute हुई numeric
+@attribute हुए numeric
+@attribute हृदय numeric
+@attribute है numeric
+@attribute हैं numeric
+@attribute हो numeric
+@attribute हों numeric
+@attribute होकर numeric
+@attribute होगी numeric
+@attribute होता numeric
+@attribute होती numeric
+@attribute होते numeric
+@attribute होना numeric
+@attribute होनी numeric
+@attribute होने numeric
+@attribute होनेवाला numeric
+@attribute होनेवाली numeric
+@attribute होली numeric
+@attribute अग्रणी numeric
+@attribute अचार numeric
+@attribute अच्छा numeric
+@attribute अच्छे numeric
+@attribute अटका numeric
+@attribute अटल numeric
+@attribute अतिक्रमण numeric
+@attribute अधिकांश numeric
+@attribute अधिग्रहण numeric
+@attribute अधिरोप numeric
+@attribute अधेड़ numeric
+@attribute अनुशासन numeric
+@attribute अन्न numeric
+@attribute अपराधी numeric
+@attribute अपहरण numeric
+@attribute अपितु numeric
+@attribute अब numeric
+@attribute अभाव numeric
+@attribute अभिनय numeric
+@attribute अभिषेक numeric
+@attribute अभी-अभी numeric
+@attribute अभ्यास numeric
+@attribute अयोग्य numeric
+@attribute अर्जन numeric
+@attribute अर्जित numeric
+@attribute अलंकार numeric
+@attribute अवकलन numeric
+@attribute असुर numeric
+@attribute आच्छादित numeric
+@attribute आदमी numeric
+@attribute आदर numeric
+@attribute आधुनिक numeric
+@attribute आपस numeric
+@attribute आबंटन numeric
+@attribute आयोजन numeric
+@attribute आविष्कार numeric
+@attribute आशंका numeric
+@attribute इकठ्ठा numeric
+@attribute इत्र numeric
+@attribute इधर-उधर numeric
+@attribute इश्तिहार numeric
+@attribute इसी numeric
+@attribute उखाड़ा numeric
+@attribute उत्पादन numeric
+@attribute उद्घाटन numeric
+@attribute उद्धार numeric
+@attribute उन्मूलन numeric
+@attribute उपग्रह numeric
+@attribute उपचार numeric
+@attribute उपरान्त numeric
+@attribute उबाला numeric
+@attribute उल्लंघन numeric
+@attribute ऊर्ध्वपातन numeric
+@attribute ऋषि numeric
+@attribute कड़ी numeric
+@attribute कन्याओं numeric
+@attribute कन्याराशि numeric
+@attribute कमाया numeric
+@attribute कमी numeric
+@attribute कर्कराशि numeric
+@attribute कलों numeric
+@attribute कहा numeric
+@attribute क़ब्ज़ा numeric
+@attribute काटने numeric
+@attribute काव्य numeric
+@attribute कुंभराशि numeric
+@attribute कुपथगामी numeric
+@attribute कुश numeric
+@attribute केवल numeric
+@attribute कौमार्य numeric
+@attribute क्षण numeric
+@attribute क्षति numeric
+@attribute खंड numeric
+@attribute खाया numeric
+@attribute खाली numeric
+@attribute खुद numeric
+@attribute गई numeric
+@attribute गयी numeric
+@attribute गर्भ numeric
+@attribute गर्भवती numeric
+@attribute गर्भाधान numeric
+@attribute गाड़ियों numeric
+@attribute गाड़ी numeric
+@attribute गाल numeric
+@attribute गिरा numeric
+@attribute गुलाब numeric
+@attribute गोरखनाथ numeric
+@attribute गौना numeric
+@attribute घटित numeric
+@attribute घबराया numeric
+@attribute घाव numeric
+@attribute घुटने numeric
+@attribute घेरा numeric
+@attribute घोड़े numeric
+@attribute चंद्रमा numeric
+@attribute चढ़ा numeric
+@attribute चढ़े numeric
+@attribute चना numeric
+@attribute चन्द्र numeric
+@attribute चयन numeric
+@attribute चल numeric
+@attribute चलने numeric
+@attribute चान्द्र numeric
+@attribute चान्द्रमास numeric
+@attribute चाल-चलन numeric
+@attribute चिपचिपा numeric
+@attribute चीर numeric
+@attribute चुना numeric
+@attribute चुनाव numeric
+@attribute चेतना numeric
+@attribute चौपाया numeric
+@attribute छड़ी numeric
+@attribute छला numeric
+@attribute छाप numeric
+@attribute छाया numeric
+@attribute छिपा numeric
+@attribute छुआ numeric
+@attribute जगत numeric
+@attribute जरायु numeric
+@attribute ज़ारी numeric
+@attribute जिम्मे numeric
+@attribute जिसको numeric
+@attribute जिसने numeric
+@attribute जीवाणु numeric
+@attribute जोतते numeric
+@attribute जोता numeric
+@attribute ज्योतिष numeric
+@attribute ज्योतिषानुसार numeric
+@attribute ज्वर numeric
+@attribute झुका numeric
+@attribute टकटकी numeric
+@attribute टकराते numeric
+@attribute टूटा numeric
+@attribute टॉप numeric
+@attribute ठंडा numeric
+@attribute डूबता numeric
+@attribute तत्वों numeric
+@attribute तने numeric
+@attribute तपा numeric
+@attribute तपाया numeric
+@attribute तालु numeric
+@attribute तिल्ली numeric
+@attribute तुरंत numeric
+@attribute तुलाराशि numeric
+@attribute तोला numeric
+@attribute तौला numeric
+@attribute त्यागा numeric
+@attribute थक numeric
+@attribute थका numeric
+@attribute दमन numeric
+@attribute दाँत numeric
+@attribute दाढ़ी numeric
+@attribute दुर्योधन numeric
+@attribute दैव numeric
+@attribute दो numeric
+@attribute दोपहर numeric
+@attribute द्रोह numeric
+@attribute द्रौपदी numeric
+@attribute धँसने numeric
+@attribute धनी numeric
+@attribute धनुराशि numeric
+@attribute धरा numeric
+@attribute धीरे numeric
+@attribute नया numeric
+@attribute नर numeric
+@attribute नष्ट numeric
+@attribute नायिका numeric
+@attribute निकालकर numeric
+@attribute निद्रा numeric
+@attribute निरूपण numeric
+@attribute निर्णय numeric
+@attribute निर्धारण numeric
+@attribute निर्माण numeric
+@attribute निर्वाचन numeric
+@attribute निषेध numeric
+@attribute नीबू numeric
+@attribute ने numeric
+@attribute न्यायालय numeric
+@attribute पकड़ने numeric
+@attribute पकड़ा numeric
+@attribute पकवाड़ने numeric
+@attribute पकाया numeric
+@attribute पचा numeric
+@attribute पड़ा numeric
+@attribute पति numeric
+@attribute परदेश numeric
+@attribute परसा numeric
+@attribute पराजित numeric
+@attribute परिणाम numeric
+@attribute परिवार numeric
+@attribute परिष्करण numeric
+@attribute परिष्कार numeric
+@attribute परिष्कृत numeric
+@attribute परिस्थियों numeric
+@attribute पहुँचा numeric
+@attribute पहुँची numeric
+@attribute पाचन numeric
+@attribute पाप numeric
+@attribute पालन-पोषण numeric
+@attribute पाला numeric
+@attribute पिंजरा numeric
+@attribute पिनपिनाता numeric
+@attribute पुकार numeric
+@attribute पुत्र numeric
+@attribute पुत्रवत् numeric
+@attribute पुरुष numeric
+@attribute पुल numeric
+@attribute पूरे numeric
+@attribute पेड़ों numeric
+@attribute पेय numeric
+@attribute पैदा numeric
+@attribute प्रक्षेपण numeric
+@attribute प्रचार numeric
+@attribute प्रतिपादन numeric
+@attribute प्रत्यारोपण numeric
+@attribute प्रभावी numeric
+@attribute प्रमाण numeric
+@attribute प्रयास numeric
+@attribute प्रयोजनवश numeric
+@attribute प्रवेश numeric
+@attribute प्रसंगवश numeric
+@attribute प्रसव numeric
+@attribute प्रसार numeric
+@attribute प्राणी numeric
+@attribute प्रियतम numeric
+@attribute प्लीहा numeric
+@attribute फलित numeric
+@attribute फाल numeric
+@attribute फीलपाँव numeric
+@attribute फूटा numeric
+@attribute फेट numeric
+@attribute फैला numeric
+@attribute बंदूक numeric
+@attribute बकरा numeric
+@attribute बच्चे numeric
+@attribute बच्चों numeric
+@attribute बजाया numeric
+@attribute बधिया numeric
+@attribute बनकर numeric
+@attribute बनती numeric
+@attribute बर्फ numeric
+@attribute बलात्कार numeric
+@attribute बाँटा numeric
+@attribute बाकी numeric
+@attribute बातों numeric
+@attribute बालक numeric
+@attribute बिकती numeric
+@attribute बिलकुल numeric
+@attribute बीत numeric
+@attribute बुरे numeric
+@attribute बूढ़ा numeric
+@attribute ब्याह numeric
+@attribute ब्रह्मचर्य-व्रत numeric
+@attribute ब्रह्मचारी numeric
+@attribute भंग numeric
+@attribute भंजन numeric
+@attribute भगवान numeric
+@attribute भाई numeric
+@attribute भागा numeric
+@attribute भिक्षा numeric
+@attribute भिक्षुकों numeric
+@attribute भुगतान numeric
+@attribute भूना numeric
+@attribute भूमि numeric
+@attribute मंजिल numeric
+@attribute मकरराशि numeric
+@attribute मटर numeric
+@attribute मढ़ा numeric
+@attribute मतानुगामी numeric
+@attribute मधुमेह numeric
+@attribute मरणतुल्य numeric
+@attribute मर्दन numeric
+@attribute महान numeric
+@attribute महिला numeric
+@attribute माता numeric
+@attribute माता-पिता numeric
+@attribute माध्यम numeric
+@attribute मानव numeric
+@attribute मानवीकरण numeric
+@attribute मारा numeric
+@attribute मिथुनराशि numeric
+@attribute मिलकर numeric
+@attribute मिलती numeric
+@attribute मिली numeric
+@attribute मिश्रण numeric
+@attribute मीनराशि numeric
+@attribute मुद्रण numeric
+@attribute मुस्कुरा numeric
+@attribute मुस्कुराता numeric
+@attribute मूलतः numeric
+@attribute मृग numeric
+@attribute मेषराशि numeric
+@attribute मैच numeric
+@attribute मौसम numeric
+@attribute यज्ञोपवीत numeric
+@attribute यथेष्ट numeric
+@attribute रंग numeric
+@attribute रंगों numeric
+@attribute रचा numeric
+@attribute रत्नों numeric
+@attribute रह numeric
+@attribute राक्षस numeric
+@attribute राजा numeric
+@attribute रात numeric
+@attribute रावण numeric
+@attribute रिकार्ड numeric
+@attribute रेखा numeric
+@attribute रेखांकन numeric
+@attribute लक्षणा numeric
+@attribute लसदार numeric
+@attribute लिपटा numeric
+@attribute लौटा numeric
+@attribute वक़्त numeric
+@attribute वर्गीकरण numeric
+@attribute वाद्य numeric
+@attribute वारिस numeric
+@attribute विघात numeric
+@attribute विद्यमान numeric
+@attribute विधवा numeric
+@attribute विमोचन numeric
+@attribute वियोग numeric
+@attribute विरोध numeric
+@attribute विलग numeric
+@attribute विशेषताओं numeric
+@attribute विष्णु numeric
+@attribute विस्तार numeric
+@attribute वृश्चिकराशि numeric
+@attribute वृषराशि numeric
+@attribute वैक्सीन numeric
+@attribute व्यवहार numeric
+@attribute व्याकुल numeric
+@attribute शास्त्रानुसार numeric
+@attribute शिशु numeric
+@attribute शीतमेह numeric
+@attribute शुभ numeric
+@attribute शैव numeric
+@attribute शोषण numeric
+@attribute श्लीपद numeric
+@attribute संकुचन numeric
+@attribute संचार numeric
+@attribute संचालन numeric
+@attribute संसर्ग numeric
+@attribute सकता numeric
+@attribute सजा numeric
+@attribute सत्यापन numeric
+@attribute सबसे numeric
+@attribute समर्थन numeric
+@attribute समर्पण numeric
+@attribute समाधान numeric
+@attribute सम्प्रदाय numeric
+@attribute सम्मान numeric
+@attribute सर्वथा numeric
+@attribute सर्वश्रेष्ठ numeric
+@attribute सहज numeric
+@attribute सात numeric
+@attribute साधु numeric
+@attribute साफा numeric
+@attribute सिंहराशि numeric
+@attribute सिक्का numeric
+@attribute सिरा numeric
+@attribute सीताजी numeric
+@attribute सुनने numeric
+@attribute सुपथगामी numeric
+@attribute सूखने numeric
+@attribute सूत numeric
+@attribute सोया numeric
+@attribute सौर numeric
+@attribute स्त्री numeric
+@attribute स्थितियों numeric
+@attribute स्नातक numeric
+@attribute स्नान numeric
+@attribute स्राव numeric
+@attribute स्वतंत्रता numeric
+@attribute स्वयं numeric
+@attribute स्वर्ण numeric
+@attribute स्वीकार numeric
+@attribute स्वीकृत numeric
+@attribute हत numeric
+@attribute हथियार numeric
+@attribute हरण numeric
+@attribute हराया numeric
+@attribute हल numeric
+@attribute हवा numeric
+@attribute हस्ताक्षरित numeric
+@attribute + numeric
+@attribute +गणना numeric
+@attribute अंकुर numeric
+@attribute अंतरिक्ष numeric
+@attribute अकबर numeric
+@attribute अगले numeric
+@attribute अट्ठानबे numeric
+@attribute अट्ठावन numeric
+@attribute अट्ठासी numeric
+@attribute अठहत्तर numeric
+@attribute अठारह numeric
+@attribute अड़तालिस numeric
+@attribute अत्यधिक numeric
+@attribute अधिदेश numeric
+@attribute अध्ययन numeric
+@attribute अनंत-चतुर्दशी numeric
+@attribute अनुपालन numeric
+@attribute अनुसूची numeric
+@attribute अफगान numeric
+@attribute अफगानी numeric
+@attribute अभिनंदन numeric
+@attribute अवतार numeric
+@attribute अवश्य numeric
+@attribute अशुभ numeric
+@attribute अस्त्र-शस्त्र numeric
+@attribute अस्पताल numeric
+@attribute अस्सी numeric
+@attribute अहमदाबाद numeric
+@attribute आँख numeric
+@attribute आकाश numeric
+@attribute आक्रमण numeric
+@attribute आगामी numeric
+@attribute आचरण numeric
+@attribute आठ numeric
+@attribute आण्विक numeric
+@attribute आदरपूर्वक numeric
+@attribute आदरसहित numeric
+@attribute आधा numeric
+@attribute आनेवाला numeric
+@attribute आनेवाले numeric
+@attribute आन्दोलन numeric
+@attribute आभूषण numeric
+@attribute आम numeric
+@attribute आमोद-प्रमोद numeric
+@attribute आवेश numeric
+@attribute आशा numeric
+@attribute आशीर्वाद numeric
+@attribute आहार numeric
+@attribute आहुति numeric
+@attribute इकसठ numeric
+@attribute इकहत्तर numeric
+@attribute इक्कानबे numeric
+@attribute इक्कावन numeric
+@attribute इक्यासी numeric
+@attribute इस्राइल numeric
+@attribute इस्लामी numeric
+@attribute ईकाई numeric
+@attribute ईश्वर numeric
+@attribute ईसवी numeric
+@attribute ईसा numeric
+@attribute उतारने numeric
+@attribute उत्तरी numeric
+@attribute उत्पन्न् numeric
+@attribute उत्सव numeric
+@attribute उनसठ numeric
+@attribute उनहत्तर numeric
+@attribute उन्नीस numeric
+@attribute उपयुक्त numeric
+@attribute उपरांत numeric
+@attribute ऊँचे numeric
+@attribute ऊख numeric
+@attribute ऋतु numeric
+@attribute एकत्रित numeric
+@attribute औरों numeric
+@attribute कंडा numeric
+@attribute कंधे numeric
+@attribute कक्ष numeric
+@attribute कगार numeric
+@attribute कचनार numeric
+@attribute कच्चे numeric
+@attribute कट numeric
+@attribute कटने numeric
+@attribute कन्डक्टर numeric
+@attribute कपड़ा numeric
+@attribute कपास numeric
+@attribute कब्जा numeric
+@attribute कर्म numeric
+@attribute कल्याण numeric
+@attribute कह numeric
+@attribute काँटा numeric
+@attribute कारावास numeric
+@attribute कार्यक्रम numeric
+@attribute किसानों numeric
+@attribute किसी-किसी numeric
+@attribute कील numeric
+@attribute कुंडली numeric
+@attribute कुमकुम numeric
+@attribute कृष्ण numeric
+@attribute केशर numeric
+@attribute क्रूर numeric
+@attribute क्षमता numeric
+@attribute क्षेत्रफल numeric
+@attribute ख़त्म numeric
+@attribute खातों numeric
+@attribute खिंचाव numeric
+@attribute खींचने numeric
+@attribute खेत numeric
+@attribute गड़ा numeric
+@attribute गद्दी numeric
+@attribute गन्ने numeric
+@attribute गले numeric
+@attribute गाँठोंवाला numeric
+@attribute गाड़कर numeric
+@attribute गाया numeric
+@attribute गिनती numeric
+@attribute गिरने numeric
+@attribute गीत numeric
+@attribute गुदा numeric
+@attribute गुरुओं numeric
+@attribute गुरुवार numeric
+@attribute गुस्सा numeric
+@attribute गोपियों numeric
+@attribute गोलाकार numeric
+@attribute ग्यारह numeric
+@attribute ग्रीनविच numeric
+@attribute घंटा numeric
+@attribute घंटे numeric
+@attribute घटने numeric
+@attribute घटाया numeric
+@attribute घड़ी numeric
+@attribute घनफल numeric
+@attribute घाट numeric
+@attribute घूमने numeric
+@attribute घेरे numeric
+@attribute घोड़ों numeric
+@attribute चक्कर numeric
+@attribute चढ़ने numeric
+@attribute चढ़ाने numeric
+@attribute चढ़ाया numeric
+@attribute चन्द्रमा numeric
+@attribute चार numeric
+@attribute चालक numeric
+@attribute चालीस numeric
+@attribute चिह्न numeric
+@attribute चूल्हे numeric
+@attribute चेहरा numeric
+@attribute चौथे numeric
+@attribute चौदह numeric
+@attribute चौपायों numeric
+@attribute चौबीस numeric
+@attribute चौरानबे numeric
+@attribute चौरासी numeric
+@attribute चौवन numeric
+@attribute चौसठ numeric
+@attribute छः numeric
+@attribute छब्बीसवाँ numeric
+@attribute छासठ numeric
+@attribute छिपाने numeric
+@attribute छियासी numeric
+@attribute छिहत्तर numeric
+@attribute छुए numeric
+@attribute जड़ numeric
+@attribute जनेऊ numeric
+@attribute जलप्रवाह numeric
+@attribute जलयान numeric
+@attribute जलाने numeric
+@attribute जलावन numeric
+@attribute जहाज numeric
+@attribute जाँच numeric
+@attribute जातियों numeric
+@attribute जानने numeric
+@attribute जाल numeric
+@attribute जालीदार numeric
+@attribute जीविका-निर्वाह numeric
+@attribute जुआरियों numeric
+@attribute जुए numeric
+@attribute जैसी numeric
+@attribute जॉर्डन numeric
+@attribute जौ numeric
+@attribute झुंड numeric
+@attribute झूल numeric
+@attribute झोला numeric
+@attribute टाइम numeric
+@attribute टालने numeric
+@attribute टिका numeric
+@attribute टूटने numeric
+@attribute ठंडापन numeric
+@attribute ठहर numeric
+@attribute ठहरने numeric
+@attribute ठहरा numeric
+@attribute डंठल numeric
+@attribute डाक numeric
+@attribute डालने numeric
+@attribute डाली numeric
+@attribute डूबने numeric
+@attribute तट numeric
+@attribute तड़कने numeric
+@attribute तत्ववाद numeric
+@attribute तपाने numeric
+@attribute तरंग numeric
+@attribute तरंगों numeric
+@attribute तालाब numeric
+@attribute ताश numeric
+@attribute तिरपन numeric
+@attribute तीस numeric
+@attribute तीसरे numeric
+@attribute तीसी numeric
+@attribute तेईस numeric
+@attribute तेरह numeric
+@attribute तैंतीस numeric
+@attribute थन numeric
+@attribute थाली numeric
+@attribute थे numeric
+@attribute थोड़ी numeric
+@attribute दर्शन numeric
+@attribute दशहरे numeric
+@attribute दसवाँ numeric
+@attribute दाँव numeric
+@attribute दादरा numeric
+@attribute दान numeric
+@attribute दार्शनिकों numeric
+@attribute दाहिने numeric
+@attribute दिल्ली numeric
+@attribute दुर्गासप्तशती numeric
+@attribute दृष्टिपटल numeric
+@attribute देनेवाली numeric
+@attribute दैर्ध्य numeric
+@attribute द्वार numeric
+@attribute द्वैत numeric
+@attribute धड़ numeric
+@attribute धागा numeric
+@attribute धारा numeric
+@attribute धोने numeric
+@attribute नए numeric
+@attribute नक्षत्र numeric
+@attribute नब्बे numeric
+@attribute नागरिक numeric
+@attribute नाचने numeric
+@attribute नामक numeric
+@attribute नामी numeric
+@attribute निकली numeric
+@attribute निकालने numeric
+@attribute निखार numeric
+@attribute निन्यानबे numeric
+@attribute निमित्त numeric
+@attribute नृत्य numeric
+@attribute पंचानबे numeric
+@attribute पंजे numeric
+@attribute पंडा numeric
+@attribute पकड़ numeric
+@attribute पका numeric
+@attribute पचहत्तर numeric
+@attribute पचास numeric
+@attribute पचासी numeric
+@attribute पचीस numeric
+@attribute पटरी numeric
+@attribute पड़नेवाला numeric
+@attribute पढ़ाया numeric
+@attribute पत्ता numeric
+@attribute पत्तों numeric
+@attribute पथ numeric
+@attribute पनचानबे numeric
+@attribute पन्द्रह numeric
+@attribute परलोक numeric
+@attribute पराक्रमी numeric
+@attribute परोसा numeric
+@attribute पर्व numeric
+@attribute पहना numeric
+@attribute पहने numeric
+@attribute पहला numeric
+@attribute पहले-पहल numeric
+@attribute पहाड़ों numeric
+@attribute पाँच numeric
+@attribute पाठ numeric
+@attribute पारसियों numeric
+@attribute पिछले numeric
+@attribute पुतला numeric
+@attribute पुर्तगाली numeric
+@attribute पुलिस numeric
+@attribute पुष्य numeric
+@attribute पूजा numeric
+@attribute पूर्वी numeric
+@attribute पेरिस numeric
+@attribute पेशवा numeric
+@attribute पैंतीस numeric
+@attribute पैंसठ numeric
+@attribute पोतविहार numeric
+@attribute प्रक्षेपित numeric
+@attribute प्रचारक numeric
+@attribute प्रतिरोध numeric
+@attribute प्रत्याशा numeric
+@attribute प्रहार numeric
+@attribute प्राप्ति numeric
+@attribute फंदा numeric
+@attribute फाड़ने numeric
+@attribute फारसी numeric
+@attribute फुट numeric
+@attribute फैलाया numeric
+@attribute फ्रांस numeric
+@attribute बँधा numeric
+@attribute बकरी numeric
+@attribute बगल numeric
+@attribute बचा numeric
+@attribute बच्चा numeric
+@attribute बजने numeric
+@attribute बड़ा numeric
+@attribute बढ़कर numeric
+@attribute बढ़ाने numeric
+@attribute बताए numeric
+@attribute बयासी numeric
+@attribute बल numeric
+@attribute बल्ले numeric
+@attribute बहत्तर numeric
+@attribute बहाना numeric
+@attribute बाँध numeric
+@attribute बाँधा numeric
+@attribute बाईस numeric
+@attribute बाजू numeric
+@attribute बानबे numeric
+@attribute बावन numeric
+@attribute बासठ numeric
+@attribute बिंदु numeric
+@attribute बिहारी numeric
+@attribute बीस numeric
+@attribute बुधवार numeric
+@attribute बुरा numeric
+@attribute बुलाकर numeric
+@attribute बृहस्पतिवार numeric
+@attribute बैठकर numeric
+@attribute बैठा numeric
+@attribute बैल numeric
+@attribute बैलों numeric
+@attribute ब्रज numeric
+@attribute ब्राह्मणों numeric
+@attribute ब्रिटिश numeric
+@attribute भंटा numeric
+@attribute भक्ति numeric
+@attribute भवन numeric
+@attribute भविष्य numeric
+@attribute भारत numeric
+@attribute भूमध्य numeric
+@attribute भोगविलास numeric
+@attribute मंगल numeric
+@attribute मंथन numeric
+@attribute मचान numeric
+@attribute मजदूर numeric
+@attribute मठा numeric
+@attribute मनाया numeric
+@attribute मरा numeric
+@attribute मल numeric
+@attribute महत्वपूर्ण numeric
+@attribute महल numeric
+@attribute महुआ numeric
+@attribute माँसल numeric
+@attribute मांस numeric
+@attribute मान्य numeric
+@attribute मापने numeric
+@attribute मालवाहक numeric
+@attribute मीटर numeric
+@attribute मीन numeric
+@attribute मुगल numeric
+@attribute मुर्गे numeric
+@attribute मृतक numeric
+@attribute मोटा numeric
+@attribute यज्ञ numeric
+@attribute यान numeric
+@attribute युग numeric
+@attribute रंजित numeric
+@attribute रविवार numeric
+@attribute रस numeric
+@attribute रस्सी numeric
+@attribute रहनेवाली numeric
+@attribute राजसिंहासन numeric
+@attribute राज्याभिषेक numeric
+@attribute रानी numeric
+@attribute राफ्टिंग numeric
+@attribute राशियों numeric
+@attribute रिहाई numeric
+@attribute रूई numeric
+@attribute रूढ़िवादी numeric
+@attribute रेडियो numeric
+@attribute रेलगाड़ी numeric
+@attribute रोगियों numeric
+@attribute रोजाना numeric
+@attribute लक्ष्मी numeric
+@attribute लगाने numeric
+@attribute लट्ठा numeric
+@attribute लड़ाई numeric
+@attribute लड़ाकू numeric
+@attribute लपेटकर numeric
+@attribute लम्बा numeric
+@attribute लाख numeric
+@attribute लादा numeric
+@attribute लालिमा numeric
+@attribute लिपि numeric
+@attribute लिपी numeric
+@attribute लेप numeric
+@attribute लोक numeric
+@attribute वन numeric
+@attribute वर-वधू numeric
+@attribute वसंत numeric
+@attribute वायु numeric
+@attribute वार numeric
+@attribute वार्षिक numeric
+@attribute वाहनों numeric
+@attribute विघ्न numeric
+@attribute विजयादशमी numeric
+@attribute विदेश numeric
+@attribute विद्युत numeric
+@attribute विभाजन numeric
+@attribute वेदी numeric
+@attribute वेश numeric
+@attribute वैज्ञानिक numeric
+@attribute शनिवार numeric
+@attribute शर्तों numeric
+@attribute शर्बत numeric
+@attribute शाम numeric
+@attribute शारीरिक numeric
+@attribute शासक numeric
+@attribute शुक्रवार numeric
+@attribute शेष numeric
+@attribute श्रम numeric
+@attribute श्राद्ध numeric
+@attribute श्री numeric
+@attribute षष्ठी numeric
+@attribute संख्याओं numeric
+@attribute संज्ञा numeric
+@attribute संदर्भित numeric
+@attribute संपूर्ण numeric
+@attribute संबंधों numeric
+@attribute संशोधन numeric
+@attribute सजाकर numeric
+@attribute सड़सठ numeric
+@attribute सतह numeric
+@attribute सतहत्तर numeric
+@attribute सत्तर numeric
+@attribute सत्तानबे numeric
+@attribute सत्तावन numeric
+@attribute सत्तासी numeric
+@attribute सत्रह numeric
+@attribute सफेद numeric
+@attribute सभापति numeric
+@attribute समानान्तर numeric
+@attribute सम्मुख numeric
+@attribute सर्वप्रथम numeric
+@attribute सवारी numeric
+@attribute सशर्त numeric
+@attribute सहारे numeric
+@attribute सागर numeric
+@attribute साठ numeric
+@attribute सामग्री numeric
+@attribute सामाजिक numeric
+@attribute साल numeric
+@attribute सिक्ख numeric
+@attribute सिर numeric
+@attribute सीमा numeric
+@attribute सुधार numeric
+@attribute सुबह numeric
+@attribute सेकंड numeric
+@attribute सेना numeric
+@attribute सेनापति numeric
+@attribute सोलह numeric
+@attribute सौ numeric
+@attribute स्तोत्र numeric
+@attribute स्त्रियों numeric
+@attribute स्थित numeric
+@attribute स्वर्ग numeric
+@attribute हज़ार numeric
+@attribute हल्दी numeric
+@attribute हाँड़ी numeric
+@attribute हाथी numeric
+@attribute होटल numeric
+@attribute १७३८ numeric
+@attribute ३२४ numeric
+@attribute *लकड़ी numeric
+@attribute +विवाह numeric
+@attribute अंगूर numeric
+@attribute अंडाकार numeric
+@attribute अंतिम numeric
+@attribute अंधविश्वास numeric
+@attribute अकस्मात numeric
+@attribute अकारण numeric
+@attribute अकेला numeric
+@attribute अग्नाशय numeric
+@attribute अतिवृष्टि numeric
+@attribute अत्याचार numeric
+@attribute अदरक numeric
+@attribute अधिकार numeric
+@attribute अधिपत्र numeric
+@attribute अनगिनत numeric
+@attribute अनर्थ numeric
+@attribute अनाज numeric
+@attribute अनावृष्टि numeric
+@attribute अनिवार्य numeric
+@attribute अनिश्चित numeric
+@attribute अनुकरण numeric
+@attribute अनुज्ञापत्र numeric
+@attribute अनुबंध numeric
+@attribute अनुभव numeric
+@attribute अनुरक्त numeric
+@attribute अनुवृत्ति numeric
+@attribute अनुष्ठान numeric
+@attribute अनेक numeric
+@attribute अन्न-जल numeric
+@attribute अपकर्ष numeric
+@attribute अपने-आप numeric
+@attribute अपमान numeric
+@attribute अपयश numeric
+@attribute अपशब्द numeric
+@attribute अपार numeric
+@attribute अफीम numeric
+@attribute अभय numeric
+@attribute अभिमान numeric
+@attribute अभिवादन numeric
+@attribute अभिव्यक्त numeric
+@attribute अमरसिंह numeric
+@attribute अमृत numeric
+@attribute अरगजे numeric
+@attribute अर्क numeric
+@attribute अर्ज़ी numeric
+@attribute अवधि numeric
+@attribute अवनि numeric
+@attribute अवयवों numeric
+@attribute अवलोकन numeric
+@attribute असमतापी numeric
+@attribute असामान्य numeric
+@attribute अस्त numeric
+@attribute आकर्षित numeric
+@attribute आखिरी numeric
+@attribute आग्रह numeric
+@attribute आनंद numeric
+@attribute आनंदोत्सव numeric
+@attribute आनन्द numeric
+@attribute आमलेट numeric
+@attribute आयात numeric
+@attribute आयामों numeric
+@attribute आयु numeric
+@attribute आराम numeric
+@attribute आरोपण numeric
+@attribute आलाप numeric
+@attribute आवाज numeric
+@attribute आवाज़ numeric
+@attribute आवास numeric
+@attribute आशय numeric
+@attribute आसा numeric
+@attribute आसानी numeric
+@attribute इंद्रियों numeric
+@attribute इकरार numeric
+@attribute इठलाने numeric
+@attribute इतराने numeric
+@attribute इन्कार numeric
+@attribute इमदाद numeric
+@attribute इम्तहान numeric
+@attribute ईंटें numeric
+@attribute उगने numeric
+@attribute उठाकर numeric
+@attribute उठाने numeric
+@attribute उड़ते numeric
+@attribute उड़ने numeric
+@attribute उत्तर numeric
+@attribute उत्साह numeric
+@attribute उद्यम numeric
+@attribute उनकी numeric
+@attribute उन्नति numeric
+@attribute उन्मत्त numeric
+@attribute उलटफेर numeric
+@attribute उलटी numeric
+@attribute उष्णता numeric
+@attribute ऊँट numeric
+@attribute ऊतकों numeric
+@attribute ऊन numeric
+@attribute एशियाई numeric
+@attribute ऑटो numeric
+@attribute औज़ार numeric
+@attribute औजार numeric
+@attribute औषधि numeric
+@attribute कँटीला numeric
+@attribute कंकाल numeric
+@attribute कटा numeric
+@attribute कटोरा numeric
+@attribute कटोरे numeric
+@attribute कठोर numeric
+@attribute कपूर numeric
+@attribute कबाब numeric
+@attribute कमर numeric
+@attribute कम्प्यूटर numeric
+@attribute करघा numeric
+@attribute करताल numeric
+@attribute करनेवाला numeric
+@attribute करवाने numeric
+@attribute कला numeric
+@attribute कवच numeric
+@attribute कशेरुकी numeric
+@attribute कसा numeric
+@attribute कसैला numeric
+@attribute कहलाया numeric
+@attribute क़द numeric
+@attribute काँसे numeric
+@attribute काटकर numeric
+@attribute काठी numeric
+@attribute कान numeric
+@attribute कानून numeric
+@attribute कारीगर numeric
+@attribute काली numeric
+@attribute कालों numeric
+@attribute किस numeric
+@attribute कीट numeric
+@attribute कीड़ा numeric
+@attribute कैल्शियम numeric
+@attribute कोणों numeric
+@attribute खनिज़ numeric
+@attribute ख़ुराक numeric
+@attribute खाता numeric
+@attribute खाना numeric
+@attribute खिलौना numeric
+@attribute खींचा numeric
+@attribute खुरदुरा numeric
+@attribute खुलने numeric
+@attribute खेलने numeric
+@attribute खोपड़ी numeric
+@attribute खोलने numeric
+@attribute गँवा numeric
+@attribute गढ़कर numeric
+@attribute गणनानुसार numeric
+@attribute गवाही numeric
+@attribute गहरे numeric
+@attribute गाती numeric
+@attribute गाते numeric
+@attribute गाने numeric
+@attribute गाय numeric
+@attribute गाली numeric
+@attribute गुट numeric
+@attribute गुरु numeric
+@attribute गेहूँ numeric
+@attribute गोल्फ़ numeric
+@attribute गौतम numeric
+@attribute गौरैया numeric
+@attribute ग्रंथि numeric
+@attribute घटकों numeric
+@attribute घड़ा numeric
+@attribute घर-बार numeric
+@attribute घास-फूस numeric
+@attribute घीक्वार numeric
+@attribute घुटनों numeric
+@attribute घूम-घूमकर numeric
+@attribute घोड़ा numeric
+@attribute चँवर numeric
+@attribute चमड़ा numeric
+@attribute चरने numeric
+@attribute चराने numeric
+@attribute चला numeric
+@attribute चांद्रमासों numeric
+@attribute चाय numeric
+@attribute चाहने numeric
+@attribute चिकित्सक numeric
+@attribute चिकित्सा numeric
+@attribute चित्तियों numeric
+@attribute चिपकाने numeric
+@attribute चीज numeric
+@attribute चीज़ें numeric
+@attribute चुम्बक numeric
+@attribute चूना numeric
+@attribute चूने numeric
+@attribute चैत्र numeric
+@attribute चोंच numeric
+@attribute चोटियों numeric
+@attribute चोब numeric
+@attribute चोरी numeric
+@attribute चौड़े numeric
+@attribute चौथा numeric
+@attribute छंद numeric
+@attribute छपा numeric
+@attribute छप्पर numeric
+@attribute छाजन numeric
+@attribute छिछला numeric
+@attribute छीनने numeric
+@attribute जँचने numeric
+@attribute जंगल numeric
+@attribute जगाने numeric
+@attribute जबानी numeric
+@attribute जरीब numeric
+@attribute जलपक्षी numeric
+@attribute जल्दी numeric
+@attribute जवान numeric
+@attribute जस्ते numeric
+@attribute जहरीला numeric
+@attribute ज़माना numeric
+@attribute ज़हरीला numeric
+@attribute जांघिल numeric
+@attribute जाड़ा numeric
+@attribute जानकर numeric
+@attribute जिज्ञासा numeric
+@attribute जिलेटिन numeric
+@attribute जीवाणुओं numeric
+@attribute जुगाली numeric
+@attribute जेली numeric
+@attribute जैन numeric
+@attribute जैसा numeric
+@attribute जैसे-तैसे numeric
+@attribute जोड़ने numeric
+@attribute ज्ञाता numeric
+@attribute ज्ञानेश्वर numeric
+@attribute झंकृत numeric
+@attribute झाग numeric
+@attribute झाड़-फूँक numeric
+@attribute झूठी numeric
+@attribute झूलते numeric
+@attribute झूला numeric
+@attribute टपकने numeric
+@attribute टाँग numeric
+@attribute टाँगों numeric
+@attribute टिन numeric
+@attribute टुकड़े numeric
+@attribute टेढ़ी numeric
+@attribute टोकरा numeric
+@attribute ठंड numeric
+@attribute ठंडक numeric
+@attribute ठीक-ठाक numeric
+@attribute ठेका numeric
+@attribute डंक numeric
+@attribute डाँटने numeric
+@attribute डिब्बा numeric
+@attribute डुलाने numeric
+@attribute डोरेदार numeric
+@attribute ढालने numeric
+@attribute ढूँढ़ने numeric
+@attribute ढोने numeric
+@attribute ढोल numeric
+@attribute तंबूर numeric
+@attribute तंबूरा numeric
+@attribute तरफ numeric
+@attribute तलवार numeric
+@attribute तलाक़ numeric
+@attribute तलाक़शुदा numeric
+@attribute तलाश numeric
+@attribute तसला numeric
+@attribute ताँबे numeric
+@attribute तांबे numeric
+@attribute तानने numeric
+@attribute तार numeric
+@attribute तिकड़म numeric
+@attribute तिल numeric
+@attribute तोड़ने numeric
+@attribute थाइमस numeric
+@attribute थापने numeric
+@attribute दबाकर numeric
+@attribute दरिद्र numeric
+@attribute दिखाने numeric
+@attribute दिन-पर- numeric
+@attribute दिनों numeric
+@attribute दिवस numeric
+@attribute दीवारें numeric
+@attribute दुमदार numeric
+@attribute दुरुस्त numeric
+@attribute दुर्गंधयुक्त numeric
+@attribute दुर्दशा numeric
+@attribute दुश्मन numeric
+@attribute दुष्ट numeric
+@attribute दूर numeric
+@attribute दूरदर्शिता numeric
+@attribute दूसरा numeric
+@attribute दृश्य numeric
+@attribute देखभाल numeric
+@attribute देनेवाला numeric
+@attribute देवता numeric
+@attribute देशी numeric
+@attribute दोषों numeric
+@attribute दौड़ने numeric
+@attribute द्रव्यों numeric
+@attribute द्वीप numeric
+@attribute धान numeric
+@attribute धार numeric
+@attribute धीमी numeric
+@attribute धैर्य numeric
+@attribute ध्यानपूर्वक numeric
+@attribute नंगा numeric
+@attribute नक्शा numeric
+@attribute नचाने numeric
+@attribute नमकीन numeric
+@attribute नाइट्रेट numeric
+@attribute नाक numeric
+@attribute नाटक numeric
+@attribute नानक numeric
+@attribute नापते numeric
+@attribute नापने numeric
+@attribute नाश numeric
+@attribute निकलना numeric
+@attribute नियतकालिक numeric
+@attribute निरंतर numeric
+@attribute निरीक्षण numeric
+@attribute निर्दिष्ट numeric
+@attribute निवास numeric
+@attribute निश्चिंत numeric
+@attribute निश्शुल्क numeric
+@attribute नीली numeric
+@attribute नौकर numeric
+@attribute पंखा numeric
+@attribute पंखों numeric
+@attribute पंचभूतों numeric
+@attribute पंथ numeric
+@attribute पकवान numeric
+@attribute पक्षों numeric
+@attribute पखावज numeric
+@attribute पटकर numeric
+@attribute पटा numeric
+@attribute पटाका numeric
+@attribute पट्टियों numeric
+@attribute पड़ती numeric
+@attribute पड़ने numeric
+@attribute पढ़कर numeric
+@attribute पढ़ने numeric
+@attribute पढ़ाने numeric
+@attribute पतला numeric
+@attribute पन्द्रहवाँ numeric
+@attribute परकोटे numeric
+@attribute परजीवी numeric
+@attribute परमाणु numeric
+@attribute परस्पर numeric
+@attribute परित्याग numeric
+@attribute परिश्रम numeric
+@attribute परीक्षा numeric
+@attribute परों numeric
+@attribute परोसने numeric
+@attribute पल numeric
+@attribute पलंग numeric
+@attribute पलाश numeric
+@attribute पशु numeric
+@attribute पहरा numeric
+@attribute पहरेदार numeric
+@attribute पहुँचाने numeric
+@attribute पाँचवें numeric
+@attribute पांडु numeric
+@attribute पाथने numeric
+@attribute पादने numeric
+@attribute पान numeric
+@attribute पार्श्व numeric
+@attribute पालने numeric
+@attribute पिचका numeric
+@attribute पिनपिनाने numeric
+@attribute पिया numeric
+@attribute पीकर numeric
+@attribute पीने numeric
+@attribute पीला numeric
+@attribute पूजन numeric
+@attribute पृथक numeric
+@attribute पेट्रोलियम numeric
+@attribute पेड़-पौधों numeric
+@attribute पेन्शन numeric
+@attribute पैंतरा numeric
+@attribute पैनी numeric
+@attribute पैर numeric
+@attribute पैरों numeric
+@attribute पौधा numeric
+@attribute पौरुष numeric
+@attribute प्यार numeric
+@attribute प्रक्षेप्य numeric
+@attribute प्रदान numeric
+@attribute प्रध्वंशक numeric
+@attribute प्रभाव numeric
+@attribute प्रयत्न numeric
+@attribute प्रवृत्ति numeric
+@attribute प्रशंसा numeric
+@attribute प्रशस्त numeric
+@attribute प्रश्न numeric
+@attribute प्रसन्न numeric
+@attribute प्रहर numeric
+@attribute प्रामाण्य numeric
+@attribute फटकने numeric
+@attribute फन numeric
+@attribute फूँकने numeric
+@attribute फूटने numeric
+@attribute फूल numeric
+@attribute फूलने numeric
+@attribute फूस numeric
+@attribute फेन numeric
+@attribute फैलाने numeric
+@attribute फैले numeric
+@attribute फोड़ा numeric
+@attribute फौलाद numeric
+@attribute बंदर numeric
+@attribute बकने numeric
+@attribute बचाकर numeric
+@attribute बजाई numeric
+@attribute बजाकर numeric
+@attribute बजाने numeric
+@attribute बटने numeric
+@attribute बटा numeric
+@attribute बड़ी-बड़ी numeric
+@attribute बढ़-चढ़कर numeric
+@attribute बतलाने numeric
+@attribute बताना numeric
+@attribute बदनाम numeric
+@attribute बदनामी numeric
+@attribute बनने numeric
+@attribute बनात numeric
+@attribute बनाते numeric
+@attribute बनाना numeric
+@attribute बम numeric
+@attribute बरछा numeric
+@attribute बरसने numeric
+@attribute बरसाती numeric
+@attribute बरसाने numeric
+@attribute बर्तन numeric
+@attribute बाँटने numeric
+@attribute बाँहों numeric
+@attribute बाजा numeric
+@attribute बाजार numeric
+@attribute बार-बार numeric
+@attribute बारहवें numeric
+@attribute बारहो numeric
+@attribute बाल numeric
+@attribute बाल-बच्चे numeric
+@attribute बालों numeric
+@attribute बासी numeric
+@attribute बिगुल numeric
+@attribute बिछावन numeric
+@attribute बिजली numeric
+@attribute बिताना numeric
+@attribute बिताने numeric
+@attribute बिल्लौर numeric
+@attribute बिसातबाने numeric
+@attribute बीमा numeric
+@attribute बुखार numeric
+@attribute बुद्ध numeric
+@attribute बुद्धि numeric
+@attribute बुरी numeric
+@attribute बूटियों numeric
+@attribute बेचने numeric
+@attribute बेदाना numeric
+@attribute बेलरस numeric
+@attribute बेल्जियम numeric
+@attribute बैठते numeric
+@attribute बोझा numeric
+@attribute बोध numeric
+@attribute बोने numeric
+@attribute भागने numeric
+@attribute भार numeric
+@attribute भाला numeric
+@attribute भाषण numeric
+@attribute भेंट numeric
+@attribute मंत्र-तंत्र numeric
+@attribute मखमल numeric
+@attribute मछली numeric
+@attribute मजबूत numeric
+@attribute मज़दूरी numeric
+@attribute मतवालापन numeric
+@attribute मतानुसार numeric
+@attribute मदारी numeric
+@attribute मनोरोग numeric
+@attribute मराठी numeric
+@attribute मलेरिया numeric
+@attribute मशीन numeric
+@attribute मस्त numeric
+@attribute महक numeric
+@attribute महाविनाशक numeric
+@attribute महीने numeric
+@attribute माँगने numeric
+@attribute मात्राओं numeric
+@attribute मानसिक numeric
+@attribute मारने numeric
+@attribute मुजरा numeric
+@attribute मुनाफ़ा numeric
+@attribute मुफ़्त numeric
+@attribute मुम्बई numeric
+@attribute मुलाक़ात numeric
+@attribute मुसलमानों numeric
+@attribute मुहर्रम numeric
+@attribute मूँछों numeric
+@attribute मृत numeric
+@attribute मेवे numeric
+@attribute मैगनेटाइट numeric
+@attribute मैदे numeric
+@attribute मोटी-मोटी numeric
+@attribute मोम numeric
+@attribute मोह numeric
+@attribute मोहने numeric
+@attribute याचना numeric
+@attribute याचिका numeric
+@attribute युवा numeric
+@attribute यूनानी numeric
+@attribute योजना numeric
+@attribute रंगो numeric
+@attribute रक्त numeric
+@attribute रक्षा numeric
+@attribute रखनेवाला numeric
+@attribute रत्न numeric
+@attribute रथ numeric
+@attribute रबाब numeric
+@attribute रहकर numeric
+@attribute रहना numeric
+@attribute रहनेवाला numeric
+@attribute राजस्थानी numeric
+@attribute रातभर numeric
+@attribute रासायनिक numeric
+@attribute रिक्शा numeric
+@attribute रिश्ता numeric
+@attribute रीति numeric
+@attribute रुपए-पैसे numeric
+@attribute रूस numeric
+@attribute रेंगकर numeric
+@attribute रेंगने numeric
+@attribute रेखाचित्र numeric
+@attribute रेतने numeric
+@attribute रेशम numeric
+@attribute रॉकेट numeric
+@attribute रोएँ numeric
+@attribute रोगग्रस्त numeric
+@attribute रोटियाँ numeric
+@attribute रोनी numeric
+@attribute रोपाई numeric
+@attribute लंबी numeric
+@attribute लंबे numeric
+@attribute लक्षणों numeric
+@attribute लटकता numeric
+@attribute लट्टू numeric
+@attribute लट्ठ numeric
+@attribute लम्बी numeric
+@attribute लम्बे numeric
+@attribute लागू numeric
+@attribute लाजवर्द numeric
+@attribute लाड़ numeric
+@attribute लात numeric
+@attribute ले numeric
+@attribute लेन-देन numeric
+@attribute लोक-गीत numeric
+@attribute लौटते numeric
+@attribute वनमानुष numeric
+@attribute वर्णवृत्त numeric
+@attribute वाचन numeric
+@attribute वादा numeric
+@attribute विक्रमादित्य numeric
+@attribute विक्रय numeric
+@attribute विचारने numeric
+@attribute विचारों numeric
+@attribute विद्या numeric
+@attribute विधानवाद numeric
+@attribute विनाश numeric
+@attribute विपत्ति numeric
+@attribute विरोधी numeric
+@attribute विशाल numeric
+@attribute विशेषज्ञ numeric
+@attribute विषधर numeric
+@attribute विषुवत् numeric
+@attribute विषुवों numeric
+@attribute वीणा numeric
+@attribute वीर्यपात numeric
+@attribute वृत्त numeric
+@attribute वृथा numeric
+@attribute वेद numeric
+@attribute वेदों numeric
+@attribute वेश्यागामी numeric
+@attribute वेस्टर्न numeric
+@attribute वैदिक numeric
+@attribute व्याख्यान numeric
+@attribute व्यापार numeric
+@attribute शंका numeric
+@attribute शंख numeric
+@attribute शक्तियों numeric
+@attribute शगुन numeric
+@attribute शत्रु numeric
+@attribute शब्दकोश numeric
+@attribute शहनाई numeric
+@attribute शादी numeric
+@attribute शास्त्रनिषिद्ध-दान numeric
+@attribute शिकायत numeric
+@attribute शिल्पकार numeric
+@attribute शिवलिंग numeric
+@attribute शीघ्र numeric
+@attribute शीर्ष numeric
+@attribute शुषिर numeric
+@attribute शैशव numeric
+@attribute शोध numeric
+@attribute शोभा numeric
+@attribute संक्रमण numeric
+@attribute संगणक numeric
+@attribute संतुष्ट numeric
+@attribute संदेश numeric
+@attribute संभोग numeric
+@attribute संयुक्त numeric
+@attribute संयोग numeric
+@attribute संवत् numeric
+@attribute सकती numeric
+@attribute सकने numeric
+@attribute सजा-सजाया numeric
+@attribute सट्टा numeric
+@attribute सड़ने numeric
+@attribute सदावर्त numeric
+@attribute सपना numeric
+@attribute सप्ताह numeric
+@attribute सफ़ाई numeric
+@attribute सबकुछ numeric
+@attribute समझ numeric
+@attribute समझनेवाला numeric
+@attribute समन्वय numeric
+@attribute समाचार numeric
+@attribute समाप्त numeric
+@attribute समुद्री numeric
+@attribute सरकने numeric
+@attribute सरीसृप numeric
+@attribute सर्प numeric
+@attribute सर्वाधिक numeric
+@attribute सवार numeric
+@attribute सहवास numeric
+@attribute सहारा numeric
+@attribute सा numeric
+@attribute साँप numeric
+@attribute साँस numeric
+@attribute सांसारिकता numeric
+@attribute साथ-साथ numeric
+@attribute साधन numeric
+@attribute सिखाने numeric
+@attribute सितार numeric
+@attribute सिद्धांतानुसार numeric
+@attribute सिपाही numeric
+@attribute सींक numeric
+@attribute सींकों numeric
+@attribute सीध numeric
+@attribute सीपी numeric
+@attribute सुंदर numeric
+@attribute सुख numeric
+@attribute सुगंध numeric
+@attribute सुनाने numeric
+@attribute सुन्दर numeric
+@attribute सुर numeric
+@attribute सुर्खी numeric
+@attribute सूक्ष्म numeric
+@attribute सूतों numeric
+@attribute सूद numeric
+@attribute सूरत numeric
+@attribute सेंध numeric
+@attribute सेवक numeric
+@attribute सेवा numeric
+@attribute सैंडविच numeric
+@attribute सोखने numeric
+@attribute सौदा numeric
+@attribute स्त्रावित numeric
+@attribute स्त्रियाँ numeric
+@attribute स्थल numeric
+@attribute स्थायी numeric
+@attribute स्फोटक numeric
+@attribute स्याही numeric
+@attribute स्रावित numeric
+@attribute स्वरतंत्रियाँ numeric
+@attribute स्वरों numeric
+@attribute हँसता numeric
+@attribute हजार numeric
+@attribute हफ्ते numeric
+@attribute हमला numeric
+@attribute हमेशा numeric
+@attribute हाँकने numeric
+@attribute हार्मोन numeric
+@attribute हिम numeric
+@attribute हिलने-डुलने numeric
+@attribute हेतु numeric
+@attribute होम numeric
+
+@data
+
+
+Classifier Model
+LibSVM wrapper, original code by Yasser EL-Manzalawy (= WLSVM)
+
+Time taken to build model: 3.64 seconds
+Time taken to test model on training data: 0.86 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances        1258               95.8111 %
+Incorrectly Classified Instances        55                4.1889 %
+Kappa statistic                          0.9405
+Mean absolute error                      0.0413
+Root mean squared error                  0.1332
+Relative absolute error                 11.7307 %
+Root relative squared error             31.7388 %
+Total Number of Instances             1313     
+
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.91      0.02       0.902     0.91      0.906      0.984    past
+                 0.949     0.011      0.96      0.949     0.954      0.997    present
+                 0.955     0.008      0.967     0.955     0.961      0.992    future
+                 0.982     0.019      0.976     0.982     0.979      0.997    neutral
+Weighted Avg.    0.958     0.015      0.958     0.958     0.958      0.994
+
+
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 202   6   4  10 |   a = past
+   9 262   2   3 |   b = present
+   8   2 236   1 |   c = future
+   5   3   2 558 |   d = neutral
+
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances        1243               94.6687 %
+Incorrectly Classified Instances        70                5.3313 %
+Kappa statistic                          0.9242
+Mean absolute error                      0.0478
+Root mean squared error                  0.147 
+Relative absolute error                 13.5704 %
+Root relative squared error             35.0275 %
+Total Number of Instances             1313     
+
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.847     0.015      0.922     0.847     0.883      0.982    past
+                 0.949     0.014      0.946     0.949     0.948      0.995    present
+                 0.96      0.021      0.915     0.96      0.937      0.989    future
+                 0.979     0.023      0.97      0.979     0.975      0.994    neutral
+Weighted Avg.    0.947     0.019      0.947     0.947     0.946      0.991
+
+
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+ 188   9  12  13 |   a = past
+   6 262   5   3 |   b = present
+   6   3 237   1 |   c = future
+   4   3   5 556 |   d = neutral
+

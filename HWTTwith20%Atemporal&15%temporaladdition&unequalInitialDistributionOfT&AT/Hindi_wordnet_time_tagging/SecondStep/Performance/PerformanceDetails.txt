@@ -1,0 +1,676 @@
+
+
+DETAILS AFTER ITERATION 1 TIME 1 
+
+Accuracy : 53.5714
+Total no. of instances in training file :  56
+FMeasure for past class :  0.3
+FMeasure for present class :  0.5
+FMeasure for future class :  0.316
+FMeasure for neutral class :  0.717
+Average FMeasure :  0.495
+No. of past instances :  12
+No. of present instances :  12
+No. of future instances :  12
+No. of neutral instances :  20
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 1 TIME 2 
+
+Accuracy : 74.2647
+Total no. of instances in training file :  136
+FMeasure for past class :  0.462
+FMeasure for present class :  0.71
+FMeasure for future class :  0.667
+FMeasure for neutral class :  0.883
+Average FMeasure :  0.724
+No. of past instances :  26
+No. of present instances :  29
+No. of future instances :  26
+No. of neutral instances :  55
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 1 TIME 3 
+
+Accuracy : 88.6889
+Total no. of instances in training file :  389
+FMeasure for past class :  0.785
+FMeasure for present class :  0.874
+FMeasure for future class :  0.884
+FMeasure for neutral class :  0.935
+Average FMeasure :  0.885
+No. of past instances :  72
+No. of present instances :  82
+No. of future instances :  72
+No. of neutral instances :  163
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 1 TIME 4 
+
+Accuracy : 94.4158
+Total no. of instances in training file :  1164
+FMeasure for past class :  0.888
+FMeasure for present class :  0.951
+FMeasure for future class :  0.938
+FMeasure for neutral class :  0.967
+Average FMeasure :  0.944
+No. of past instances :  215
+No. of present instances :  240
+No. of future instances :  215
+No. of neutral instances :  494
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 1 TIME 5 
+
+Accuracy : 94.838
+Total no. of instances in training file :  2809
+FMeasure for past class :  0.903
+FMeasure for present class :  0.928
+FMeasure for future class :  0.954
+FMeasure for neutral class :  0.971
+Average FMeasure :  0.948
+No. of past instances :  473
+No. of present instances :  495
+No. of future instances :  653
+No. of neutral instances :  1188
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 2 TIME 1 
+
+Accuracy : 64.5161
+Total no. of instances in training file :  62
+FMeasure for past class :  0.381
+FMeasure for present class :  0.783
+FMeasure for future class :  0.522
+FMeasure for neutral class :  0.737
+Average FMeasure :  0.627
+No. of past instances :  13
+No. of present instances :  13
+No. of future instances :  13
+No. of neutral instances :  23
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 2 TIME 2 
+
+Accuracy : 78.5714
+Total no. of instances in training file :  154
+FMeasure for past class :  0.558
+FMeasure for present class :  0.795
+FMeasure for future class :  0.691
+FMeasure for neutral class :  0.891
+Average FMeasure :  0.77
+No. of past instances :  29
+No. of present instances :  33
+No. of future instances :  29
+No. of neutral instances :  63
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 2 TIME 3 
+
+Accuracy : 91.0112
+Total no. of instances in training file :  445
+FMeasure for past class :  0.841
+FMeasure for present class :  0.906
+FMeasure for future class :  0.909
+FMeasure for neutral class :  0.941
+Average FMeasure :  0.909
+No. of past instances :  82
+No. of present instances :  94
+No. of future instances :  82
+No. of neutral instances :  187
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 2 TIME 4 
+
+Accuracy : 94.6687
+Total no. of instances in training file :  1313
+FMeasure for past class :  0.883
+FMeasure for present class :  0.948
+FMeasure for future class :  0.937
+FMeasure for neutral class :  0.975
+Average FMeasure :  0.946
+No. of past instances :  222
+No. of present instances :  276
+No. of future instances :  247
+No. of neutral instances :  568
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 2 TIME 5 
+
+Accuracy : 94.9534
+Total no. of instances in training file :  3111
+FMeasure for past class :  0.899
+FMeasure for present class :  0.933
+FMeasure for future class :  0.952
+FMeasure for neutral class :  0.972
+Average FMeasure :  0.949
+No. of past instances :  473
+No. of present instances :  569
+No. of future instances :  703
+No. of neutral instances :  1366
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 3 TIME 1 
+
+Accuracy : 61.194
+Total no. of instances in training file :  67
+FMeasure for past class :  0.333
+FMeasure for present class :  0.667
+FMeasure for future class :  0.286
+FMeasure for neutral class :  0.814
+Average FMeasure :  0.579
+No. of past instances :  13
+No. of present instances :  14
+No. of future instances :  14
+No. of neutral instances :  26
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 3 TIME 2 
+
+Accuracy : 78.2857
+Total no. of instances in training file :  175
+FMeasure for past class :  0.603
+FMeasure for present class :  0.744
+FMeasure for future class :  0.737
+FMeasure for neutral class :  0.895
+Average FMeasure :  0.778
+No. of past instances :  33
+No. of present instances :  37
+No. of future instances :  33
+No. of neutral instances :  72
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 3 TIME 3 
+
+Accuracy : 92.1722
+Total no. of instances in training file :  511
+FMeasure for past class :  0.856
+FMeasure for present class :  0.922
+FMeasure for future class :  0.921
+FMeasure for neutral class :  0.95
+Average FMeasure :  0.921
+No. of past instances :  94
+No. of present instances :  108
+No. of future instances :  94
+No. of neutral instances :  215
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 3 TIME 4 
+
+Accuracy : 94.7475
+Total no. of instances in training file :  1485
+FMeasure for past class :  0.875
+FMeasure for present class :  0.949
+FMeasure for future class :  0.94
+FMeasure for neutral class :  0.975
+Average FMeasure :  0.947
+No. of past instances :  231
+No. of present instances :  317
+No. of future instances :  284
+No. of neutral instances :  653
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 3 TIME 5 
+
+Accuracy : 94.6913
+Total no. of instances in training file :  3353
+FMeasure for past class :  0.896
+FMeasure for present class :  0.939
+FMeasure for future class :  0.946
+FMeasure for neutral class :  0.967
+Average FMeasure :  0.947
+No. of past instances :  474
+No. of present instances :  654
+No. of future instances :  741
+No. of neutral instances :  1484
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 4 TIME 1 
+
+Accuracy : 56.1644
+Total no. of instances in training file :  73
+FMeasure for past class :  0.4
+FMeasure for present class :  0.333
+FMeasure for future class :  0.32
+FMeasure for neutral class :  0.806
+Average FMeasure :  0.531
+No. of past instances :  14
+No. of present instances :  16
+No. of future instances :  14
+No. of neutral instances :  29
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 4 TIME 2 
+
+Accuracy : 80.303
+Total no. of instances in training file :  198
+FMeasure for past class :  0.635
+FMeasure for present class :  0.791
+FMeasure for future class :  0.735
+FMeasure for neutral class :  0.897
+Average FMeasure :  0.795
+No. of past instances :  37
+No. of present instances :  42
+No. of future instances :  37
+No. of neutral instances :  82
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 4 TIME 3 
+
+Accuracy : 92.5043
+Total no. of instances in training file :  587
+FMeasure for past class :  0.858
+FMeasure for present class :  0.919
+FMeasure for future class :  0.937
+FMeasure for neutral class :  0.952
+Average FMeasure :  0.925
+No. of past instances :  108
+No. of present instances :  124
+No. of future instances :  108
+No. of neutral instances :  247
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 4 TIME 4 
+
+Accuracy : 94.4577
+Total no. of instances in training file :  1678
+FMeasure for past class :  0.852
+FMeasure for present class :  0.95
+FMeasure for future class :  0.935
+FMeasure for neutral class :  0.975
+Average FMeasure :  0.944
+No. of past instances :  238
+No. of present instances :  364
+No. of future instances :  326
+No. of neutral instances :  750
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 4 TIME 5 
+
+Accuracy : 94.3891
+Total no. of instances in training file :  3511
+FMeasure for past class :  0.883
+FMeasure for present class :  0.941
+FMeasure for future class :  0.94
+FMeasure for neutral class :  0.966
+Average FMeasure :  0.944
+No. of past instances :  475
+No. of present instances :  737
+No. of future instances :  760
+No. of neutral instances :  1539
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 5 TIME 1 
+
+Accuracy : 60.241
+Total no. of instances in training file :  83
+FMeasure for past class :  0.353
+FMeasure for present class :  0.24
+FMeasure for future class :  0.588
+FMeasure for neutral class :  0.849
+Average FMeasure :  0.571
+No. of past instances :  16
+No. of present instances :  18
+No. of future instances :  16
+No. of neutral instances :  33
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 5 TIME 2 
+
+Accuracy : 81.4159
+Total no. of instances in training file :  226
+FMeasure for past class :  0.703
+FMeasure for present class :  0.784
+FMeasure for future class :  0.741
+FMeasure for neutral class :  0.903
+Average FMeasure :  0.81
+No. of past instances :  42
+No. of present instances :  48
+No. of future instances :  42
+No. of neutral instances :  94
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 5 TIME 3 
+
+Accuracy : 93.9169
+Total no. of instances in training file :  674
+FMeasure for past class :  0.89
+FMeasure for present class :  0.934
+FMeasure for future class :  0.941
+FMeasure for neutral class :  0.962
+Average FMeasure :  0.939
+No. of past instances :  124
+No. of present instances :  142
+No. of future instances :  124
+No. of neutral instances :  284
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 5 TIME 4 
+
+Accuracy : 94.961
+Total no. of instances in training file :  1925
+FMeasure for past class :  0.873
+FMeasure for present class :  0.955
+FMeasure for future class :  0.938
+FMeasure for neutral class :  0.976
+Average FMeasure :  0.949
+No. of past instances :  273
+No. of present instances :  416
+No. of future instances :  374
+No. of neutral instances :  862
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 5 TIME 5 
+
+Accuracy : 94.2632
+Total no. of instances in training file :  3678
+FMeasure for past class :  0.894
+FMeasure for present class :  0.941
+FMeasure for future class :  0.941
+FMeasure for neutral class :  0.961
+Average FMeasure :  0.943
+No. of past instances :  535
+No. of present instances :  742
+No. of future instances :  842
+No. of neutral instances :  1559
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 6 TIME 1 
+
+Accuracy : 69.8925
+Total no. of instances in training file :  93
+FMeasure for past class :  0.5
+FMeasure for present class :  0.595
+FMeasure for future class :  0.632
+FMeasure for neutral class :  0.861
+Average FMeasure :  0.689
+No. of past instances :  18
+No. of present instances :  20
+No. of future instances :  18
+No. of neutral instances :  37
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 6 TIME 2 
+
+Accuracy : 86.1004
+Total no. of instances in training file :  259
+FMeasure for past class :  0.773
+FMeasure for present class :  0.828
+FMeasure for future class :  0.831
+FMeasure for neutral class :  0.924
+Average FMeasure :  0.859
+No. of past instances :  48
+No. of present instances :  55
+No. of future instances :  48
+No. of neutral instances :  108
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 6 TIME 3 
+
+Accuracy : 93.7904
+Total no. of instances in training file :  773
+FMeasure for past class :  0.879
+FMeasure for present class :  0.935
+FMeasure for future class :  0.942
+FMeasure for neutral class :  0.962
+Average FMeasure :  0.938
+No. of past instances :  142
+No. of present instances :  163
+No. of future instances :  142
+No. of neutral instances :  326
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 6 TIME 4 
+
+Accuracy : 95.0046
+Total no. of instances in training file :  2162
+FMeasure for past class :  0.873
+FMeasure for present class :  0.946
+FMeasure for future class :  0.951
+FMeasure for neutral class :  0.975
+Average FMeasure :  0.95
+No. of past instances :  313
+No. of present instances :  430
+No. of future instances :  430
+No. of neutral instances :  989
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 6 TIME 5 
+
+Accuracy : 93.9142
+Total no. of instances in training file :  3845
+FMeasure for past class :  0.898
+FMeasure for present class :  0.939
+FMeasure for future class :  0.936
+FMeasure for neutral class :  0.957
+Average FMeasure :  0.939
+No. of past instances :  614
+No. of present instances :  747
+No. of future instances :  911
+No. of neutral instances :  1573
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 7 TIME 1 
+
+Accuracy : 69.5238
+Total no. of instances in training file :  105
+FMeasure for past class :  0.412
+FMeasure for present class :  0.636
+FMeasure for future class :  0.615
+FMeasure for neutral class :  0.86
+Average FMeasure :  0.679
+No. of past instances :  20
+No. of present instances :  23
+No. of future instances :  20
+No. of neutral instances :  42
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 7 TIME 2 
+
+Accuracy : 87.8788
+Total no. of instances in training file :  297
+FMeasure for past class :  0.788
+FMeasure for present class :  0.848
+FMeasure for future class :  0.891
+FMeasure for neutral class :  0.926
+Average FMeasure :  0.878
+No. of past instances :  55
+No. of present instances :  63
+No. of future instances :  55
+No. of neutral instances :  124
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 7 TIME 3 
+
+Accuracy : 94.7012
+Total no. of instances in training file :  887
+FMeasure for past class :  0.894
+FMeasure for present class :  0.947
+FMeasure for future class :  0.947
+FMeasure for neutral class :  0.97
+Average FMeasure :  0.947
+No. of past instances :  163
+No. of present instances :  187
+No. of future instances :  163
+No. of neutral instances :  374
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 7 TIME 4 
+
+Accuracy : 95.0964
+Total no. of instances in training file :  2386
+FMeasure for past class :  0.894
+FMeasure for present class :  0.933
+FMeasure for future class :  0.952
+FMeasure for neutral class :  0.976
+Average FMeasure :  0.951
+No. of past instances :  359
+No. of present instances :  451
+No. of future instances :  494
+No. of neutral instances :  1082
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 7 TIME 5 
+
+Accuracy : 93.8113
+Total no. of instances in training file :  3975
+FMeasure for past class :  0.898
+FMeasure for present class :  0.94
+FMeasure for future class :  0.936
+FMeasure for neutral class :  0.956
+Average FMeasure :  0.938
+No. of past instances :  695
+No. of present instances :  752
+No. of future instances :  953
+No. of neutral instances :  1575
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 8 TIME 1 
+
+Accuracy : 71.6667
+Total no. of instances in training file :  120
+FMeasure for past class :  0.476
+FMeasure for present class :  0.691
+FMeasure for future class :  0.579
+FMeasure for neutral class :  0.876
+Average FMeasure :  0.702
+No. of past instances :  23
+No. of present instances :  26
+No. of future instances :  23
+No. of neutral instances :  48
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 8 TIME 2 
+
+Accuracy : 88.2353
+Total no. of instances in training file :  340
+FMeasure for past class :  0.786
+FMeasure for present class :  0.872
+FMeasure for future class :  0.867
+FMeasure for neutral class :  0.932
+Average FMeasure :  0.88
+No. of past instances :  63
+No. of present instances :  72
+No. of future instances :  63
+No. of neutral instances :  142
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 8 TIME 3 
+
+Accuracy : 94.5044
+Total no. of instances in training file :  1019
+FMeasure for past class :  0.888
+FMeasure for present class :  0.949
+FMeasure for future class :  0.939
+FMeasure for neutral class :  0.969
+Average FMeasure :  0.944
+No. of past instances :  187
+No. of present instances :  215
+No. of future instances :  187
+No. of neutral instances :  430
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 8 TIME 4 
+
+Accuracy : 95.0192
+Total no. of instances in training file :  2610
+FMeasure for past class :  0.899
+FMeasure for present class :  0.93
+FMeasure for future class :  0.954
+FMeasure for neutral class :  0.974
+Average FMeasure :  0.95
+No. of past instances :  412
+No. of present instances :  478
+No. of future instances :  568
+No. of neutral instances :  1152
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 8 TIME 5 
+
+Accuracy : 93.3547
+Total no. of instances in training file :  4063
+FMeasure for past class :  0.891
+FMeasure for present class :  0.937
+FMeasure for future class :  0.929
+FMeasure for neutral class :  0.956
+Average FMeasure :  0.934
+No. of past instances :  742
+No. of present instances :  752
+No. of future instances :  994
+No. of neutral instances :  1575
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 9 TIME 1 
+
+Accuracy : 74.2647
+Total no. of instances in training file :  136
+FMeasure for past class :  0.462
+FMeasure for present class :  0.71
+FMeasure for future class :  0.667
+FMeasure for neutral class :  0.883
+Average FMeasure :  0.724
+No. of past instances :  26
+No. of present instances :  29
+No. of future instances :  26
+No. of neutral instances :  55
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 9 TIME 2 
+
+Accuracy : 88.6889
+Total no. of instances in training file :  389
+FMeasure for past class :  0.785
+FMeasure for present class :  0.874
+FMeasure for future class :  0.884
+FMeasure for neutral class :  0.935
+Average FMeasure :  0.885
+No. of past instances :  72
+No. of present instances :  82
+No. of future instances :  72
+No. of neutral instances :  163
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 9 TIME 3 
+
+Accuracy : 94.4158
+Total no. of instances in training file :  1164
+FMeasure for past class :  0.888
+FMeasure for present class :  0.951
+FMeasure for future class :  0.938
+FMeasure for neutral class :  0.967
+Average FMeasure :  0.944
+No. of past instances :  215
+No. of present instances :  240
+No. of future instances :  215
+No. of neutral instances :  494
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 9 TIME 4 
+
+Accuracy : 94.838
+Total no. of instances in training file :  2809
+FMeasure for past class :  0.903
+FMeasure for present class :  0.928
+FMeasure for future class :  0.954
+FMeasure for neutral class :  0.971
+Average FMeasure :  0.948
+No. of past instances :  473
+No. of present instances :  495
+No. of future instances :  653
+No. of neutral instances :  1188
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 9 TIME 5 
+
+Accuracy : 93.0108
+Total no. of instances in training file :  4092
+FMeasure for past class :  0.886
+FMeasure for present class :  0.933
+FMeasure for future class :  0.926
+FMeasure for neutral class :  0.953
+Average FMeasure :  0.93
+No. of past instances :  758
+No. of present instances :  752
+No. of future instances :  1006
+No. of neutral instances :  1576
+------------------------------------------------------------------------------

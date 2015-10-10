@@ -1,0 +1,87 @@
+
+/home/dipawesh/Dipawesh/Mtech/ProjectHWTT-backup/HWTTwith20%Atemporal\&15%temporaladdition\&unequalInitialDistributionOfT\&AT/Hindi_wordnet_time_tagging/SecondStep/Models/SVMx10_iteration2time5.model
+
+=== Predictions on test data ===
+
+ inst#     actual  predicted error prediction
+     1  4:neutral     1:past   +   0.917 
+     2   3:future     1:past   +   0.618 
+     3   3:future  4:neutral   +   0.755 
+     4  4:neutral  4:neutral       0.971 
+     5  4:neutral  2:present   +   0.919 
+     6   3:future  2:present   +   0.557 
+     7   3:future  4:neutral   +   0.882 
+     8  2:present  2:present       0.965 
+     9   3:future  2:present   +   0.504 
+    10  2:present     1:past   +   0.988 
+    11  4:neutral  4:neutral       0.891 
+    12  4:neutral     1:past   +   0.707 
+    13  4:neutral  2:present   +   0.901 
+    14  2:present  2:present       0.998 
+    15  4:neutral     1:past   +   1 
+    16     1:past   3:future   +   0.67 
+    17     1:past  2:present   +   0.998 
+    18  2:present  4:neutral   +   0.986 
+    19  2:present  2:present       0.999 
+    20  4:neutral   3:future   +   0.894 
+    21  4:neutral  2:present   +   0.917 
+    22   3:future   3:future       0.879 
+    23  2:present     1:past   +   0.94 
+    24     1:past  4:neutral   +   0.992 
+    25  4:neutral  4:neutral       0.937 
+    26   3:future  4:neutral   +   0.95 
+    27     1:past  2:present   +   0.999 
+    28  2:present   3:future   +   0.909 
+    29  2:present  2:present       0.997 
+    30   3:future   3:future       0.968 
+    31  4:neutral   3:future   +   0.901 
+    32  2:present  4:neutral   +   0.99 
+    33   3:future  4:neutral   +   0.99 
+    34  4:neutral   3:future   +   0.755 
+    35   3:future     1:past   +   0.782 
+    36  4:neutral     1:past   +   0.768 
+    37  2:present  4:neutral   +   0.614 
+    38     1:past  2:present   +   0.95 
+    39     1:past  2:present   +   0.963 
+    40     1:past  4:neutral   +   0.52 
+    41   3:future     1:past   +   0.984 
+    42     1:past  4:neutral   +   0.528 
+    43     1:past  4:neutral   +   0.991 
+    44  4:neutral     1:past   +   0.585 
+    45  4:neutral   3:future   +   0.989 
+    46     1:past  2:present   +   0.963 
+    47  4:neutral     1:past   +   0.996 
+    48  4:neutral  4:neutral       0.885 
+    49  2:present     1:past   +   0.967 
+    50  2:present  2:present       0.996 
+    51  2:present  4:neutral   +   0.99 
+    52   3:future   3:future       0.939 
+    53     1:past   3:future   +   0.917 
+    54     1:past  2:present   +   0.858 
+    55     1:past   3:future   +   0.783 
+    56  2:present  2:present       0.995 
+    57  4:neutral  2:present   +   0.928 
+    58     1:past   3:future   +   0.753 
+    59   3:future  2:present   +   0.985 
+    60     1:past  2:present   +   1 
+    61  4:neutral  2:present   +   0.919 
+    62  2:present  2:present       0.998 
+    63   3:future   3:future       0.833 
+    64  2:present  2:present       0.947 
+    65  2:present  2:present       0.982 
+    66   3:future     1:past   +   0.804 
+    67  4:neutral  4:neutral       0.99 
+    68  2:present   3:future   +   0.907 
+    69     1:past  2:present   +   0.714 
+    70   3:future  2:present   +   0.883 
+    71     1:past  4:neutral   +   0.943 
+    72   3:future  2:present   +   0.919 
+    73   3:future  2:present   +   0.983 
+    74   3:future   3:future       0.954 
+    75     1:past     1:past       0.783 
+    76     1:past     1:past       0.991 
+    77  2:present  2:present       0.504 
+    78  2:present     1:past   +   0.817 
+    79     1:past  2:present   +   0.999 
+    80   3:future     1:past   +   0.955 
+
