@@ -1,7 +1,7 @@
 @relation timetagging
 
 @attribute gloss string
-@attribute class {past, present, future}
+@attribute class {past, present, future, neutral}
 
 
 
@@ -54,7 +54,7 @@
 ' वह समय जब दिन का अंत और रात का आरंभ होने को होता है',neutral
 ' ऐसा समय जिसमें अतिवृष्टि या अनावृष्टि के कारण अन्न बहुत ही कठिनता से मिले या अन्न की कमी हो',neutral
 ' संकट या विपत्ति का समय',neutral
-' निश्चित या उचित समय',neutral
+ निश्चित या उचित समय',neutral
 ' समय पर होने या हो सकने वाला',neutral
 ' अच्छा समय',neutral
 ' समय का उलटफेर',neutral

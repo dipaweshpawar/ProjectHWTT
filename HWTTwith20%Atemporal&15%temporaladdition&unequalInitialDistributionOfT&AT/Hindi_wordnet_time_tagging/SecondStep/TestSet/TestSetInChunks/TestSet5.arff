@@ -1,7 +1,7 @@
 @relation timetagging
 
-@attribute gloss String
-@attribute tense {past,present,future,neutral}
+@attribute gloss string
+@attribute class {past, present, future,neutral}
 
 
 

@@ -1,3 +1,11 @@
+@relation timetagging
+
+@attribute gloss string
+@attribute class {past, present, future,neutral}
+
+
+
+@data
 'गणना में दस के स्थान पर आने वाला ',?
 'गणना में ग्यारह के स्थान पर आने वाला ',?
 'गणना में बारह के स्थान पर आने वाला ',?

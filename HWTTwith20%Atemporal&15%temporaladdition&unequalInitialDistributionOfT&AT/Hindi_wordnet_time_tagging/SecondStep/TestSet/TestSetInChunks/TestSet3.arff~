@@ -1,3 +1,11 @@
+@relation timetagging
+
+@attribute gloss string
+@attribute class {past, present, future}
+
+
+
+@data
 'बहुत पादने वाला ',?
 'बहुत पादने वाला ',?
 'पद्य के रूप में बना हुआ ',?

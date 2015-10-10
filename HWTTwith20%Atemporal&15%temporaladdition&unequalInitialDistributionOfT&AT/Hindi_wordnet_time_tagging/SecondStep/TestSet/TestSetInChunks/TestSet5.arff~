@@ -1,3 +1,11 @@
+@relation timetagging
+
+@attribute gloss string
+@attribute class {past, present, future}
+
+
+
+@data
 'आक्रमण करने वाला व्यक्ति ',?
 'आक्रमण करने वाला व्यक्ति ',?
 'युद्ध के समय होनेवाली आवाज़ ',?

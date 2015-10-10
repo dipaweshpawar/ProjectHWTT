@@ -1,3 +1,11 @@
+@relation timetagging
+
+@attribute gloss string
+@attribute class {past, present, future}
+
+
+
+@data
 'दिन निकलने का समय ',?
 'एक रोग जिसमें रात के समय दिखाई नहीं पड़ता ',?
 'एक रोग जिसमें रात के समय दिखाई नहीं पड़ता ',?

@@ -1,3 +1,11 @@
+@relation timetagging
+
+@attribute gloss string
+@attribute class {past, present, future}
+
+
+
+@data
 'बीते हुए कल से पहले वाला दिन ',?
 'आगामी कल के बाद वाला दिन ',?
 'अंतिम साँस लेने या मरने का समय ',?

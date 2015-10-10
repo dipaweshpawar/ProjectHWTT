@@ -1,3 +1,11 @@
+@relation timetagging
+
+@attribute gloss string
+@attribute class {past, present, future}
+
+
+
+@data
 'जिसका चयन या चुनाव किया गया हो ',?
 'इन्कार या अस्वीकार करने वाला ',?
 'सब या कुछ राष्ट्रों से संबंध रखने वाला ',?

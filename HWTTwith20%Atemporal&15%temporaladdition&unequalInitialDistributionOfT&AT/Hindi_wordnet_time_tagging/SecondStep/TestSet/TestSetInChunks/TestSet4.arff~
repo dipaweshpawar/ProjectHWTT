@@ -1,3 +1,11 @@
+@relation timetagging
+
+@attribute gloss string
+@attribute class {past, present, future}
+
+
+
+@data
 'जिसका राज्य एक समुद्र से दूसरे समुद्र तक फैला हो ',?
 'वन में रहने वाला ',?
 'जो ईर्ष्या से भरा हुआ हो ',?

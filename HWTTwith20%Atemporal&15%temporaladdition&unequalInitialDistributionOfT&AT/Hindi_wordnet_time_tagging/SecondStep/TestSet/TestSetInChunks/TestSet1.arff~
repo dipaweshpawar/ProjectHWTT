@@ -1,11 +1,3 @@
-@relation timetagging
-
-@attribute gloss String
-@attribute tense {past,present,future,neutral}
-
-
-
-@data
 'गणना में दस के स्थान पर आने वाला ',?
 'गणना में ग्यारह के स्थान पर आने वाला ',?
 'गणना में बारह के स्थान पर आने वाला ',?
@@ -1984,6 +1976,14 @@
 'गणना में इक्कावन के स्थान पर आने वाला ',?
 'गणना में इक्यासी के स्थान पर आने वाला ',?
 'अपने अपराध स्वीकार करने वाला ',?
+@relation timetagging
+
+@attribute gloss string
+@attribute class {past, present, future,neutral}
+
+
+
+@data
 'गणना में इक्कानबे के स्थान पर आने वाला ',?
 'गणना में इक्कानबे के स्थान पर आने वाला ',?
 'गणना में इक्कावन के स्थान पर आने वाला ',?

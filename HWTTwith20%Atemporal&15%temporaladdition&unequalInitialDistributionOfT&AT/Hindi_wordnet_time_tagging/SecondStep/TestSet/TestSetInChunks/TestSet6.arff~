@@ -1,3 +1,11 @@
+@relation timetagging
+
+@attribute gloss string
+@attribute class {past, present, future}
+
+
+
+@data
 'बाँस की तीलियों का बना हुआ पर्दा ',?
 'बेसन, आटा आदि को घोलकर दोसा या आमलेट की तरह तवे में फैलाकर बनाया जाने वाला एक पकवान ',?
 'धान को भून और कूटकर बनाया हुआ चिपटा दाना ',?
