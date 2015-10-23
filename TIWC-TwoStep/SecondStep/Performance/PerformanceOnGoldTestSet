@@ -1,0 +1,67 @@
+Performance on gold standard test set
+-----------------------------------------------------------------
+          
+past    present    future     neutral  <----Classified as  
+
+2         9          4           5     |  past
+                                        
+4         10         2           4     |  present
+                                                   
+5         6          5           4     |  future
+
+6         5          4           5     |  neutral
+
+Accuracy %
+-------------------------------------------------------------------
+past              10 %
+
+present           50 %
+
+future            25 %
+
+neutral           25 %
+----------------------------------------------------------------
+Total Accuracy    27.5 %
+
+Error % 
+-------------------------------------------------------------------
+past       -------  18/20     = 90 %
+
+present    -------  10/20    =  50 %
+
+future     -------  15/20    =  75 %
+
+neutral    -------  15/20    =  75%
+---------------------------------------------------------------------
+Total Error         58/80    = 72.5 %
+
+-----------------------------------------------------------------------
+Precision(past)     - 2/17    - 0.117
+
+Precision(present)  - 10/30   - 0.333
+
+Precision(future)   - 5/15    - 0.333
+
+Precision(neutral)  - 5/18    - 0.277
+
+Avg Precision       - 1.060/4 -0.265
+
+Recall(past)        - 2/20    - 0.1
+
+Recall(present)     - 10/20    - 0.5
+
+Recall(future)      - 5/20     - 0.25
+
+Recall(neutral)     - 5/20     - 0.25
+
+Avg Recall          -  1.10/4  -0.275
+
+F-measure(past)     -0.108
+
+F-measure(present)  -0.399
+
+F-measure(future)   -0.285
+
+F-measure(neutral)  -0.263
+
+Avg F-measure       -0.264

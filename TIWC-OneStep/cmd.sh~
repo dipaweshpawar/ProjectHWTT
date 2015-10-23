@@ -1,0 +1,2 @@
+export CLASSPATH=/usr/local/weka/weka.jar
+java weka.classifiers.bayes.NaiveBayes -T output_test_set.arff -l naivebayes.model -p 0 -c first > predictionsNBx10.t

@@ -1,0 +1,8 @@
+sense no in Hindi wordnet database are starting from -1.
+
+In file to be classified detailed, Test set files(datasetn) sense no I ahve started from 0;
+
+But mistakenly I have started sense no from 1 in taraining set files(seed words files & training set files.)
+
+So while expansion I have to addd 1 to sense no from dataset files.
+

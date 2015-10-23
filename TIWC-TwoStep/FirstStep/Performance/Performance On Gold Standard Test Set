@@ -1,0 +1,43 @@
+
+Performance on gold standard test set
+-----------------------------------------------------------------
+
+Actual               predicted                No of instances
+------------------------------------------------------------------
+atemporal            atemporal	               94
+
+atemporal            temporal                  6
+
+temporal             temporal                  77
+
+temporal             atemporal                 23
+----------------------------------------------------------------------
+Total no of instances                          200
+
+
+Error % 
+-------------------------------------------------------------------
+Atemporal    -------  6/100 = 6 %
+
+Temporal     -------  23/100    = 23 %
+---------------------------------------------------------------------
+Total Error            29/200= 14.5 %
+
+
+Accuracy %
+-------------------------------------------------------------------
+ATemporal     ------- 94/100 = 94 %
+
+Temporal      ------- 77/100   = 77 %
+----------------------------------------------------------------
+Total Accuracy          171/200= 85.5 %
+
+precision(temporal)= 77/83=0.927
+precision(atemporal)=94/(94+23)=94/117=0.803
+Avg precision=0.865
+Recall(temporal)= 77/77+23=77/100=0.77
+Recall(atemporal)=94/100=0.94
+Avg. recall=(0.77+0.94)/2=1.71/2=0.85
+F-measure(temporal)=0.841
+F-measure(atemporal)=0.866
+Avg F-measure=0.853

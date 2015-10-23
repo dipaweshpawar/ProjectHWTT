@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/SecondStep/src/FindInstancesForProbabilisticExpansion.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="FindInstancesForProbabilisticExpansion"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="/home/dipawesh/Dipawesh/Mtech/ProjectHWTT-backup/HWTTwith20%Atemporal&amp;15%temporaladdition&amp;unequalInitialDistributionOfT&amp;AT/Hindi_wordnet_time_tagging/SecondStep/Predictions/SVM_iteration.txt /home/dipawesh/Dipawesh/Mtech/ProjectHWTT-backup/HWTTwith20%Atemporal&amp;15%temporaladdition&amp;unequalInitialDistributionOfT&amp;AT/Hindi_wordnet_time_tagging/SecondStep/TestSet/TestSetInChunks/dataset1.txt  /home/dipawesh/Dipawesh/Mtech/ProjectHWTT-backup/HWTTwith20%Atemporal&amp;15%temporaladdition&amp;unequalInitialDistributionOfT&amp;AT/Hindi_wordnet_time_tagging/SecondStep/ExpandedTrainingSet/TrainingSet.arff  /home/dipawesh/Dipawesh/Mtech/ProjectHWTT-backup/HWTTwith20%Atemporal&amp;15%temporaladdition&amp;unequalInitialDistributionOfT&amp;AT/Hindi_wordnet_time_tagging/SecondStep/ExpandedTrainingSet/SeedWordCorrespondingToTrainSet.txt 8 /home/dipawesh/Dipawesh/Mtech/ProjectHWTT-backup/HWTTwith20%Atemporal&amp;15%temporaladdition&amp;unequalInitialDistributionOfT&amp;AT/Hindi_wordnet_time_tagging/SecondStep/ExpansionDetails/ExpansionDetails.txt 1 &gt;/home/dipawesh/Dipawesh/Mtech/ProjectHWTT-backup/HWTTwith20%Atemporal&amp;15%temporaladdition&amp;unequalInitialDistributionOfT&amp;AT/Hindi_wordnet_time_tagging/SecondStep/ExpansionDetails/Expansion.txt"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="SecondStep"/>
+</launchConfiguration>

@@ -1,0 +1,969 @@
+
+
+DETAILS AFTER ITERATION 1 TIME 1 
+
+Accuracy : 84.5361
+Total no. of instances in training file :  97
+FMeasure for temporal class :  0.824
+FMeasure for Atemporal class :  0.862
+Average FMeasure :  0.847
+No. of temporal instances :  38
+No. of atemporal instances :  59
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 1 TIME 2 
+
+Accuracy : 93.3735
+Total no. of instances in training file :  498
+FMeasure for temporal class :  0.895
+FMeasure for Atemporal class :  0.952
+Average FMeasure :  0.935
+No. of temporal instances :  143
+No. of atemporal instances :  355
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 1 TIME 3 
+
+Accuracy : 98.8772
+Total no. of instances in training file :  2761
+FMeasure for temporal class :  0.973
+FMeasure for Atemporal class :  0.993
+Average FMeasure :  0.989
+No. of temporal instances :  570
+No. of atemporal instances :  2191
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 1 TIME 4 
+
+Accuracy : 99.3185
+Total no. of instances in training file :  15848
+FMeasure for temporal class :  0.977
+FMeasure for Atemporal class :  0.996
+Average FMeasure :  0.993
+No. of temporal instances :  2296
+No. of atemporal instances :  13552
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 2 TIME 1 
+
+Accuracy : 87.6106
+Total no. of instances in training file :  113
+FMeasure for temporal class :  0.837
+FMeasure for Atemporal class :  0.9
+Average FMeasure :  0.876
+No. of temporal instances :  43
+No. of atemporal instances :  70
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 2 TIME 2 
+
+Accuracy : 94.7458
+Total no. of instances in training file :  590
+FMeasure for temporal class :  0.913
+FMeasure for Atemporal class :  0.962
+Average FMeasure :  0.949
+No. of temporal instances :  164
+No. of atemporal instances :  426
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 2 TIME 3 
+
+Accuracy : 99.1778
+Total no. of instances in training file :  3284
+FMeasure for temporal class :  0.98
+FMeasure for Atemporal class :  0.995
+Average FMeasure :  0.992
+No. of temporal instances :  655
+No. of atemporal instances :  2629
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 2 TIME 4 
+
+Accuracy : 99.0054
+Total no. of instances in training file :  18902
+FMeasure for temporal class :  0.965
+FMeasure for Atemporal class :  0.994
+Average FMeasure :  0.99
+No. of temporal instances :  2640
+No. of atemporal instances :  16262
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 3 TIME 1 
+
+Accuracy : 84.2105
+Total no. of instances in training file :  133
+FMeasure for temporal class :  0.811
+FMeasure for Atemporal class :  0.865
+Average FMeasure :  0.845
+No. of temporal instances :  49
+No. of atemporal instances :  84
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 3 TIME 2 
+
+Accuracy : 95.5651
+Total no. of instances in training file :  699
+FMeasure for temporal class :  0.923
+FMeasure for Atemporal class :  0.969
+Average FMeasure :  0.957
+No. of temporal instances :  188
+No. of atemporal instances :  511
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 3 TIME 3 
+
+Accuracy : 99.181
+Total no. of instances in training file :  3907
+FMeasure for temporal class :  0.979
+FMeasure for Atemporal class :  0.995
+Average FMeasure :  0.992
+No. of temporal instances :  753
+No. of atemporal instances :  3154
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 3 TIME 4 
+
+Accuracy : 97.6984
+Total no. of instances in training file :  22550
+FMeasure for temporal class :  0.916
+FMeasure for Atemporal class :  0.987
+Average FMeasure :  0.977
+No. of temporal instances :  3036
+No. of atemporal instances :  19514
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 4 TIME 1 
+
+Accuracy : 82.6923
+Total no. of instances in training file :  156
+FMeasure for temporal class :  0.797
+FMeasure for Atemporal class :  0.849
+Average FMeasure :  0.83
+No. of temporal instances :  56
+No. of atemporal instances :  100
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 4 TIME 2 
+
+Accuracy : 96.2606
+Total no. of instances in training file :  829
+FMeasure for temporal class :  0.932
+FMeasure for Atemporal class :  0.974
+Average FMeasure :  0.963
+No. of temporal instances :  216
+No. of atemporal instances :  613
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 4 TIME 3 
+
+Accuracy : 99.3547
+Total no. of instances in training file :  4649
+FMeasure for temporal class :  0.983
+FMeasure for Atemporal class :  0.996
+Average FMeasure :  0.994
+No. of temporal instances :  865
+No. of atemporal instances :  3784
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 4 TIME 4 
+
+Accuracy : 97.5946
+Total no. of instances in training file :  25817
+FMeasure for temporal class :  0.91
+FMeasure for Atemporal class :  0.986
+Average FMeasure :  0.976
+No. of temporal instances :  3398
+No. of atemporal instances :  22419
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 5 TIME 1 
+
+Accuracy : 83.6957
+Total no. of instances in training file :  184
+FMeasure for temporal class :  0.803
+FMeasure for Atemporal class :  0.861
+Average FMeasure :  0.841
+No. of temporal instances :  64
+No. of atemporal instances :  120
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 5 TIME 2 
+
+Accuracy : 96.5412
+Total no. of instances in training file :  983
+FMeasure for temporal class :  0.935
+FMeasure for Atemporal class :  0.976
+Average FMeasure :  0.966
+No. of temporal instances :  248
+No. of atemporal instances :  735
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 5 TIME 3 
+
+Accuracy : 99.5302
+Total no. of instances in training file :  5534
+FMeasure for temporal class :  0.987
+FMeasure for Atemporal class :  0.997
+Average FMeasure :  0.995
+No. of temporal instances :  994
+No. of atemporal instances :  4540
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 5 TIME 4 
+
+Accuracy : 97.7661
+Total no. of instances in training file :  28247
+FMeasure for temporal class :  0.915
+FMeasure for Atemporal class :  0.987
+Average FMeasure :  0.978
+No. of temporal instances :  3671
+No. of atemporal instances :  24576
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 6 TIME 1 
+
+Accuracy : 86.1751
+Total no. of instances in training file :  217
+FMeasure for temporal class :  0.828
+FMeasure for Atemporal class :  0.885
+Average FMeasure :  0.865
+No. of temporal instances :  73
+No. of atemporal instances :  144
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 6 TIME 2 
+
+Accuracy : 97.2579
+Total no. of instances in training file :  1167
+FMeasure for temporal class :  0.946
+FMeasure for Atemporal class :  0.982
+Average FMeasure :  0.973
+No. of temporal instances :  285
+No. of atemporal instances :  882
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 6 TIME 3 
+
+Accuracy : 99.6207
+Total no. of instances in training file :  6591
+FMeasure for temporal class :  0.989
+FMeasure for Atemporal class :  0.998
+Average FMeasure :  0.996
+No. of temporal instances :  1143
+No. of atemporal instances :  5448
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 6 TIME 4 
+
+Accuracy : 97.883
+Total no. of instances in training file :  30043
+FMeasure for temporal class :  0.919
+FMeasure for Atemporal class :  0.988
+Average FMeasure :  0.979
+No. of temporal instances :  3852
+No. of atemporal instances :  26191
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 7 TIME 1 
+
+Accuracy : 87.8431
+Total no. of instances in training file :  255
+FMeasure for temporal class :  0.839
+FMeasure for Atemporal class :  0.902
+Average FMeasure :  0.882
+No. of temporal instances :  83
+No. of atemporal instances :  172
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 7 TIME 2 
+
+Accuracy : 97.6173
+Total no. of instances in training file :  1385
+FMeasure for temporal class :  0.952
+FMeasure for Atemporal class :  0.984
+Average FMeasure :  0.976
+No. of temporal instances :  327
+No. of atemporal instances :  1058
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 7 TIME 3 
+
+Accuracy : 99.6306
+Total no. of instances in training file :  7851
+FMeasure for temporal class :  0.989
+FMeasure for Atemporal class :  0.998
+Average FMeasure :  0.996
+No. of temporal instances :  1314
+No. of atemporal instances :  6537
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 7 TIME 4 
+
+Accuracy : 97.9754
+Total no. of instances in training file :  31463
+FMeasure for temporal class :  0.921
+FMeasure for Atemporal class :  0.988
+Average FMeasure :  0.98
+No. of temporal instances :  3989
+No. of atemporal instances :  27474
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 8 TIME 1 
+
+Accuracy : 89.701
+Total no. of instances in training file :  301
+FMeasure for temporal class :  0.86
+FMeasure for Atemporal class :  0.919
+Average FMeasure :  0.9
+No. of temporal instances :  95
+No. of atemporal instances :  206
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 8 TIME 2 
+
+Accuracy : 97.9939
+Total no. of instances in training file :  1645
+FMeasure for temporal class :  0.958
+FMeasure for Atemporal class :  0.987
+Average FMeasure :  0.98
+No. of temporal instances :  376
+No. of atemporal instances :  1269
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 8 TIME 3 
+
+Accuracy : 99.6472
+Total no. of instances in training file :  9355
+FMeasure for temporal class :  0.989
+FMeasure for Atemporal class :  0.998
+Average FMeasure :  0.996
+No. of temporal instances :  1511
+No. of atemporal instances :  7844
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 8 TIME 4 
+
+Accuracy : 98.0411
+Total no. of instances in training file :  32569
+FMeasure for temporal class :  0.923
+FMeasure for Atemporal class :  0.989
+Average FMeasure :  0.981
+No. of temporal instances :  4097
+No. of atemporal instances :  28472
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 9 TIME 1 
+
+Accuracy : 90.7303
+Total no. of instances in training file :  356
+FMeasure for temporal class :  0.866
+FMeasure for Atemporal class :  0.929
+Average FMeasure :  0.91
+No. of temporal instances :  109
+No. of atemporal instances :  247
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 9 TIME 2 
+
+Accuracy : 98.3623
+Total no. of instances in training file :  1954
+FMeasure for temporal class :  0.964
+FMeasure for Atemporal class :  0.989
+Average FMeasure :  0.984
+No. of temporal instances :  432
+No. of atemporal instances :  1522
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 9 TIME 3 
+
+Accuracy : 99.6323
+Total no. of instances in training file :  11149
+FMeasure for temporal class :  0.988
+FMeasure for Atemporal class :  0.998
+Average FMeasure :  0.996
+No. of temporal instances :  1737
+No. of atemporal instances :  9412
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 9 TIME 4 
+
+Accuracy : 98.0895
+Total no. of instances in training file :  33447
+FMeasure for temporal class :  0.924
+FMeasure for Atemporal class :  0.989
+Average FMeasure :  0.981
+No. of temporal instances :  4171
+No. of atemporal instances :  29276
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 10 TIME 1 
+
+Accuracy : 92.399
+Total no. of instances in training file :  421
+FMeasure for temporal class :  0.885
+FMeasure for Atemporal class :  0.943
+Average FMeasure :  0.926
+No. of temporal instances :  125
+No. of atemporal instances :  296
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 10 TIME 2 
+
+Accuracy : 98.6219
+Total no. of instances in training file :  2322
+FMeasure for temporal class :  0.969
+FMeasure for Atemporal class :  0.991
+Average FMeasure :  0.986
+No. of temporal instances :  496
+No. of atemporal instances :  1826
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 10 TIME 3 
+
+Accuracy : 99.5711
+Total no. of instances in training file :  13291
+FMeasure for temporal class :  0.986
+FMeasure for Atemporal class :  0.997
+Average FMeasure :  0.996
+No. of temporal instances :  1997
+No. of atemporal instances :  11294
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 10 TIME 4 
+
+Accuracy : 98.1313
+Total no. of instances in training file :  34142
+FMeasure for temporal class :  0.926
+FMeasure for Atemporal class :  0.989
+Average FMeasure :  0.981
+No. of temporal instances :  4240
+No. of atemporal instances :  29902
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 11 TIME 1 
+
+Accuracy : 93.3735
+Total no. of instances in training file :  498
+FMeasure for temporal class :  0.895
+FMeasure for Atemporal class :  0.952
+Average FMeasure :  0.935
+No. of temporal instances :  143
+No. of atemporal instances :  355
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 11 TIME 2 
+
+Accuracy : 98.8772
+Total no. of instances in training file :  2761
+FMeasure for temporal class :  0.973
+FMeasure for Atemporal class :  0.993
+Average FMeasure :  0.989
+No. of temporal instances :  570
+No. of atemporal instances :  2191
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 11 TIME 3 
+
+Accuracy : 99.3185
+Total no. of instances in training file :  15848
+FMeasure for temporal class :  0.977
+FMeasure for Atemporal class :  0.996
+Average FMeasure :  0.993
+No. of temporal instances :  2296
+No. of atemporal instances :  13552
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 11 TIME 4 
+
+Accuracy : 98.1413
+Total no. of instances in training file :  34325
+FMeasure for temporal class :  0.926
+FMeasure for Atemporal class :  0.989
+Average FMeasure :  0.982
+No. of temporal instances :  4259
+No. of atemporal instances :  30066
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 1 TIME 1 
+
+Accuracy : 84.5361
+Total no. of instances in training file :  97
+FMeasure for temporal class :  0.824
+FMeasure for Atemporal class :  0.862
+Average FMeasure :  0.847
+No. of temporal instances :  38
+No. of atemporal instances :  59
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 1 TIME 2 
+
+Accuracy : 93.3735
+Total no. of instances in training file :  498
+FMeasure for temporal class :  0.895
+FMeasure for Atemporal class :  0.952
+Average FMeasure :  0.935
+No. of temporal instances :  143
+No. of atemporal instances :  355
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 1 TIME 3 
+
+Accuracy : 98.8772
+Total no. of instances in training file :  2761
+FMeasure for temporal class :  0.973
+FMeasure for Atemporal class :  0.993
+Average FMeasure :  0.989
+No. of temporal instances :  570
+No. of atemporal instances :  2191
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 1 TIME 4 
+
+Accuracy : 99.3185
+Total no. of instances in training file :  15848
+FMeasure for temporal class :  0.977
+FMeasure for Atemporal class :  0.996
+Average FMeasure :  0.993
+No. of temporal instances :  2296
+No. of atemporal instances :  13552
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 2 TIME 1 
+
+Accuracy : 87.6106
+Total no. of instances in training file :  113
+FMeasure for temporal class :  0.837
+FMeasure for Atemporal class :  0.9
+Average FMeasure :  0.876
+No. of temporal instances :  43
+No. of atemporal instances :  70
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 2 TIME 2 
+
+Accuracy : 94.7458
+Total no. of instances in training file :  590
+FMeasure for temporal class :  0.913
+FMeasure for Atemporal class :  0.962
+Average FMeasure :  0.949
+No. of temporal instances :  164
+No. of atemporal instances :  426
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 2 TIME 3 
+
+Accuracy : 99.1778
+Total no. of instances in training file :  3284
+FMeasure for temporal class :  0.98
+FMeasure for Atemporal class :  0.995
+Average FMeasure :  0.992
+No. of temporal instances :  655
+No. of atemporal instances :  2629
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 2 TIME 4 
+
+Accuracy : 99.0054
+Total no. of instances in training file :  18902
+FMeasure for temporal class :  0.965
+FMeasure for Atemporal class :  0.994
+Average FMeasure :  0.99
+No. of temporal instances :  2640
+No. of atemporal instances :  16262
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 3 TIME 1 
+
+Accuracy : 84.2105
+Total no. of instances in training file :  133
+FMeasure for temporal class :  0.811
+FMeasure for Atemporal class :  0.865
+Average FMeasure :  0.845
+No. of temporal instances :  49
+No. of atemporal instances :  84
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 3 TIME 2 
+
+Accuracy : 95.5651
+Total no. of instances in training file :  699
+FMeasure for temporal class :  0.923
+FMeasure for Atemporal class :  0.969
+Average FMeasure :  0.957
+No. of temporal instances :  188
+No. of atemporal instances :  511
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 3 TIME 3 
+
+Accuracy : 99.181
+Total no. of instances in training file :  3907
+FMeasure for temporal class :  0.979
+FMeasure for Atemporal class :  0.995
+Average FMeasure :  0.992
+No. of temporal instances :  753
+No. of atemporal instances :  3154
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 3 TIME 4 
+
+Accuracy : 97.6984
+Total no. of instances in training file :  22550
+FMeasure for temporal class :  0.916
+FMeasure for Atemporal class :  0.987
+Average FMeasure :  0.977
+No. of temporal instances :  3036
+No. of atemporal instances :  19514
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 4 TIME 1 
+
+Accuracy : 82.6923
+Total no. of instances in training file :  156
+FMeasure for temporal class :  0.797
+FMeasure for Atemporal class :  0.849
+Average FMeasure :  0.83
+No. of temporal instances :  56
+No. of atemporal instances :  100
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 4 TIME 2 
+
+Accuracy : 96.2606
+Total no. of instances in training file :  829
+FMeasure for temporal class :  0.932
+FMeasure for Atemporal class :  0.974
+Average FMeasure :  0.963
+No. of temporal instances :  216
+No. of atemporal instances :  613
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 4 TIME 3 
+
+Accuracy : 99.3547
+Total no. of instances in training file :  4649
+FMeasure for temporal class :  0.983
+FMeasure for Atemporal class :  0.996
+Average FMeasure :  0.994
+No. of temporal instances :  865
+No. of atemporal instances :  3784
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 4 TIME 4 
+
+Accuracy : 97.5946
+Total no. of instances in training file :  25817
+FMeasure for temporal class :  0.91
+FMeasure for Atemporal class :  0.986
+Average FMeasure :  0.976
+No. of temporal instances :  3398
+No. of atemporal instances :  22419
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 5 TIME 1 
+
+Accuracy : 83.6957
+Total no. of instances in training file :  184
+FMeasure for temporal class :  0.803
+FMeasure for Atemporal class :  0.861
+Average FMeasure :  0.841
+No. of temporal instances :  64
+No. of atemporal instances :  120
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 5 TIME 2 
+
+Accuracy : 96.5412
+Total no. of instances in training file :  983
+FMeasure for temporal class :  0.935
+FMeasure for Atemporal class :  0.976
+Average FMeasure :  0.966
+No. of temporal instances :  248
+No. of atemporal instances :  735
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 5 TIME 3 
+
+Accuracy : 99.5302
+Total no. of instances in training file :  5534
+FMeasure for temporal class :  0.987
+FMeasure for Atemporal class :  0.997
+Average FMeasure :  0.995
+No. of temporal instances :  994
+No. of atemporal instances :  4540
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 5 TIME 4 
+
+Accuracy : 97.7661
+Total no. of instances in training file :  28247
+FMeasure for temporal class :  0.915
+FMeasure for Atemporal class :  0.987
+Average FMeasure :  0.978
+No. of temporal instances :  3671
+No. of atemporal instances :  24576
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 6 TIME 1 
+
+Accuracy : 86.1751
+Total no. of instances in training file :  217
+FMeasure for temporal class :  0.828
+FMeasure for Atemporal class :  0.885
+Average FMeasure :  0.865
+No. of temporal instances :  73
+No. of atemporal instances :  144
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 6 TIME 2 
+
+Accuracy : 97.2579
+Total no. of instances in training file :  1167
+FMeasure for temporal class :  0.946
+FMeasure for Atemporal class :  0.982
+Average FMeasure :  0.973
+No. of temporal instances :  285
+No. of atemporal instances :  882
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 6 TIME 3 
+
+Accuracy : 99.6207
+Total no. of instances in training file :  6591
+FMeasure for temporal class :  0.989
+FMeasure for Atemporal class :  0.998
+Average FMeasure :  0.996
+No. of temporal instances :  1143
+No. of atemporal instances :  5448
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 6 TIME 4 
+
+Accuracy : 97.883
+Total no. of instances in training file :  30043
+FMeasure for temporal class :  0.919
+FMeasure for Atemporal class :  0.988
+Average FMeasure :  0.979
+No. of temporal instances :  3852
+No. of atemporal instances :  26191
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 7 TIME 1 
+
+Accuracy : 87.8431
+Total no. of instances in training file :  255
+FMeasure for temporal class :  0.839
+FMeasure for Atemporal class :  0.902
+Average FMeasure :  0.882
+No. of temporal instances :  83
+No. of atemporal instances :  172
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 7 TIME 2 
+
+Accuracy : 97.6173
+Total no. of instances in training file :  1385
+FMeasure for temporal class :  0.952
+FMeasure for Atemporal class :  0.984
+Average FMeasure :  0.976
+No. of temporal instances :  327
+No. of atemporal instances :  1058
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 7 TIME 3 
+
+Accuracy : 99.6306
+Total no. of instances in training file :  7851
+FMeasure for temporal class :  0.989
+FMeasure for Atemporal class :  0.998
+Average FMeasure :  0.996
+No. of temporal instances :  1314
+No. of atemporal instances :  6537
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 7 TIME 4 
+
+Accuracy : 97.9754
+Total no. of instances in training file :  31463
+FMeasure for temporal class :  0.921
+FMeasure for Atemporal class :  0.988
+Average FMeasure :  0.98
+No. of temporal instances :  3989
+No. of atemporal instances :  27474
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 8 TIME 1 
+
+Accuracy : 89.701
+Total no. of instances in training file :  301
+FMeasure for temporal class :  0.86
+FMeasure for Atemporal class :  0.919
+Average FMeasure :  0.9
+No. of temporal instances :  95
+No. of atemporal instances :  206
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 8 TIME 2 
+
+Accuracy : 97.9939
+Total no. of instances in training file :  1645
+FMeasure for temporal class :  0.958
+FMeasure for Atemporal class :  0.987
+Average FMeasure :  0.98
+No. of temporal instances :  376
+No. of atemporal instances :  1269
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 8 TIME 3 
+
+Accuracy : 99.6472
+Total no. of instances in training file :  9355
+FMeasure for temporal class :  0.989
+FMeasure for Atemporal class :  0.998
+Average FMeasure :  0.996
+No. of temporal instances :  1511
+No. of atemporal instances :  7844
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 8 TIME 4 
+
+Accuracy : 98.0411
+Total no. of instances in training file :  32569
+FMeasure for temporal class :  0.923
+FMeasure for Atemporal class :  0.989
+Average FMeasure :  0.981
+No. of temporal instances :  4097
+No. of atemporal instances :  28472
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 9 TIME 1 
+
+Accuracy : 90.7303
+Total no. of instances in training file :  356
+FMeasure for temporal class :  0.866
+FMeasure for Atemporal class :  0.929
+Average FMeasure :  0.91
+No. of temporal instances :  109
+No. of atemporal instances :  247
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 9 TIME 2 
+
+Accuracy : 98.3623
+Total no. of instances in training file :  1954
+FMeasure for temporal class :  0.964
+FMeasure for Atemporal class :  0.989
+Average FMeasure :  0.984
+No. of temporal instances :  432
+No. of atemporal instances :  1522
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 9 TIME 3 
+
+Accuracy : 99.6323
+Total no. of instances in training file :  11149
+FMeasure for temporal class :  0.988
+FMeasure for Atemporal class :  0.998
+Average FMeasure :  0.996
+No. of temporal instances :  1737
+No. of atemporal instances :  9412
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 9 TIME 4 
+
+Accuracy : 98.0895
+Total no. of instances in training file :  33447
+FMeasure for temporal class :  0.924
+FMeasure for Atemporal class :  0.989
+Average FMeasure :  0.981
+No. of temporal instances :  4171
+No. of atemporal instances :  29276
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 10 TIME 1 
+
+Accuracy : 92.399
+Total no. of instances in training file :  421
+FMeasure for temporal class :  0.885
+FMeasure for Atemporal class :  0.943
+Average FMeasure :  0.926
+No. of temporal instances :  125
+No. of atemporal instances :  296
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 10 TIME 2 
+
+Accuracy : 98.6219
+Total no. of instances in training file :  2322
+FMeasure for temporal class :  0.969
+FMeasure for Atemporal class :  0.991
+Average FMeasure :  0.986
+No. of temporal instances :  496
+No. of atemporal instances :  1826
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 10 TIME 3 
+
+Accuracy : 99.5711
+Total no. of instances in training file :  13291
+FMeasure for temporal class :  0.986
+FMeasure for Atemporal class :  0.997
+Average FMeasure :  0.996
+No. of temporal instances :  1997
+No. of atemporal instances :  11294
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 10 TIME 4 
+
+Accuracy : 98.1313
+Total no. of instances in training file :  34142
+FMeasure for temporal class :  0.926
+FMeasure for Atemporal class :  0.989
+Average FMeasure :  0.981
+No. of temporal instances :  4240
+No. of atemporal instances :  29902
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 11 TIME 1 
+
+Accuracy : 93.3735
+Total no. of instances in training file :  498
+FMeasure for temporal class :  0.895
+FMeasure for Atemporal class :  0.952
+Average FMeasure :  0.935
+No. of temporal instances :  143
+No. of atemporal instances :  355
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 11 TIME 2 
+
+Accuracy : 98.8772
+Total no. of instances in training file :  2761
+FMeasure for temporal class :  0.973
+FMeasure for Atemporal class :  0.993
+Average FMeasure :  0.989
+No. of temporal instances :  570
+No. of atemporal instances :  2191
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 11 TIME 3 
+
+Accuracy : 99.3185
+Total no. of instances in training file :  15848
+FMeasure for temporal class :  0.977
+FMeasure for Atemporal class :  0.996
+Average FMeasure :  0.993
+No. of temporal instances :  2296
+No. of atemporal instances :  13552
+------------------------------------------------------------------------------
+
+DETAILS AFTER ITERATION 11 TIME 4 
+
+Accuracy : 98.1413
+Total no. of instances in training file :  34325
+FMeasure for temporal class :  0.926
+FMeasure for Atemporal class :  0.989
+Average FMeasure :  0.982
+No. of temporal instances :  4259
+No. of atemporal instances :  30066
+------------------------------------------------------------------------------

@@ -1,0 +1,30 @@
+Performance on gold standard test set
+-----------------------------------------------------------------
+          
+past    present    future     neutral  atemporal <----Classified as  
+
+4         0           1           0         15           |  past
+                                        
+1         3           0           0         16           |  present
+                                                   
+0         0           1           0         19           |  future
+
+1         0           2           2         15           |  neutral
+
+9        19          3            9         60           |  atemporal
+
+
+
+precision         recall            f-measure         class
+--------------------------------------------------------------------------------
+  0.267            0.2               0.228            | past
+
+  0.136            0.15              0.142            | present
+
+  0.142            0.05              0.073            | future
+
+  0.182            0.1               0.129            | neutral
+
+  0.48             0.6               0.533            | atemporal
+
+  0.241            0.22              0.230            | Avg

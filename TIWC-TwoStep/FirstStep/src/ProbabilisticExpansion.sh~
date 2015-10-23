@@ -1,0 +1,162 @@
+export CLASSPATH=/usr/local/weka/weka.jar;
+
+#1st iteration of training --Train Naive Bayes on ngram_trainingSetforAtemporal-TemporalOneStep_set with x=5 
+#---------------------------------------------------------------------------------------
+java weka.classifiers.bayes.NaiveBayes -t /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TrainingData/2-3GramOneStep/ngram_trainingSetforAtemporal-TemporalOneStep_set.arff -x 5 -c first -i -K -d /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Models/OneStep/NaiveBayesx5Training_iteration1.model > /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Performance/NaiveBayes_iteration1_TS_x5.txt #TS=Training set
+
+#--------------------------------------------------------1st iteration of Training Over-------------------------------
+#-----------------------------------------------------------------------------------------------------------
+#--------------------------------------------------------1st iteration of Testing Begins----------------------------------
+
+#------------------------------------------------------------Testing on set 1------------------------------------
+#Test on ngram_data_output_set1.arff using saved NaiveBayes model
+#----------------------------------------------------------------------------------------------------------
+java weka.classifiers.bayes.NaiveBayes -T  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/2-3GramOneStep/ngram_data_output_set1.arff  -l /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Models/OneStep/NaiveBayesx5Trainingiteration1.model -p 0> /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Predictions/Prediction_2-3GramDataOutputSet1_NaiveBayes_iteration1.txt
+
+#-------------------------------------------------------Expansion of training set------------------
+java FindInstancesForProbabilisticExpansion.java  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Predictions/ Prediction_2-3GramDataOutputSet1_NaiveBayes_iteration1.txt  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/dataset1 /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/trainingSetforAtemporal-TemporalOneStep_iteration1.arff /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/Temporal_atemporal_seed_words_iteration1.txt
+#-----------------------------------------------------STW on new training set tto produce file with 2 or 3 grams--------------------------
+java -classpath /usr/local/weka/weka.jar weka.filters.unsupervised.attribute.StringToWordVector -b -i /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training data/NaiveBayes/0gram/trainingSetforAtemporal-TemporalOneStep_iteration1.arff -o  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/Ngram/ngram_trainingSetforAtemporal-TemporalOneStep_set_iteration1.arff -c first -r /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/ngram_data_set2.arff -s  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/2-3GramOneStep/ngram_data_output_set2.arff -R 1,2 -O -C -T -I -N 0 -M 1 -tokenizer 'weka.core.tokenizers.NGramTokenizer -min 2 -max 3'
+echo '1st iteration over'
+#2nd iteration of training --Train Naive Bayes on udated ngram_trainingSetforAtemporal-TemporalOneStep_set with x=5 
+#---------------------------------------------------------------------------------------
+java weka.classifiers.bayes.NaiveBayes -t /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training data/NaiveBayes/Ngram/ngram_trainingSetforAtemporal-TemporalOneStep_set_iteration1.arff  -x 5 -c first -i -K -d /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Models/OneStep/NaiveBayesx5Training_iteration2.model > /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Performance/NaiveBayes_iteration2_TS_x5.txt
+#--------------------------------------------------------2nd iteration of Training Over-------------------------------
+#-----------------------------------------------------------------------------------------------------------
+#--------------------------------------------------------2nd iteration of Testing Begins----------------------------------
+
+#------------------------------------------------------------Testing on set 2------------------------------------
+#                                 Test on ngram_data_output_set2.arff using saved NaiveBayes model
+#----------------------------------------------------------------------------------------------------------
+java weka.classifiers.bayes.NaiveBayes -T /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/2-3GramOneStep/ngram_data_output_set2.arff  -l /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Models/OneStep/NaiveBayesx5Training_iteration2.model -p 0> /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Predictions/Prediction_2-3GramDataOutputSet2_NaiveBayes_iteration2.txt
+#-------------------------------------------------------Expansion of training set------------------
+java FindInstancesForProbabilisticExpansion.java  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Predictions/ Prediction_2-3GramDataOutputSet2_NaiveBayes_iteration2.txt  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/dataset2 /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/trainingSetforAtemporal-TemporalOneStep_iteration1.arff /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/Temporal_atemporal_seed_words_iteration1.txt
+#-----------------------------------------------------STW on new training set to produce file with 2 or 3 grams--------------------------
+java -classpath /usr/local/weka/weka.jar weka.filters.unsupervised.attribute.StringToWordVector -b -i /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/trainingSetforAtemporal-TemporalOneStep_iteration1.arff -o  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/Ngram/ngram_trainingSetforAtemporal-TemporalOneStep_set_iteration2.arff -c first -r /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/ngram_data_set3.arff -s  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/2-3GramOneStep/ngram_data_output_set3.arff -R 1,2 -O -C -T -I -N 0 -M 1 -tokenizer 'weka.core.tokenizers.NGramTokenizer -min 2 -max 3'
+echo '2nd iteration over'
+#3rd iteration of training --Train Naive Bayes on udated ngram_trainingSetforAtemporal-TemporalOneStep_set with x=5 
+#---------------------------------------------------------------------------------------
+java weka.classifiers.bayes.NaiveBayes -t /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training data/NaiveBayes/Ngram/ngram_trainingSetforAtemporal-TemporalOneStep_set_iteration2.arff -x 5 -c first -i -K -d /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Models/OneStep/NaiveBayesx5Training_iteration3.model > /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Performance/NaiveBayes_iteration3_TS_x5.txt
+#--------------------------------------------------------3rd iteration of Training Over-------------------------------
+#-----------------------------------------------------------------------------------------------------------
+#--------------------------------------------------------3rd iteration of Testing Begins----------------------------------
+
+#------------------------------------------------------------Testing on set 3------------------------------------
+#                                 Test on ngram_data_output_set3.arff using saved NaiveBayes model
+#----------------------------------------------------------------------------------------------------------
+java weka.classifiers.bayes.NaiveBayes -T /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/2-3GramOneStep/ngram_data_output_set3.arff  -l /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Models/OneStep/NaiveBayesx5Training_iteration3.model -p 0> /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Predictions/Prediction_2-3GramDataOutputSet3_NaiveBayes_iteration3.txt
+#-------------------------------------------------------Expansion of training set------------------
+java FindInstancesForProbabilisticExpansion.java  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Predictions/Prediction_2-3GramDataOutputSet3_NaiveBayes_iteration3.txt /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/dataset3 /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/trainingSetforAtemporal-TemporalOneStep_iteration1.arff /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/Temporal_atemporal_seed_words_iteration1.txt
+#-----------------------------------------------------STW on new training set to produce file with 2 or 3 grams--------------------------
+java -classpath /usr/local/weka/weka.jar weka.filters.unsupervised.attribute.StringToWordVector -b -i /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/trainingSetforAtemporal-TemporalOneStep_iteration1.arff  -o  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/Ngram/ngram_trainingSetforAtemporal-TemporalOneStep_set_iteration3.arff -c first -r /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/ngram_data_set4.arff -s  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/2-3GramOneStep/ngram_data_output_set4.arff -R 1,2 -O -C -T -I -N 0 -M 1 -tokenizer 'weka.core.tokenizers.NGramTokenizer -min 2 -max 3'
+echo '3rd iteration over'
+#4th iteration of training --Train Naive Bayes on udated ngram_trainingSetforAtemporal-TemporalOneStep_set with x=5 
+#---------------------------------------------------------------------------------------
+java weka.classifiers.bayes.NaiveBayes -t /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training data/NaiveBayes/Ngram/ngram_trainingSetforAtemporal-TemporalOneStep_set_iteration3.arff -x 5 -c first -i -K -d /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Models/OneStep/NaiveBayesx5Training_iteration4.model > /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Performance/NaiveBayes_iteration4_TS_x5.txt
+#--------------------------------------------------------4th iteration of Training Over-------------------------------
+#-----------------------------------------------------------------------------------------------------------
+#--------------------------------------------------------4th iteration of Testing Begins----------------------------------
+
+#------------------------------------------------------------Testing on set 4-----------------------------------
+#                                 Test on ngram_data_output_set4.arff using saved NaiveBayes model
+#----------------------------------------------------------------------------------------------------------
+java weka.classifiers.bayes.NaiveBayes -T /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/2-3GramOneStep/ngram_data_output_set4.arff  -l /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Models/OneStep/NaiveBayesx5Training_iteration4.model -p 0> /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Predictions/Prediction_2-3GramDataOutputSet4_NaiveBayes_iteration4.txt
+#-------------------------------------------------------Expansion of training set------------------
+java FindInstancesForProbabilisticExpansion.java  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Predictions/Prediction_2-3GramDataOutputSet4_NaiveBayes_iteration4.txt /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/dataset4 /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/trainingSetforAtemporal-TemporalOneStep_iteration1.arff /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/Temporal_atemporal_seed_words_iteration1.txt
+#-----------------------------------------------------STW on new training set to produce file with 2 or 3 grams--------------------------
+java -classpath /usr/local/weka/weka.jar weka.filters.unsupervised.attribute.StringToWordVector -b -i /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/trainingSetforAtemporal-TemporalOneStep_iteration1.arff  -o  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/Ngram/ngram_trainingSetforAtemporal-TemporalOneStep_set_iteration4.arff -c first -r /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/ngram_data_set5.arff -s  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/2-3GramOneStep/ngram_data_output_set5.arff -R 1,2 -O -C -T -I -N 0 -M 1 -tokenizer 'weka.core.tokenizers.NGramTokenizer -min 2 -max 3'
+echo '4th iteration over'
+#5th iteration of training --Train Naive Bayes on udated ngram_trainingSetforAtemporal-TemporalOneStep_set with x=5 
+#---------------------------------------------------------------------------------------
+java weka.classifiers.bayes.NaiveBayes -t /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training data/NaiveBayes/Ngram/ngram_trainingSetforAtemporal-TemporalOneStep_set_iteration4.arff -x 5 -c first -i -K -d /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Models/OneStep/NaiveBayesx5Training_iteration5.model > /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Performance/NaiveBayes_iteration5_TS_x5.txt
+#--------------------------------------------------------5th iteration of Training Over-------------------------------
+#-----------------------------------------------------------------------------------------------------------
+#--------------------------------------------------------5th iteration of Testing Begins----------------------------------
+
+#------------------------------------------------------------Testing on set 5-----------------------------------
+#                                 Test on ngram_data_output_set5.arff using saved NaiveBayes model
+#----------------------------------------------------------------------------------------------------------
+java weka.classifiers.bayes.NaiveBayes -T /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/2-3GramOneStep/ngram_data_output_set5.arff  -l /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Models/OneStep/NaiveBayesx5Training_iteration5.model -p 0> /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Predictions/Prediction_2-3GramDataOutputSet5_NaiveBayes_iteration5.txt
+#-------------------------------------------------------Expansion of training set------------------
+java FindInstancesForProbabilisticExpansion.java  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Predictions/Prediction_2-3GramDataOutputSet5_NaiveBayes_iteration5.txt /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/dataset5 /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/trainingSetforAtemporal-TemporalOneStep_iteration1.arff /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/Temporal_atemporal_seed_words_iteration1.txt
+#-----------------------------------------------------STW on new training set to produce file with 2 or 3 grams--------------------------
+java -classpath /usr/local/weka/weka.jar weka.filters.unsupervised.attribute.StringToWordVector -b -i /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/trainingSetforAtemporal-TemporalOneStep_iteration1.arff  -o  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/Ngram/ngram_trainingSetforAtemporal-TemporalOneStep_set_iteration5.arff -c first -r /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/ngram_data_set6.arff -s  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/2-3GramOneStep/ngram_data_output_set6.arff -R 1,2 -O -C -T -I -N 0 -M 1 -tokenizer 'weka.core.tokenizers.NGramTokenizer -min 2 -max 3'
+echo '5th iteration over'
+#6th iteration of training --Train Naive Bayes on udated ngram_trainingSetforAtemporal-TemporalOneStep_set with x=5 
+#---------------------------------------------------------------------------------------
+java weka.classifiers.bayes.NaiveBayes -t /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training data/NaiveBayes/Ngram/ngram_trainingSetforAtemporal-TemporalOneStep_set_iteration5.arff -x 5 -c first -i -K -d /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Models/OneStep/NaiveBayesx5Training_iteration6.model > /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Performance/NaiveBayes_iteration6_TS_x5.txt
+#--------------------------------------------------------6th iteration of Training Over-------------------------------
+#-----------------------------------------------------------------------------------------------------------
+#--------------------------------------------------------6th iteration of Testing Begins----------------------------------
+
+#------------------------------------------------------------Testing on set 6-----------------------------------
+#                                 Test on ngram_data_output_set6.arff using saved NaiveBayes model
+#----------------------------------------------------------------------------------------------------------
+java weka.classifiers.bayes.NaiveBayes -T /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/2-3GramOneStep/ngram_data_output_set6.arff  -l /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Models/OneStep/NaiveBayesx5Training_iteration6.model -p 0> /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Predictions/Prediction_2-3GramDataOutputSet6_NaiveBayes_iteration6.txt
+#-------------------------------------------------------Expansion of training set------------------
+java FindInstancesForProbabilisticExpansion.java  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Predictions/Prediction_2-3GramDataOutputSet6_NaiveBayes_iteration6.txt /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/dataset6 /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/trainingSetforAtemporal-TemporalOneStep_iteration1.arff /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/Temporal_atemporal_seed_words_iteration1.txt
+#-----------------------------------------------------STW on new training set to produce file with 2 or 3 grams--------------------------
+java -classpath /usr/local/weka/weka.jar weka.filters.unsupervised.attribute.StringToWordVector -b -i /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/trainingSetforAtemporal-TemporalOneStep_iteration1.arff  -o  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/Ngram/ngram_trainingSetforAtemporal-TemporalOneStep_set_iteration6.arff -c first -r /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/ngram_data_set7.arff -s  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/2-3GramOneStep/ngram_data_output_set7.arff -R 1,2 -O -C -T -I -N 0 -M 1 -tokenizer 'weka.core.tokenizers.NGramTokenizer -min 2 -max 3'
+echo '6th iteration over'
+#7th iteration of training --Train Naive Bayes on udated ngram_trainingSetforAtemporal-TemporalOneStep_set with x=5 
+#---------------------------------------------------------------------------------------
+java weka.classifiers.bayes.NaiveBayes -t /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training data/NaiveBayes/Ngram/ngram_trainingSetforAtemporal-TemporalOneStep_set_iteration6.arff -x 5 -c first -i -K -d /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Models/OneStep/NaiveBayesx5Training_iteration7.model > /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Performance/NaiveBayes_iteration7_TS_x5.txt
+#--------------------------------------------------------7th iteration of Training Over-------------------------------
+#-----------------------------------------------------------------------------------------------------------
+#--------------------------------------------------------7th iteration of Testing Begins----------------------------------
+
+#------------------------------------------------------------Testing on set 7-----------------------------------
+#                                 Test on ngram_data_output_set7.arff using saved NaiveBayes model
+#----------------------------------------------------------------------------------------------------------
+java weka.classifiers.bayes.NaiveBayes -T /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/2-3GramOneStep/ngram_data_output_set7.arff  -l /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Models/OneStep/NaiveBayesx5Training_iteration7.model -p 0> /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Predictions/Prediction_2-3GramDataOutputSet7_NaiveBayes_iteration7.txt
+#-------------------------------------------------------Expansion of training set------------------
+java FindInstancesForProbabilisticExpansion.java  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Predictions/Prediction_2-3GramDataOutputSet7_NaiveBayes_iteration7.txt /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/dataset7 /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/trainingSetforAtemporal-TemporalOneStep_iteration1.arff /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/Temporal_atemporal_seed_words_iteration1.txt
+#-----------------------------------------------------STW on new training set to produce file with 2 or 3 grams--------------------------
+java -classpath /usr/local/weka/weka.jar weka.filters.unsupervised.attribute.StringToWordVector -b -i /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/trainingSetforAtemporal-TemporalOneStep_iteration1.arff  -o  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/Ngram/ngram_trainingSetforAtemporal-TemporalOneStep_set_iteration7.arff -c first -r /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/ngram_data_set8.arff -s  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/2-3GramOneStep/ngram_data_output_set8.arff -R 1,2 -O -C -T -I -N 0 -M 1 -tokenizer 'weka.core.tokenizers.NGramTokenizer -min 2 -max 3'
+echo '7th iteration over'
+#8th iteration of training --Train Naive Bayes on udated ngram_trainingSetforAtemporal-TemporalOneStep_set with x=5 
+#---------------------------------------------------------------------------------------
+java weka.classifiers.bayes.NaiveBayes -t /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training data/NaiveBayes/Ngram/ngram_trainingSetforAtemporal-TemporalOneStep_set_iteration7.arff -x 5 -c first -i -K -d /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Models/OneStep/NaiveBayesx5Training_iteration8.model > /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Performance/NaiveBayes_iteration8_TS_x5.txt
+#--------------------------------------------------------8th iteration of Training Over-------------------------------
+#-----------------------------------------------------------------------------------------------------------
+#--------------------------------------------------------8th iteration of Testing Begins----------------------------------
+
+#------------------------------------------------------------Testing on set 8-----------------------------------
+#                                 Test on ngram_data_output_set8.arff using saved NaiveBayes model
+#----------------------------------------------------------------------------------------------------------
+java weka.classifiers.bayes.NaiveBayes -T /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/2-3GramOneStep/ngram_data_output_set8.arff  -l /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Models/OneStep/NaiveBayesx5Training_iteration8.model -p 0> /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Predictions/Prediction_2-3GramDataOutputSet8_NaiveBayes_iteration8.txt
+#-------------------------------------------------------Expansion of training set------------------
+java FindInstancesForProbabilisticExpansion.java  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Predictions/Prediction_2-3GramDataOutputSet8_NaiveBayes_iteration8.txt /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/dataset8 /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/trainingSetforAtemporal-TemporalOneStep_iteration1.arff /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/Temporal_atemporal_seed_words_iteration1.txt
+#-----------------------------------------------------STW on new training set to produce file with 2 or 3 grams--------------------------
+java -classpath /usr/local/weka/weka.jar weka.filters.unsupervised.attribute.StringToWordVector -b -i /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/trainingSetforAtemporal-TemporalOneStep_iteration1.arff  -o  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/Ngram/ngram_trainingSetforAtemporal-TemporalOneStep_set_iteration8.arff -c first -r /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/ngram_data_set9.arff -s  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/2-3GramOneStep/ngram_data_output_set9.arff -R 1,2 -O -C -T -I -N 0 -M 1 -tokenizer 'weka.core.tokenizers.NGramTokenizer -min 2 -max 3'
+echo '8th iteration over'
+#9th iteration of training --Train Naive Bayes on udated ngram_trainingSetforAtemporal-TemporalOneStep_set with x=5 
+#---------------------------------------------------------------------------------------
+java weka.classifiers.bayes.NaiveBayes -t /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training data/NaiveBayes/Ngram/ngram_trainingSetforAtemporal-TemporalOneStep_set_iteration8.arff -x 5 -c first -i -K -d /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Models/OneStep/NaiveBayesx5Training_iteration9.model > /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Performance/NaiveBayes_iteration9_TS_x5.txt
+#--------------------------------------------------------9th iteration of Training Over-------------------------------
+#-----------------------------------------------------------------------------------------------------------
+#--------------------------------------------------------9th iteration of Testing Begins----------------------------------
+
+#------------------------------------------------------------Testing on set 9-----------------------------------
+#                                 Test on ngram_data_output_set9.arff using saved NaiveBayes model
+#----------------------------------------------------------------------------------------------------------
+java weka.classifiers.bayes.NaiveBayes -T /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/2-3GramOneStep/ngram_data_output_set9.arff  -l /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Models/OneStep/NaiveBayesx5Training_iteration9.model -p 0> /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Predictions/Prediction_2-3GramDataOutputSet9_NaiveBayes_iteration9.txt
+#-------------------------------------------------------Expansion of training set------------------
+java FindInstancesForProbabilisticExpansion.java  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Predictions/Prediction_2-3GramDataOutputSet9_NaiveBayes_iteration9.txt /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/dataset9 /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/trainingSetforAtemporal-TemporalOneStep_iteration1.arff /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/Temporal_atemporal_seed_words_iteration1.txt
+#-----------------------------------------------------STW on new training set to produce file with 2 or 3 grams--------------------------
+java -classpath /usr/local/weka/weka.jar weka.filters.unsupervised.attribute.StringToWordVector -b -i /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/trainingSetforAtemporal-TemporalOneStep_iteration1.arff  -o  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/Ngram/ngram_trainingSetforAtemporal-TemporalOneStep_set_iteration9.arff -c first -r /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/ngram_data_set10.arff -s  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/2-3GramOneStep/ngram_data_output_set10.arff -R 1,2 -O -C -T -I -N 0 -M 1 -tokenizer 'weka.core.tokenizers.NGramTokenizer -min 2 -max 3'
+echo '9th iteration over'
+#10th iteration of training --Train Naive Bayes on udated ngram_trainingSetforAtemporal-TemporalOneStep_set with x=5 
+#---------------------------------------------------------------------------------------
+java weka.classifiers.bayes.NaiveBayes -t /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training data/NaiveBayes/Ngram/ngram_trainingSetforAtemporal-TemporalOneStep_set_iteration9.arff -x 5 -c first -i -K -d /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Models/OneStep/NaiveBayesx5Training_iteration10.model > /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Performance/NaiveBayes_iteration10_TS_x5.txt
+#--------------------------------------------------------10th iteration of Training Over-------------------------------
+#-----------------------------------------------------------------------------------------------------------
+#--------------------------------------------------------10th iteration of Testing Begins----------------------------------
+
+#------------------------------------------------------------Testing on set 10-----------------------------------
+#                                 Test on ngram_data_output_set10.arff using saved NaiveBayes model
+#----------------------------------------------------------------------------------------------------------
+java weka.classifiers.bayes.NaiveBayes -T /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/2-3GramOneStep/ngram_data_output_set10.arff  -l /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Models/OneStep/NaiveBayesx5Training_iteration10.model -p 0> /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Predictions/Prediction_2-3GramDataOutputSet10_NaiveBayes_iteration10.txt
+#-------------------------------------------------------Expansion of training set------------------
+java FindInstancesForProbabilisticExpansion.java  /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Predictions/Prediction_2-3GramDataOutputSet10_NaiveBayes_iteration10.txt /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/TestData/DatasetInChunks/dataset10 /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/trainingSetforAtemporal-TemporalOneStep_iteration1.arff /home/mtech/dipawesh.mtcs14/Hindi_wordnet_time_tagging/Expanded_Training_data/NaiveBayes/0gram/Temporal_atemporal_seed_words_iteration1.txt
+echo '10th iteration over'
