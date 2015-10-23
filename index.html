@@ -30,22 +30,24 @@
 
 <p>Inspired from Tempowordnet for English , we propose to build Tempo-IndoWordnet  : a temporal resource for Hindi Language. Ultimate aim of this research is to provide a resource for Hindi using which temporal information can be accessed effectively. For achieving the aim, temporal classifiers are built and learnt in two steps on initial set of seed words representing five classes past, present, future, neutral and atemporal to classify entire Hindi wordnet among these classes. In first step entire Hindi wordnet is classified in two classes temporal and atemporal. In second step the instances which are predicted as temporal in preceding step are classified into four classes past, present, future and neutral. Classes and their meanings are as follows :</p>
 
-<p>past : Indicates "already happened" time sense
-present : indicates "currently going on" time sense
-future : Indicates "about to happen sense" time sense
-neutral : Indicates that time sense  is present but can not be categorized particularly among any of aforementioned classes
-aneutral : Indicates absence of time sense</p>
+<ul>
+<li>past : Indicates "already happened" time sense</li>
+<li>present : indicates "currently going on" time sense</li>
+<li>future : Indicates "about to happen sense" time sense</li>
+<li>neutral : Indicates that time sense  is present but can not be categorized particularly among any of aforementioned classes</li>
+<li>aneutral : Indicates absence of time sense</li>
+</ul>
 
 <h1>
 <a id="problem-statement" class="anchor" href="#problem-statement" aria-hidden="true"><span class="octicon octicon-link"></span></a>Problem Statement</h1>
 
 <p>Given a Hindi wordnet, annotate each synset present in it with temporal information it denotes. i.e. classify each synset among five classes past, present, future, neutral and atemporal. e.g.</p>
 
-<p>Word : कल 
-Synset : भविष्य, भविष्य काल, आगामी समय, उत्तरकाल, उत्तर-काल, उत्तर काल, भावी समय, आने वाला समय, अगत, अप्राप्तकाल, अवर्त्तमान, अवर्तमान, आगम, आगाह 
-Gloss : आने वाला काल या समय
-Example sentence : "भविष्य में क्या होगा कोई नहीं जानता । / कल किसने देखा है ।"
-Temporal annotation : Future</p>
+<p>Word : कल<br>
+Synset : भविष्य, भविष्य काल, आगामी समय, उत्तरकाल, उत्तर-काल, उत्तर काल, भावी समय, आने वाला समय, अगत, अप्राप्तकाल, अवर्त्तमान, अवर्तमान, आगम, आगाह<br>
+Gloss : आने वाला काल या समय<br>
+Example sentence : "भविष्य में क्या होगा कोई नहीं जानता । / कल किसने देखा है ।"<br>
+Temporal annotation : Future      </p>
 
 <h1>
 <a id="chanlleges" class="anchor" href="#chanlleges" aria-hidden="true"><span class="octicon octicon-link"></span></a>Chanlleges</h1>
@@ -53,15 +55,15 @@ Temporal annotation : Future</p>
 <p>Polysemous words can have different temporal annotation for each sense. Notice different annotation for same word "कल" for each of its sense in below example.</p>
 
 <ol>
-<li><p>word :  कल
-Synset : अतीत, अतीतकाल, भूतकाल, अतीत काल, कल, भूत काल, गत काल,पिछला ज़माना, पूर्वकाल 
-Gloss : बीता हुआ समय या काल
-Example Sentense : "यह उपन्यास अतीत की घटनाओं पर आधारित है । / कल की बातों को याद करके दुखी होना अच्छा नहीं ।" 
+<li><p>word :  कल<br>
+Synset : अतीत, अतीतकाल, भूतकाल, अतीत काल, कल, भूत काल, गत काल,पिछला ज़माना, पूर्वकाल<br>
+Gloss : बीता हुआ समय या काल<br>
+Example Sentense : "यह उपन्यास अतीत की घटनाओं पर आधारित है । / कल की बातों को याद करके दुखी होना अच्छा नहीं ।"<br>
 Temporal Annotation : Past</p></li>
-<li><p>word : कल
-Synset : कल
-Gloss :  आज के बाद आनेवाले पहले दिन को 
-Example sentense : "मैं कल घर जाऊँगा ।" 
+<li><p>word : कल<br>
+Synset : कल<br>
+Gloss :  आज के बाद आनेवाले पहले दिन को<br>
+Example sentense : "मैं कल घर जाऊँगा ।"<br>
 Temporal Annotation :  Future</p></li>
 </ol>
 
