@@ -1,11 +1,11 @@
-# ProjectHWTT
+## ProjectHWTT
 Temporal resource for Hindi Language
 
-##Directory structure of project
+### Directory structure of project
 -----------------------------------------
-###TIWC-OneStep-- Tempo-Indo wordnet with one step classification approach.
+* TIWC-OneStep-- Tempo-Indo wordnet with one step classification approach.
 
-###TIWC-TwoStep-- Tempo-Indo wordnet with two step classification approach
+* TIWC-TwoStep-- Tempo-Indo wordnet with two step classification approach
 
 * TIWC-TwoStep/FirstStep-- Consists of files generated or used in first step of two step classification approach. Subfolders are explained in subfolder section.
 
